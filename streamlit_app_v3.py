@@ -2,7 +2,6 @@ import os
 import re
 import glob
 import html
-import hashlib
 from uuid import uuid4
 from datetime import datetime
 from pathlib import Path
@@ -36,7 +35,7 @@ if not GOOGLE_API_KEY:
 
 MODEL_NAME = "gemini-2.5-flash"
 DATA_DIR = Path("data")
-K = 4  # top-k chunks for retrieval
+K = 4
 
 # =========================
 # UI HELPERS (bubbles)
@@ -80,6 +79,10 @@ def render_bubble(role: str, text: str):
         unsafe_allow_html=True,
     )
 
+
+# =========================
+# KNOWLEDGE HELPERS (Retrieval)
+# =========================
 def _load_md_documents(folder: Path):
     docs = []
     for path in sorted(glob.glob(str(folder / "**/*.md"), recursive=True)):
