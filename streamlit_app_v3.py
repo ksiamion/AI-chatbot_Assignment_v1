@@ -12,10 +12,7 @@ import streamlit as st
 from prompt import SYSTEM_PROMPT
 
 # LangChain / Gemini / FAISS
-from langchain_google_genai import (
-    ChatGoogleGenerativeAI,
-    GoogleGenerativeAIEmbeddings,
-)
+from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
@@ -24,7 +21,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableWithMessageHistory
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_community.chat_message_histories import StreamlitChatMessageHistory
-
+from langchain_community.embeddings import HuggingFaceEmbeddings  # <-- switched embeddings
 
 # =========================
 # CONFIG
@@ -41,7 +38,6 @@ MODEL_NAME = "gemini-2.5-flash"
 DATA_DIR = Path("data")
 K = 4  # top-k chunks for retrieval
 
-
 # =========================
 # UI HELPERS (bubbles)
 # =========================
@@ -50,7 +46,6 @@ def _compact_newlines(text: str) -> str:
     t = re.sub(r"[ \t]+\n", "\n", t)
     t = re.sub(r"\n{3,}", "\n\n", t)
     return t.strip()
-
 
 def render_bubble(role: str, text: str):
     if role == "assistant":
@@ -85,7 +80,6 @@ def render_bubble(role: str, text: str):
         unsafe_allow_html=True,
     )
 
-
 def _load_md_documents(folder: Path):
     docs = []
     for path in sorted(glob.glob(str(folder / "**/*.md"), recursive=True)):
@@ -93,10 +87,9 @@ def _load_md_documents(folder: Path):
         docs.append(Document(page_content=text, metadata={"source": path}))
     return docs
 
-
 @st.cache_resource(show_spinner=True)
 def _build_retriever():
-    """Builds FAISS from all .md files and returns a retriever. Cached by fingerprint."""
+    """Builds FAISS from all .md files and returns a retriever. Cached by environment/session."""
     docs = _load_md_documents(DATA_DIR)
     if not docs:
         raise RuntimeError(f"No .md files found in {DATA_DIR}/ (add at least one).")
@@ -104,7 +97,13 @@ def _build_retriever():
     splitter = RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=150)
     chunks = splitter.split_documents(docs)
 
-    embeddings = GoogleGenerativeAIEmbeddings(model="text-embedding-004", api_key=GOOGLE_API_KEY)
+    # ---- Sentence Transformers embeddings (no Gemini rate limits) ----
+    embeddings = HuggingFaceEmbeddings(
+        model_name="sentence-transformers/all-MiniLM-L6-v2",
+        model_kwargs={"device": "cpu"},
+        encode_kwargs={"normalize_embeddings": True},  # cosine-like similarity with FAISS L2
+    )
+
     vs = FAISS.from_documents(chunks, embeddings)
 
     # Optional: persist within container lifetime (not relied upon on Cloud)
@@ -116,10 +115,8 @@ def _build_retriever():
 
     return vs.as_retriever(search_kwargs={"k": K})
 
-
 def get_retriever():
     return _build_retriever()
-
 
 # =========================
 # RAG CHAIN
@@ -131,7 +128,6 @@ def format_docs_with_markers(docs):
         src = d.metadata.get("source", "source.md")
         out.append(f"[{i}] Source: {src}\n{d.page_content}")
     return "\n\n".join(out)
-
 
 def make_chain(retriever):
     prompt = ChatPromptTemplate.from_messages([
@@ -160,7 +156,6 @@ def make_chain(retriever):
         | StrOutputParser()
     )
     return chain
-
 
 # =========================
 # SESSION INIT
