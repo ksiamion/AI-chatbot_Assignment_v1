@@ -124,15 +124,15 @@ def get_retriever():
 def format_docs_with_markers(docs):
     """Add bracket markers [1], [2], ... and include source in each chunk."""
     out = []
-    # for i, d in enumerate(docs, 1):
-    #     src = d.metadata.get("source", "source.md")
-    #     out.append(f"[{i}] Source: {src}\n{d.page_content}")
+    for i, d in enumerate(docs, 1):
+        src = d.metadata.get("source", "source.md")
+        out.append(f"[{i}] Source: {src}\n{d.page_content}")
     with st.sidebar.expander("🔍 Retrieved Context", expanded=False):
         for i, d in enumerate(docs, 1):
             st.markdown(f"**Chunk {i}:** {d.metadata.get('source', 'unknown')}")
             st.write(d.page_content[:1000] + ("..." if len(d.page_content) > 1000 else ""))
             st.markdown("---")
-
+        print("Number of retreived documents:", len(out))
     return "\n\n".join(out)
 
 def make_chain(retriever):
