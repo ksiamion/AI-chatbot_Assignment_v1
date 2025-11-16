@@ -1,55 +1,58 @@
-import streamlit as st
-from google import genai
-from uuid import uuid4          # <-- add this line
-from datetime import datetime
-import json, re
-import requests
+import os
+import re
+import glob
 import html
+import hashlib
+from uuid import uuid4
+from datetime import datetime
+from pathlib import Path
 
-# ---- Importing System Prompt ----
+import streamlit as st
+
 from prompt import SYSTEM_PROMPT
 
-# ---- Secure client ----
-client = genai.Client(api_key=st.secrets['GEMINI_API_KEY'])
-MODEL_NAME = "gemini-2.5-flash"
-chat_client = client.chats.create(model=MODEL_NAME)
+# LangChain / Gemini / FAISS
+from langchain_google_genai import (
+    ChatGoogleGenerativeAI,
+    GoogleGenerativeAIEmbeddings,
+)
+from langchain_community.vectorstores import FAISS
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_core.documents import Document
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.runnables import RunnableWithMessageHistory
+from langchain_core.messages import AIMessage, HumanMessage
+from langchain_community.chat_message_histories import StreamlitChatMessageHistory
 
-st.title("Wireless Support Bot")
 
-# Session state init
-if "messages" not in st.session_state:
-    st.session_state.messages = [{"role": "system", "content": SYSTEM_PROMPT}]
-if "user_input" not in st.session_state:
-    st.session_state.user_input = ""
-if "chat_closed" not in st.session_state:
-    st.session_state.chat_closed = False
-if "bootstrapped" not in st.session_state:
-    st.session_state.bootstrapped = False
-if "session_id" not in st.session_state:
-    st.session_state.session_id = str(uuid4())
-if "started_at" not in st.session_state:
-    st.session_state.started_at = datetime.utcnow().isoformat() + "Z"
-if "prolific_id" not in st.session_state:
-    st.session_state.prolific_id = ""
-if "saved_once" not in st.session_state:
-    st.session_state.saved_once = False
-
-END_TOKEN = "[END_OF_CHAT]"
 # =========================
-# HELPERS
+# CONFIG
+# =========================
+st.set_page_config(page_title="Yelp Bot (RAG)", page_icon="📡")
+st.title("Yelp Bot")
+
+GOOGLE_API_KEY = st.secrets.get("GEMINI_API_KEY") or os.environ.get("GEMINI_API_KEY")
+if not GOOGLE_API_KEY:
+    st.error("Missing GEMINI_API_KEY (set it in Streamlit secrets).")
+    st.stop()
+
+MODEL_NAME = "gemini-2.5-flash"
+DATA_DIR = Path("data")
+K = 4  # top-k chunks for retrieval
+
+
+# =========================
+# UI HELPERS (bubbles)
 # =========================
 def _compact_newlines(text: str) -> str:
-    # normalize newlines
     t = text.replace("\r\n", "\n").replace("\r", "\n")
-    # drop whitespace-only lines
     t = re.sub(r"[ \t]+\n", "\n", t)
-    # collapse 3+ consecutive line breaks to just one blank line
     t = re.sub(r"\n{3,}", "\n\n", t)
     return t.strip()
 
-# ---- Colored chat bubbles (helper) ----
+
 def render_bubble(role: str, text: str):
-    # Colors
     if role == "assistant":
         label = "Assistant"
         bg = "#E8F5FF"   # light blue
@@ -61,7 +64,6 @@ def render_bubble(role: str, text: str):
         border = "#FFD8A8"
         justify = "flex-end"
 
-    # Compact spacing and escape HTML
     compact = _compact_newlines(text)
     safe = html.escape(compact).replace("\n", "<br>")
 
@@ -83,108 +85,128 @@ def render_bubble(role: str, text: str):
         unsafe_allow_html=True,
     )
 
-def _messages_without_system():
-    return [m for m in st.session_state.messages if m["role"] != "system"]
 
-def _payload(include_system: bool = False):
-    msgs = st.session_state.messages if include_system else _messages_without_system()
-    return {
-        "session_id": st.session_state.session_id,
-        "started_at": st.session_state.started_at,
-        "ended_at": datetime.utcnow().isoformat() + "Z" if st.session_state.chat_closed else None,
-        "prolific_id": st.session_state.prolific_id or None,
-        "messages": msgs,
-    }
+def _load_md_documents(folder: Path):
+    docs = []
+    for path in sorted(glob.glob(str(folder / "**/*.md"), recursive=True)):
+        text = Path(path).read_text(encoding="utf-8", errors="ignore")
+        docs.append(Document(page_content=text, metadata={"source": path}))
+    return docs
 
-def _maybe_capture_prolific_id(text: str):
-    # Best-effort: first user message is treated as an ID, otherwise find an alphanumeric 12+ token.
-    if not st.session_state.prolific_id:
-        if sum(1 for m in st.session_state.messages if m["role"] == "user") == 0:
-            st.session_state.prolific_id = text.strip()
-            return
-        m = re.search(r"\b([A-Za-z0-9]{12,})\b", text)
-        if m:
-            st.session_state.prolific_id = m.group(1)
 
-def _save_to_drive_once():
-    """POST the full transcript to your Apps Script Web App once (no links shown to users)."""
-    if st.session_state.saved_once:
-        return
+@st.cache_resource(show_spinner=True)
+def _build_retriever():
+    """Builds FAISS from all .md files and returns a retriever. Cached by fingerprint."""
+    docs = _load_md_documents(DATA_DIR)
+    if not docs:
+        raise RuntimeError(f"No .md files found in {DATA_DIR}/ (add at least one).")
+
+    splitter = RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=150)
+    chunks = splitter.split_documents(docs)
+
+    embeddings = GoogleGenerativeAIEmbeddings(model="text-embedding-004", api_key=GOOGLE_API_KEY)
+    vs = FAISS.from_documents(chunks, embeddings)
+
+    # Optional: persist within container lifetime (not relied upon on Cloud)
     try:
-        base = st.secrets["WEBHOOK_URL"].rstrip("?")
-        # Optional token support: if WEBHOOK_TOKEN is provided, append it; else just use base.
-        token = st.secrets.get("WEBHOOK_TOKEN")
-        url = f"{base}?token={token}" if token else base
+        Path("index").mkdir(parents=True, exist_ok=True)
+        vs.save_local("index")
+    except Exception:
+        pass
 
-        r = requests.post(url, json=_payload(False), timeout=10)
-        if r.status_code == 200 and (r.text or "").strip().startswith("OK"):
-            st.session_state.saved_once = True
-        else:
-            st.sidebar.warning(f"Admin note: webhook save failed ({r.status_code}): {r.text[:200]}")
-    except Exception as e:
-        st.sidebar.warning(f"Admin note: webhook error: {e}")
+    return vs.as_retriever(search_kwargs={"k": K})
 
-def _append_assistant_reply_from_model():
-    response = chat_client.send_message(st.session_state.messages)
-    raw = response.text
-    if END_TOKEN in raw:
-        visible = raw.split(END_TOKEN)[0].rstrip()
-        st.session_state.chat_closed = True
-    else:
-        visible = raw
 
-    st.session_state.messages.append({"role": "assistant", "content": visible})
+def get_retriever():
+    return _build_retriever()
 
-    # If the chat ended this turn, save logs to Drive (admin-only, silent)
-    if st.session_state.chat_closed:
-        _save_to_drive_once()
 
 # =========================
-# AUTO-START (assistant speaks first)
+# RAG CHAIN
 # =========================
+def format_docs_with_markers(docs):
+    """Add bracket markers [1], [2], ... and include source in each chunk."""
+    out = []
+    for i, d in enumerate(docs, 1):
+        src = d.metadata.get("source", "source.md")
+        out.append(f"[{i}] Source: {src}\n{d.page_content}")
+    return "\n\n".join(out)
 
-if not st.session_state.bootstrapped:
-    if len(st.session_state.messages) == 1:
-        _append_assistant_reply_from_model()
-    st.session_state.bootstrapped = True
 
-# =========================
-# RENDER HISTORY
-# =========================
+def make_chain(retriever):
+    prompt = ChatPromptTemplate.from_messages([
+        ("system", SYSTEM_PROMPT),
+        MessagesPlaceholder("history"),
+        ("human", "Question: {question}\n\nUse the context below.\n\n{context}"),
+    ])
 
-#replaced
-#for msg in st.session_state.messages[1:]:
-#    st.write(f"**{msg['role'].capitalize()}:** {msg['content']}")
-# ---- Render history (skip system prompt) ----
-
-for msg in st.session_state.messages[1:]:
-    render_bubble(msg["role"], msg["content"])
-# =========================
-# INPUT HANDLING
-# =========================
-
-def send_message():
-    if st.session_state.chat_closed:
-        return
-    text = st.session_state.user_input.strip()
-    if not text:
-        return
-    _maybe_capture_prolific_id(text)
-    st.session_state.messages.append({"role": "user", "content": text})
-    _append_assistant_reply_from_model()
-    st.session_state.user_input = ""
-    # No st.rerun() in callbacks (no-op); Streamlit auto-reruns.
-
-if st.session_state.chat_closed:
-    st.info("🔒 End of chat. Thank you! Please return to the survey to complete all questions.")
-    if st.button("Start a new chat"):
-        sid = str(uuid4())
-        st.session_state.clear()
-        st.session_state.session_id = sid
-else:
-    st.text_input(
-        "You:",
-        key="user_input",
-        placeholder="Type your message… (press Enter to send)",
-        on_change=send_message,
+    llm = ChatGoogleGenerativeAI(
+        model=MODEL_NAME,
+        api_key=GOOGLE_API_KEY,
     )
+
+    def retrieve_context(x):
+        docs = retriever.get_relevant_documents(x["question"])
+        return format_docs_with_markers(docs)
+
+    chain = (
+        {
+            "question": lambda x: x["question"],
+            "context": retrieve_context,
+            "history": lambda x: x["history"],
+        }
+        | prompt
+        | llm
+        | StrOutputParser()
+    )
+    return chain
+
+
+# =========================
+# SESSION INIT
+# =========================
+if "session_id" not in st.session_state:
+    st.session_state.session_id = str(uuid4())
+if "started_at" not in st.session_state:
+    st.session_state.started_at = datetime.utcnow().isoformat() + "Z"
+
+# Build retriever (cached) and chain
+retriever = get_retriever()
+base_chain = make_chain(retriever)
+
+history = StreamlitChatMessageHistory(key="chat_history")
+rag_with_history = RunnableWithMessageHistory(
+    base_chain,
+    lambda sid: history,
+    input_messages_key="question",
+    history_messages_key="history",
+)
+
+# First assistant message (optional)
+if len(history.messages) == 0:
+    history.add_ai_message("Hi! I’m your Yelp Bot. Ask me anything about any business in Tucson.")
+
+# Sidebar controls
+with st.sidebar:
+    st.subheader("Knowledge")
+    st.caption("All `.md` files under `data/` are indexed at startup.")
+    if st.button("🔁 Rebuild index"):
+        _build_retriever.clear()  # clear cache; next access rebuilds
+        st.success("Index cache cleared. It will rebuild on the next message.")
+
+# Render chat history with bubbles
+for m in history.messages:
+    role = "assistant" if isinstance(m, AIMessage) else "user"
+    render_bubble(role, m.content)
+
+# Input (chat style)
+user_text = st.chat_input("Type your message…")
+if user_text:
+    render_bubble("user", user_text)
+
+    response = rag_with_history.invoke(
+        {"question": user_text},
+        config={"configurable": {"session_id": st.session_state.session_id}},
+    )
+
+    render_bubble("assistant", response)
