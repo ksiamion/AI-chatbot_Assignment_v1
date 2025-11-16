@@ -142,7 +142,7 @@ def make_chain(retriever):
     )
 
     def retrieve_context(x):
-        docs = retriever.get_relevant_documents(x["question"])
+        docs = retriever.invoke(x["question"])
         return format_docs_with_markers(docs)
 
     chain = (
