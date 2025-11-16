@@ -127,6 +127,7 @@ def format_docs_with_markers(docs):
     for i, d in enumerate(docs, 1):
         src = d.metadata.get("source", "source.md")
         out.append(f"[{i}] Source: {src}\n{d.page_content}")
+    print(out)
     return "\n\n".join(out)
 
 def make_chain(retriever):
