@@ -10,8 +10,7 @@
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 11
-- **Check-ins Total:** 5430    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -35,7 +34,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 23
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -59,8 +58,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 9
-- **Check-ins Total:** 3290    25
-Name: count, dtype: int64
+- **Check-ins Total:** 25
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -84,7 +82,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 22
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -108,8 +106,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Has T V, Good For Kids, Restaurants Delivery, Drive Thru
 - **Overall Rating:** 1.0
 - **Review Count:** 74
-- **Check-ins Total:** 4321    28
-Name: count, dtype: int64
+- **Check-ins Total:** 28
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -136,8 +133,7 @@ Mmm love me some original fried chicken! Horrible service. Hardly ever has chick
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 5
-- **Check-ins Total:** 2031    20
-Name: count, dtype: int64
+- **Check-ins Total:** 20
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -161,7 +157,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -188,7 +184,7 @@ Very inconsiderate business!
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 9
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -212,7 +208,7 @@ Very inconsiderate business!
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -236,8 +232,7 @@ Very inconsiderate business!
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 51
-- **Check-ins Total:** 328    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “I have had Century Link landline service for 3 months, I have had trouble with every time that it rained the line went dead, so I called the first time it happened and my friend fixed it, we then thought it was a problem with our inside equipment, i.e. landline phones,  so I called that first time and the repair would take place that same day within a couple of hours, then I cancelled because we thought we had fixed it, the second time it happened, two days ago, same thing they sent a repair person that day, I am very impressed with them and do not want to find out about how bad the DSL is, we still have Cox for internet/streaming, all I do know is that in this case I really like them and feel that if I have more trouble I will have help because of this company.”
@@ -264,8 +259,7 @@ Slower than Gary the snail. Slowest internet ever
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 9
-- **Check-ins Total:** 7451    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -292,7 +286,7 @@ FYI: the water heater for some units is located INSIDE the master bedroom closet
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -316,7 +310,7 @@ FYI: the water heater for some units is located INSIDE the master bedroom closet
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 9
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -340,8 +334,7 @@ FYI: the water heater for some units is located INSIDE the master bedroom closet
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 9
-- **Check-ins Total:** 2884    6
-Name: count, dtype: int64
+- **Check-ins Total:** 6
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -365,8 +358,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Wheelchair Accessible, Restaurants Delivery, Restaurants Take Out
 - **Overall Rating:** 1.0
 - **Review Count:** 5
-- **Check-ins Total:** 4946    25
-Name: count, dtype: int64
+- **Check-ins Total:** 25
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -393,7 +385,7 @@ Some weird customers, nice employees :) Very clean.
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 8
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -417,8 +409,7 @@ Some weird customers, nice employees :) Very clean.
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 5
-- **Check-ins Total:** 2287    10
-Name: count, dtype: int64
+- **Check-ins Total:** 10
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -446,8 +437,7 @@ Here on occasion? It's chaos ! Beware expired promotions for 15 off 50$ gift car
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 14
-- **Check-ins Total:** 7782    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -474,7 +464,7 @@ Nice place friendly staff clean place dose events Run away as fast as you can, t
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 24
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -501,8 +491,7 @@ Run! Save yourself the hassle & take your money elsewhere.
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 19
-- **Check-ins Total:** 2600    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “I had to stay at a place while looking for off campus student housing. I wanted it bare bones and CHEAP! Right down the street is a Best Western that had FANTASTIC rooms with everything...for about $65 a night. So the whining pussies on here that gave this place a bad rating were simply being greedy. You are not going to get a best western or above type room for $28 a night...just not going to happen! You STAY at a place like COPPER CACTUS INN for 2 reasons: location and price and NOTHING ELSE! It is 1 block to pima community college,..... across the street from the famous MEET MARKET dive bar.  ......2 min drive to the U of A, etc, etc, etc....  i enjoyed handing over a twenty a five and 3 ones for my stay. I would not have enjoyed handing over 3 twenties just to have a flat screen and a cleaner room.  I am giving this place 5 stars because at 10:30pm at night...my window aircon quit working. I went over to the manager window expecting to be told to wait until morning, but instead, the manager, his wife, and his son, got a BRAND NEW airconditioner out of their storage, came by and replaced it and 30 mins later, I was relaxing on my cheap bed watching my cheap tv in cool cool comfort before I passed out into la la land. BOTTOM LINE: If you are a PUSSY and a SHIT FOR BRAINS.....pony up $60 or $70 and STAY at the Best Western.  If you are a REAL man that has any true grit...been in the military, not born with a silver spoon in your mouth etc....you can handle the COPPER CACTUS INN.  All others: Please please please close your legs.....we can see your vagina!”
@@ -526,7 +515,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -550,8 +539,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 14
-- **Check-ins Total:** 6947    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -578,8 +566,7 @@ Rude staff. To get the room door open you have to kick it like a cop!!
 - **Attributes:** Good For Kids, Bike Parking, Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 9
-- **Check-ins Total:** 1493    5
-Name: count, dtype: int64
+- **Check-ins Total:** 5
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -603,8 +590,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 6
-- **Check-ins Total:** 1288    24
-Name: count, dtype: int64
+- **Check-ins Total:** 24
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -628,8 +614,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 6
-- **Check-ins Total:** 4286    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -657,7 +642,7 @@ k, Rick valley, Jim Baker all whiteniggers losers... A shitty school
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -684,7 +669,7 @@ Horrible costumer service, they say one thing and mean another. Dave the warehou
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 8
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I truly enjoy living here.  The staff and management go above and beyond to have events for their residents. They take recommendations from treatments. They have upgraded all of the pool equipment.”
@@ -709,7 +694,7 @@ Horrible costumer service, they say one thing and mean another. Dave the warehou
 - **Attributes:** By Appointment Only, Outdoor Seating, Has T V, Business Accepts Credit Cards, Happy Hour, Bike Parking
 - **Overall Rating:** 1.0
 - **Review Count:** 51
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Went to the Margarita Crawl in El Paso. Event was cool and all bars had cheap discounted drinks!”
@@ -736,7 +721,7 @@ Waste of money Scam!
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -760,8 +745,7 @@ Waste of money Scam!
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 5
-- **Check-ins Total:** 1796    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -785,8 +769,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 15
-- **Check-ins Total:** 5638    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -810,8 +793,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 5
-- **Check-ins Total:** 1417    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “I wish I would have found this place sooner .Since I'm smack dab in between places to live, this is the perfect place... more than a hotel and pretty affordable.”
@@ -835,8 +817,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 28
-- **Check-ins Total:** 7518    64
-Name: count, dtype: int64
+- **Check-ins Total:** 64
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -863,7 +844,7 @@ TEP has a neo nazi skinhead working at the power plant and has for years. There 
 - **Attributes:** By Appointment Only, Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 19
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -887,8 +868,7 @@ TEP has a neo nazi skinhead working at the power plant and has for years. There 
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 6
-- **Check-ins Total:** 4270    5
-Name: count, dtype: int64
+- **Check-ins Total:** 5
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -912,8 +892,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Wheelchair Accessible, Has T V
 - **Overall Rating:** 1.0
 - **Review Count:** 7
-- **Check-ins Total:** 6644    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -937,7 +916,7 @@ Name: count, dtype: int64
 - **Attributes:** Drive Thru, Restaurants Delivery
 - **Overall Rating:** 1.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -964,7 +943,7 @@ Nasty old tacos i wont be back to this place
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -988,7 +967,7 @@ Nasty old tacos i wont be back to this place
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1012,7 +991,7 @@ Nasty old tacos i wont be back to this place
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1036,8 +1015,7 @@ Nasty old tacos i wont be back to this place
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 7
-- **Check-ins Total:** 4880    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1061,8 +1039,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 6
-- **Check-ins Total:** 874    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1086,8 +1063,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.0
 - **Review Count:** 17
-- **Check-ins Total:** 5057    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1111,7 +1087,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1135,7 +1111,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1159,7 +1135,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1187,7 +1163,7 @@ I own a property next to one of his.  He rents to dodgy people. The police helic
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1211,8 +1187,7 @@ I own a property next to one of his.  He rents to dodgy people. The police helic
 - **Attributes:** Accepts Insurance, By Appointment Only
 - **Overall Rating:** 1.0
 - **Review Count:** 13
-- **Check-ins Total:** 6119    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1236,8 +1211,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 6
-- **Check-ins Total:** 2700    15
-Name: count, dtype: int64
+- **Check-ins Total:** 15
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1264,7 +1238,7 @@ Will not work with customers!
 - **Attributes:** 
 - **Overall Rating:** 1.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1288,7 +1262,7 @@ Will not work with customers!
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 11
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Very fast response time and efficient safe removal. I was impressed. Tom Martin of AAA is a bee scientist - he is very knowledgeable and took the time to explain the difference between our native bees and the Africanized bees that must be exterminated by law. In fact Tom WROTE the law. He's great. His company is great.  I highly recommend them. When possible, his team saves the native bees which can be saved and move them appropriate places to pollinate. Call these guys first!”
@@ -1312,8 +1286,7 @@ Will not work with customers!
 - **Attributes:** Accepts Insurance, Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 11
-- **Check-ins Total:** 6930    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “I have been taking my boy here since he was a toddler. I was very sad this week because it's my boy's last yearly well check with Dr. Nomaan My boy turns 18 next year! I'm sad to have to find him a new physician. We'll miss you Dr. Nomaan and Children's Medical Center!”
@@ -1337,8 +1310,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 6
-- **Check-ins Total:** 4317    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - “No pressure sales. Pleasantly surprised that I did business at a dealer. Very pleased with the service I received from them and very pleased with my purchase.  I dealt with Mike, the sales manager, who really worked with me on price and financing. José and his partner, Mark, were great guys. I didn't feel any pressure from them at all to buy a car. You know, getting cornered into an office, feeling like you are being backed into a wall, getting offers that you can't refuse, etc. Now I wasn't sure I was going to buy this car because it literally was the very first AND the only car I test drove. I can't tell you how this completely violates my M.O. on purchasing things. I'm a really good comparison shopper and my family and friends depend on me to major and even minor purchases. So I was extremely hesitant to buy this car even though it seemed that it was everything I wanted.   And to make it even enticing, even though the car's book value was $8k, Mike said he would sell it to me for my asking price of $6k. But then the payments were too large, even with my down payment. I started to look elsewhere. José then kind of bugged me with texts asking if I would buy the car if we got the payments to where I wanted them. I hedged. Again because I still hadn't test drove any other cars. He said to at least come in and give it one more test drive before I dismissed it. I relented and decided to bring my wife with me so she could drive it, too.   Now here's the good part: They just got this car in on a trade. They take the trades into the service department where they inspect the car and give it a full detail job. They do want to sell a car that is in good shape. In this car, they replaced a strut. This made the car ride even smoother than before. I decided to buy it. Mike got my payments way down to where I wanted them to be. I gave them a list of everything I wanted fixed before I took possession. They duplicated the fob and extra key, replaced the bad hydraulic hood support rod, replaced a cabin bulb, fixed the courtesy dome lights so that they would perform like they were supposed to, and fix the errant tire pressure monitor. They did everything. I thought that was impressive.  Mike, José, and Mark are easy to work with and easy to talk with. Mike is a down to earth guy that has been in this business for a long time. It seems that he has great used car deals on his lot. If I had another $10k I would have bought that really nice Jaguar sports car that was priced several thousand below book.  Yes, people, I'm actually recommending that you go to this dealer.   5* = A top favorite. Mind-blowing good. I will definitely return and I will go out of my way to go here. Worth every dime of my money.  4* = Outstanding. Tucson-top-tier. Some elements not quite as good as it gets, but it still is worthy of my regular business.  3* = Good experience. I might do repeat business if it is convenient, the only option, the only one in its category, or on a whim, but would not be among the first thing to come to mind. Would definitely recommend you trying it to get your own take on it.  2* = Not so good. Would not recommend at all. Waste of money.  1* = How are they still in business? Stay away at all costs!”
@@ -1362,8 +1334,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 7
-- **Check-ins Total:** 1048    11
-Name: count, dtype: int64
+- **Check-ins Total:** 11
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1390,8 +1361,7 @@ Good place to work fun friendly environment
 - **Attributes:** Business Accepts Credit Cards, Restaurants Take Out, Good For Kids, Drive Thru, Restaurants Delivery, Caters, Restaurants Good For Groups
 - **Overall Rating:** 1.5
 - **Review Count:** 14
-- **Check-ins Total:** 7977    14
-Name: count, dtype: int64
+- **Check-ins Total:** 14
 
 ## 5★ samples (Positive Reviews)
 - “I think this is the location by El Con Mall I always go thru and it's "Always Packed" and I have been to other locations, Golf links and Kolb, Campbell and Grant, Glenn and Campbell, 22nd Street and Harrison and the El Con Mall location has been the best one lo mein, I don't know if they prepare it different but it taste the best at this location it's good affordable healthy asian fast food”
@@ -1418,7 +1388,7 @@ Veggies, Orange Chicken Had the Shangai Angus Steak with chow mein Horrible! Bee
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I adore this woman! She is always prompt in getting back to me with test results and I can always get her to call me back if I have a question.    It is hard to find endocrinologists in town and she is one of the best. I would see her even if she didn't take my insurance.”
@@ -1442,8 +1412,7 @@ Veggies, Orange Chicken Had the Shangai Angus Steak with chow mein Horrible! Bee
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 6
-- **Check-ins Total:** 1003    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “Switched from Liberty Mutual to GEICO for auto insurance.   Saved $91 on my 6-month policy.   Very happy to be with GEICO!   Sherry Witt”
@@ -1467,7 +1436,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1491,8 +1460,7 @@ Name: count, dtype: int64
 - **Attributes:** Bike Parking, Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 9
-- **Check-ins Total:** 1330    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1519,8 +1487,7 @@ Waiting in line woman " cuts " in front nothing said by check out? Sams club & C
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 12
-- **Check-ins Total:** 2508    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “Absolutely love this place. They have a variety of food options. My favorite dish here is the fried pickles! Their chipotle ranch fries are to die for as well! Kid friendly as well (until 9PM when the bar opens). Love this place so much, my wife and I go here at least twice a month!”
@@ -1545,8 +1512,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 43
-- **Check-ins Total:** 5842    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “I experienced excellent customer service during ordering and installation was superb. Technician, Mike, was an excellent problem solver in connecting both tvs with prime channels and internet. Think great offerings on cable.”
@@ -1575,7 +1541,7 @@ Terrible internet connection at all times. Slowest provider I've ever had.
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “The measure of a good doctor is not only how much he/she knows, but how willing he/she is willing to listen.   Since we were referred to Dr. Duarte by a neighbor, my husband has been singing his praises. He is the third family practitioner (three times is the charm!) we've had in our two years in Tucson.    So. A situation cropped up this week that tested that relationship. My husband was hospitalized for symptoms he'd related to related to Dr. Duarte. Dr. Duarte had (I believe, correctly) referred him to a cardiologist. But still, I chose to accompany my husband into his office visit, with my internet research clutched in my sweaty palm.  I prayed (yes, seriously!) that the doctor would at least listen to me. So, so many (come on, way too many) doctors tune you out if you say the word internet. I get it. I do!  But Dr. Duarte took a few moments to scan my printouts. He left the exam room for a few minutes and when he came back, he endorsed the internet info and suggested we see the appropriate specialist.   The story is probably far from over yet. But right we feel we're on the right road.”
@@ -1602,8 +1568,7 @@ Very unorganized office, every staff member looks angry and not personable to pa
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 32
-- **Check-ins Total:** 3854    14
-Name: count, dtype: int64
+- **Check-ins Total:** 14
 
 ## 5★ samples (Positive Reviews)
 - “I have no idea why this location only has two stars   I was in today, 06-04-20. Barbara was thoughtful and helpful and got me in because she had a cancellation immediately. And the other teller in the bank was very nice young man. And I would definitely go back there before I go to the one on 22nd Way east. I do not like that branch, but I do like the drive-through at that branch, the drive-through ladies are awesome!!! Thanks for reading my review”
@@ -1631,7 +1596,7 @@ This address does not exist Nice
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only
 - **Overall Rating:** 1.5
 - **Review Count:** 12
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “My Tucson Movers is a great moving company, the owner has a lot of integrity.  They moved a friend in the Tucson area without any headaches, everything went smooth.”
@@ -1658,8 +1623,7 @@ Moving is a pain, would be great to hire these folks
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 25
-- **Check-ins Total:** 6437    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “Enhance Openings...all I have to say is WOW. Working with this company has been nothing short of a complete pleasure. We were blown away by our experience. Right out of the gate and throughout the entire process, this business delivered when it came to the foundational pillars of exceptional customer care and service. The owner, Jeff, is fantastic, and every employee we interacted with was equally as wonderful. It was great getting to know Brian and Zach, who spent two weeks at our home installing 34 new Pella windows. Daniel came at the end of the project to lead the installation of our new, rather massive front door and everything could not possibly have gone more smoothly. If you are looking for top notch professionalism and craftsmanship, Enhance Openings is undoubtedly the team for the job. Pick up the phone, give them a call - you won't be disappointed.”
@@ -1688,8 +1652,7 @@ stop with the robo calls!!!!!!! stop with the robo calls!!!!!!!!!!
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 56
-- **Check-ins Total:** 4238    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “This has been the best delivery service we have  received in 13 years!  The driver contacted us about 45 minutes prior to arrival and provided us with enough time to prepare for the delivery.  When Malek and Ramira arrived, they were courteous and professional.  They removed the old oven, and installed the new one with no issues.  We asked them to wear booties, which they did gladly.  Malek gave us an excellent overview of our new stove's functions, and ensured that all the paperwork was in order.  We would definitely use this company again.”
@@ -1718,8 +1681,7 @@ Don't throw away money The worst! 4 delivery guys, all looking like they just ge
 - **Attributes:** By Appointment Only
 - **Overall Rating:** 1.5
 - **Review Count:** 15
-- **Check-ins Total:** 7585    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “As a Realtor with 10 years of experience, I know a good agent when I meet one. I first met Ginny through our mutual participation on the Property Management Committee at the Tucson Association of Realtors, as well as the Small Broker Network. She immediately impressed me with her knowledge of laws and rules regarding real estate and property management. At the time, several large property management companies were being shut down for embezzling large sums of money from their clients. Ginny was one of the first to volunteer ideas and her time to create ways to protect the public from this type of harm. I could see her passion for the industry and for promoting and protecting her clients' best interest.  When I needed to refer my clients to a new property manager, Ginny was the first and only person I called. I knew that my clients' properties and finances would be safe under Imagine Realty's care.  I would not hesitate to recommend Imagine Realty to all my friends and family for their property management needs.”
@@ -1744,8 +1706,7 @@ Name: count, dtype: int64
 - **Attributes:** Bike Parking, Restaurants Take Out, Restaurants Good For Groups, Good For Kids, Has T V, Business Accepts Credit Cards, Drive Thru, Restaurants Delivery
 - **Overall Rating:** 1.5
 - **Review Count:** 83
-- **Check-ins Total:** 862    92
-Name: count, dtype: int64
+- **Check-ins Total:** 92
 
 ## 5★ samples (Positive Reviews)
 - “12-24-19 I came around 1 am with my cousins from out of town and had an excellent customer service experience with dion and his overnight crew!! Exceptional service and friendly faces. You need more of them in the morning to brighten things up a bit. :)”
@@ -1773,7 +1734,7 @@ Save your receipt and do the online survey to get a free Big Mac or Quarter Poun
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 8
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “They leave my nails clean and very beautiful I love the way look after the service I asked for a specific set of nails done and she took her time and they came out amazing”
@@ -1800,8 +1761,7 @@ Don't go here! Awful awful and no customer service skills at all! They leave my 
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 20
-- **Check-ins Total:** 7712    8
-Name: count, dtype: int64
+- **Check-ins Total:** 8
 
 ## 5★ samples (Positive Reviews)
 - “This lodging seems much maligned by reviews, so I was hesitant. But to give credit where credit is due, it was clean, quiet, and the staff was very polite. So there.”
@@ -1825,8 +1785,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 10
-- **Check-ins Total:** 1656    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “Friendly staff, great residents and a good price for a good quality apartment.”
@@ -1850,7 +1809,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1877,8 +1836,7 @@ Look for the free coupon that's mailed in the value pack. Don't go shopping on G
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 96
-- **Check-ins Total:** 3621    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “I work with the Town of Sahuarita in helping with the organization of events.  Some of these events bring in anywhere from 1000 people to 15000 people. While putting on our biggest event of the year "Fiesta Sahuarita" Republic Services did an outstanding job in providing our event with a display vehicle and approximately 80 large totes; both recycling and general trash.  The employees were hard working and would interact with anyone who had questions.  Republic services made our event a smooth one and definitely made our process a lot smoother. Thank you Republic Services!”
@@ -1904,8 +1862,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 23
-- **Check-ins Total:** 2239    5
-Name: count, dtype: int64
+- **Check-ins Total:** 5
 
 ## 5★ samples (Positive Reviews)
 - “Last week I received a birthday themed bouquet of flowers that were stunning! The flowers were exceptionally fresh and beautifully arranged. They lasted a whole week. I was very impressed and would order from them myself. I wonder if this place is under new management as my experience was completely different than some of the other reviews earlier this year.”
@@ -1929,7 +1886,7 @@ Name: count, dtype: int64
 - **Attributes:** By Appointment Only
 - **Overall Rating:** 1.5
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -1956,8 +1913,7 @@ I love REC Solar, you won't find a solar company with a better reputation. They 
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 17
-- **Check-ins Total:** 5701    12
-Name: count, dtype: int64
+- **Check-ins Total:** 12
 
 ## 5★ samples (Positive Reviews)
 - “It's a great place for a great price in a great area. All the complaints about this place confuse me because I haven't had any of those issues in the year that I've been here. When I have issues (only twice ever and very small issues) I call the front and they have someone come and fix it the next morning. Overall it's great for the price I'm paying.”
@@ -1985,8 +1941,7 @@ This company is the worst in the country We will never recommend to any one!!! I
 - **Attributes:** Bike Parking, Restaurants Take Out, Business Accepts Credit Cards, Has T V, Restaurants Delivery, Outdoor Seating, Good For Kids
 - **Overall Rating:** 1.5
 - **Review Count:** 104
-- **Check-ins Total:** 4519    69
-Name: count, dtype: int64
+- **Check-ins Total:** 69
 
 ## 5★ samples (Positive Reviews)
 - “I love this place,  where else can you buy a huge steak breakfast burrito for 3.89! No where!”
@@ -2016,8 +1971,7 @@ Dreadful on every level. Change in size, quality and price = disapointment. This
 - **Attributes:** Restaurants Delivery, Drive Thru
 - **Overall Rating:** 1.5
 - **Review Count:** 5
-- **Check-ins Total:** 7174    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -2041,8 +1995,7 @@ Name: count, dtype: int64
 - **Attributes:** Restaurants Delivery, Restaurants Take Out
 - **Overall Rating:** 1.5
 - **Review Count:** 6
-- **Check-ins Total:** 1584    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - “I came here tonight as I saw they had just opened. I am a sucker for new locations and giving them a shot. I got the 3 entrée with chow mean, orange chicken, black pepper chicken, and the Shanghai beef (think thats what its called). It was a drive thru experience but it went quickly and the food was super fresh. Hopefully this is a sign of good things to come.”
@@ -2069,8 +2022,7 @@ Panda is not the best Chinese but staff is nice. Service is excellent
 - **Attributes:** Business Accepts Credit Cards, Good For Kids, Restaurants Take Out, Restaurants Delivery
 - **Overall Rating:** 1.5
 - **Review Count:** 19
-- **Check-ins Total:** 3405    14
-Name: count, dtype: int64
+- **Check-ins Total:** 14
 
 ## 5★ samples (Positive Reviews)
 - “I've been waiting in the front without being greeted or acknowledged yet.... I always wanted to be invisible but not when I'm hungry trying to get food lol... Wait they got to me and apologized for my 3 minute wait.  It's was torture. They got my pizza, guy seemed sweet, and I'm happy with food”
@@ -2095,7 +2047,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 206
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I ordered a few cichlids, panda and a golden nugget pleco.  I received the cichlids first and was curious why the others hadn't arrived.  I reached and received a response within a day or two they should ship in the next week or two.  Indeed they did, also alive.  I had no issues with this company and will buy from them again.”
@@ -2124,7 +2076,7 @@ Order online! It saves time! Great services !!! Thanks Peter for your help and k
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “A Pool Guy has done a great job bringing my pool back to life. Awesome work. Reasonable rates. Jeremiah is an all around great person to work will. I highly recommend A Pool Guy for all of your pool and spa needs.”
@@ -2151,8 +2103,7 @@ Worst pool service ever.
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only
 - **Overall Rating:** 1.5
 - **Review Count:** 105
-- **Check-ins Total:** 2795    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “The movers were professional, courteous and on time.  The company came in under budget for us.  The were in contact to verify appointments and to check on quality of service.  The movers were conscientious and none of our property was damaged.  They would not even let us help move any of the items!!!!!!!!  I have only good things to say about our experience with All My Sons.”
@@ -2181,7 +2132,7 @@ Check your itemized receipt. They charge $46 for packing tape. If you discuss wi
 - **Attributes:** By Appointment Only
 - **Overall Rating:** 1.5
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I would HIGHLY recommend this company.  They serviced my 15 year old system that covers a large amount of area (nearly and acre), fixing leaks,  moving and adding emitters and generally brought the system back to life.  Plants that had been struggling for years have taken off, citrus is covered in blooms and thriving.  I have worked with several irrigation companies over the years, and I can say that I sincerely trust these people.  They told me I did not need a new redo and that saved me thousands.  I don't know what the problem with the buyer beware post was, but I would highly recommend this company.  No, I have no stock in it and these people are not "friends".  Just a good straightforward company.”
@@ -2208,8 +2159,7 @@ Go somewhere else or prepared to get ripped off
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 5
-- **Check-ins Total:** 4476    10
-Name: count, dtype: int64
+- **Check-ins Total:** 10
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -2236,8 +2186,7 @@ S-l-o-w-e-s-t. P-u-m-p-s  ever.
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 18
-- **Check-ins Total:** 8050    6
-Name: count, dtype: int64
+- **Check-ins Total:** 6
 
 ## 5★ samples (Positive Reviews)
 - “I had a conference up in Scottsdale and my company rented a car for me. The rental car was a Hyundai Accent with no issues, full tank of gas, and the Hertz person even noted a few scratches/dents that I completely missed. Getting the vehicle was a nice and easy process, no hassle and very friendly staff.  When i went to return the car, it was slightly passed the hours  but luckily there was a person there late and he helped me return the car even though it was after the work hours. The return was very simple as well and I felt very bad for making the person stayed a little extra late because I needed a receipt and the printer was not being cooperative. I will definitely recommend anyone who needs a rental from here.  TLDR; great staff, easy process, and fine rentals!”
@@ -2266,7 +2215,7 @@ Rented a car from this location for 24 hours while my car was being serviced. I 
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I have been using Cobb Realty since 2009 and I've been pleased by the way they managed my property!  I highly recommend them for any housing needs you may have”
@@ -2293,7 +2242,7 @@ Stay away... Don't trust them!
 - **Attributes:** Wheelchair Accessible, Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 10
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -2317,8 +2266,7 @@ Stay away... Don't trust them!
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 8
-- **Check-ins Total:** 3530    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - “As a U of A student, I went to campus health several times. I went to the women's health center and loved my doctor there. She was very kind. Whenever I felt sick, campus health was there for me.”
@@ -2345,7 +2293,7 @@ Doctors are great but So freaking slow.....
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 12
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -2369,7 +2317,7 @@ Doctors are great but So freaking slow.....
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 15
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I can't say enough positive things about Scotia Group and the community I reside in.  The staff here is super friendly and professionally managed by a wonderful company.   I'm moving to another Scotia community in a couple of months because I love the way they manage their communities.  They get residents involved like a community.”
@@ -2394,8 +2342,7 @@ Doctors are great but So freaking slow.....
 - **Attributes:** Restaurants Good For Groups, Drive Thru, Good For Kids, Business Accepts Credit Cards, Restaurants Delivery, Restaurants Take Out, Has T V, Bike Parking
 - **Overall Rating:** 1.5
 - **Review Count:** 24
-- **Check-ins Total:** 6676    38
-Name: count, dtype: int64
+- **Check-ins Total:** 38
 
 ## 5★ samples (Positive Reviews)
 - “This Macdonald was really good  It was in Roswell New Mexico look like a spaceship.  They how the whole bridges cool stuff pictures of run on McDonald flight in its space or  On rockets. To staff are very nice there”
@@ -2424,7 +2371,7 @@ Owner is disrespectful, no wonder service is so terrible! worst service ever. wa
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 14
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “HSL is a great company! It is amazing to see how much they are involved in and give back to their community and employees. Thank you for supporting your employees during these unprecedented times.”
@@ -2448,8 +2395,7 @@ Owner is disrespectful, no wonder service is so terrible! worst service ever. wa
 - **Attributes:** Business Accepts Credit Cards, Accepts Insurance
 - **Overall Rating:** 1.5
 - **Review Count:** 14
-- **Check-ins Total:** 2224    8
-Name: count, dtype: int64
+- **Check-ins Total:** 8
 
 ## 5★ samples (Positive Reviews)
 - “I am not sure if I came at a good time but it was 45 minutes before the closed. Only 2 people were ahead of me.   I was greeted by the receptionist checked in and waiting maybe 7 minutes for my turn. The lab tech and girl who checked me in were very nice and did everything correctly sanitized, gloved, verified. Which I completely appreciate it!   When I left about three more people were in waiting area, they are open until 5pm which is nice for people to have later time. Thank you! Hope all my future experiences are like this.”
@@ -2476,8 +2422,7 @@ Terrible. Appointments mean nothing.
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 12
-- **Check-ins Total:** 1767    9
-Name: count, dtype: int64
+- **Check-ins Total:** 9
 
 ## 5★ samples (Positive Reviews)
 - “Clean skilled nursing facility, great therapy and activities departments to keep patients up and going. Perfect place for a stay to get stronger and get back home.”
@@ -2501,8 +2446,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 1.5
 - **Review Count:** 25
-- **Check-ins Total:** 2064    8
-Name: count, dtype: int64
+- **Check-ins Total:** 8
 
 ## 5★ samples (Positive Reviews)
 - “I'm very happy with the manicure I get. Friendly staff, very clean and easy to get an in, even without an appointment.”
@@ -2534,8 +2478,7 @@ Don't waste your time or money
 - **Attributes:** Has T V, Outdoor Seating, Restaurants Delivery
 - **Overall Rating:** 1.5
 - **Review Count:** 24
-- **Check-ins Total:** 1714    8
-Name: count, dtype: int64
+- **Check-ins Total:** 8
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -2562,8 +2505,7 @@ Nash's is airway and NEwsjwu a  2waaA
 - **Attributes:** Restaurants Good For Groups, Good For Kids, Restaurants Take Out, Business Accepts Credit Cards, Bike Parking, Restaurants Delivery, Drive Thru, Has T V
 - **Overall Rating:** 1.5
 - **Review Count:** 28
-- **Check-ins Total:** 5581    58
-Name: count, dtype: int64
+- **Check-ins Total:** 58
 
 ## 5★ samples (Positive Reviews)
 - “This place is nice. I don't know why they have such low stars. This is the only place that I've gone to that always have there fries hot Everytime”
@@ -2591,7 +2533,7 @@ Oooh, they got the McRib! =) Nasty place and rude employees Worst place to eat. 
 - **Attributes:** Business Accepts Credit Cards, Accepts Insurance
 - **Overall Rating:** 1.5
 - **Review Count:** 21
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “My husband hates going to the doctor. He suffered for three days with a sinus infection and bronchitis before he finally relented and agreed to see a doctor. Our regular PCP was out of town due to a family emergency so we opted for Banner Urgent Care on Thornydale.   I loved that we could check in online rather than just showing up and having to sit around. We checked in at 8:00am for and 8:45am appointment. We arrived about 8:35 and waited only a couple minutes before we were seen.   Donna  Rowe, the Nurse Practitioner that we saw was fabulous. She's so kind and gentle and genuinely concerned about her patients. We were in and out in less than half and hour and everything was handled so quickly and efficiently. The staff were great.  We'd certainly come back for urgent needs or when we can't get in to see our PCP.”
@@ -2619,7 +2561,7 @@ Waited over 2 hours to be seen- lazy stupid staff Everyone was amazing! Fastest 
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 1.5
 - **Review Count:** 12
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Got a good quote on Autoglass Guru and went ahead and ordered it. Later I thought to check for reviews and was greatly disappointed  to find only one star.  Considered cancelling but had to hope for the best because of timing.  Fortunately, a very professional young man, showed up on time with the correct materials and expertise and did a great job on my Audi A5.  Drove 1000 miles the next weekend in rain with no issues. Thankfully a one star rating is not always as it seems.”
@@ -2643,8 +2585,7 @@ Waited over 2 hours to be seen- lazy stupid staff Everyone was amazing! Fastest 
 - **Attributes:** 
 - **Overall Rating:** 2.0
 - **Review Count:** 16
-- **Check-ins Total:** 7425    7
-Name: count, dtype: int64
+- **Check-ins Total:** 7
 
 ## 5★ samples (Positive Reviews)
 - “This place has the warm and inviting feel that I was looking for! I appreciate the effort that the staff went through to make my experience enjoyable while also maintaining proper COVID-19 precautions. Mirra was super helpful and patient with all my questions! I can't wait to see this place in person!”
@@ -2670,8 +2611,7 @@ Name: count, dtype: int64
 - **Attributes:** Good For Kids, Bike Parking, Business Accepts Credit Cards, Has T V, Restaurants Good For Groups, Restaurants Delivery
 - **Overall Rating:** 2.0
 - **Review Count:** 15
-- **Check-ins Total:** 6331    29
-Name: count, dtype: int64
+- **Check-ins Total:** 29
 
 ## 5★ samples (Positive Reviews)
 - “Excellent smile from front desk so I felt ok when the homeless good looking guy came in to sit on stool and to collect water from machine to wash his hair in front of the restaurant. Their competitor was too crowded so we came in to this clean restaurant and ordered 1 chicken sandwich and 1 combo so my husband could get his coffee. The manager came to our table and said, they mistakenly made salad instead of sandwiches. I told her to leave it. We had 2 boxes of free chicken salads from Burger King. That's my 2nd visit in past 15 years at this chain restaurant.  I'll return to this one for sure, not to expect another free box of chicken salad, just to return to their favor, as God said, take care of your neighbors, so good deeds need to be returned and more warmth of human nature will be exposed.”
@@ -2700,7 +2640,7 @@ good hot food lady the window was very nice. they deliver Getting a delicious mi
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Really fantastic customer service. We look forward to buying our trailer hitch here once we can afford it.   These folks inspire real trust with their customer service and knowledge. Will update once we have been able to make that purchase.”
@@ -2724,8 +2664,7 @@ good hot food lady the window was very nice. they deliver Getting a delicious mi
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 82
-- **Check-ins Total:** 1583    172
-Name: count, dtype: int64
+- **Check-ins Total:** 172
 
 ## 5★ samples (Positive Reviews)
 - “Great staff! Super nice and professional. Car was decently cleaned for an automatic wash. I understand it will never be perfect unless you pay for a detailing job. Didn't leave streaks. Free popcorn and coffee is a plus. I will come back. Thank you.”
@@ -2754,8 +2693,7 @@ Beautiful day!!! Wish they had a multi car discount:( Unfortunately, the 3 day r
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 35
-- **Check-ins Total:** 4268    5
-Name: count, dtype: int64
+- **Check-ins Total:** 5
 
 ## 5★ samples (Positive Reviews)
 - “First time visiting Vinny's today!  I was a walk in and there was no wait. Got tips for an acrylic French manicure.  Hi did an outstanding job!  Very pleased with the look and the price!  Na gave me a great pedicure, too!  It's a pleasant, happy, clean atmosphere. Very nice people who know their craft!  I recommend Vinny's highly!”
@@ -2784,8 +2722,7 @@ Great service love the pedicures. The karaoke is good too lol.
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 2.0
 - **Review Count:** 11
-- **Check-ins Total:** 3440    10
-Name: count, dtype: int64
+- **Check-ins Total:** 10
 
 ## 5★ samples (Positive Reviews)
 - “Been going there for years. Friendly staff,  good prices,  and good selection of cigars. They recently expanded their humidor improving their selection and quality.”
@@ -2810,8 +2747,7 @@ Name: count, dtype: int64
 - **Attributes:** Outdoor Seating, Restaurants Good For Groups, Business Accepts Credit Cards, Good For Kids, Restaurants Take Out, Bike Parking, Has T V, Restaurants Delivery, Caters, Drive Thru
 - **Overall Rating:** 2.0
 - **Review Count:** 40
-- **Check-ins Total:** 3980    67
-Name: count, dtype: int64
+- **Check-ins Total:** 67
 
 ## 5★ samples (Positive Reviews)
 - “I was looking for food when I found panda express drive in option. The order was swiftly taken and was efficiently delivered. I am highly satisfied with the quality of service and the food. It was a great dinner and I would definitely return here. The food quality was really nice.”
@@ -2840,8 +2776,7 @@ Horrible drive thru service Best sauteed mix veggies! Slowest. Drive through. Ev
 - **Attributes:** Bike Parking, Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 16
-- **Check-ins Total:** 6088    69
-Name: count, dtype: int64
+- **Check-ins Total:** 69
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -2868,8 +2803,7 @@ Empty! Bless baby Jesus! Download the Michaels app. You can get coupons straight
 - **Attributes:** 
 - **Overall Rating:** 2.0
 - **Review Count:** 8
-- **Check-ins Total:** 5477    27
-Name: count, dtype: int64
+- **Check-ins Total:** 27
 
 ## 5★ samples (Positive Reviews)
 - “If you are wanting a bank that actually gives true customer-care and is supporting local business and development, this is the best!  Assistant Manager, Anna, is fantastic with customer-care and very active with supporting the local community and business-development!  Being a customer of National Bank of Arizona is like "walking into the light".  I am having to reinvest almost every dime my business(es) makes since it's ramping up so I have a very meager account but you would think that I was a millionaire with them.  And this is NOT because they are desperate for business as their lobby is almost always  more full (with plenty of tellers) than the other banks and their managers always have someone in their office, definitely more than USBank and WellsFargo ever did.  They will not only greet me, get to me fast as for everyone, apology if it's a little wait (wow, I didn't even think the other banks had those words in their vocabulary) and amazingly so, now often have my account pulled up already when I get to the window and call me by first name!!  Thank you, Anna, a true professional who is busy but friendly, professional but polite, efficient but not hurried! Jason, who not only is a top teller but has my account pulled up everytime, calls me by name and asks me how I am! Nabeal, who often goes out of his way to handle anything special and is very professional and friendly. Rebecca, who works very efficiently, goes out of her way if needed and is very consciousness about her work!”
@@ -2897,8 +2831,7 @@ I love the service at this location! The staff is exceptional!
 - **Attributes:** Bike Parking, Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 22
-- **Check-ins Total:** 686    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - “My son discovered this store.  We visited twice before purchasing a drum set.  They have a good selection and reasonable prices.  I am sure we will visit for various musical supplies.  Tony, the owner, is knowledgeable and easy to work with.  We were able to purchase the drum set and layaway,”
@@ -2927,8 +2860,7 @@ Best music store ever!!!!!!!!!! The service was fantastic and so was the price..
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 6
-- **Check-ins Total:** 7498    25
-Name: count, dtype: int64
+- **Check-ins Total:** 25
 
 ## 5★ samples (Positive Reviews)
 - “They been serving me for over 4 years officer friendly law enforcement discount best part would come here every day”
@@ -2955,8 +2887,7 @@ bubbas subs and pizza, nom nom
 - **Attributes:** Restaurants Delivery
 - **Overall Rating:** 2.0
 - **Review Count:** 37
-- **Check-ins Total:** 4135    7
-Name: count, dtype: int64
+- **Check-ins Total:** 7
 
 ## 5★ samples (Positive Reviews)
 - “Customer service here is unparalleled. Stevo will make sure you feel like family. He personally made sure everyone in my group felt cared for. 10/10 would go here again not only for the service but also for the food and cleanliness”
@@ -2985,8 +2916,7 @@ New location, food is great! Hoping it stays that way. Incredibly rude & sarcast
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 10
-- **Check-ins Total:** 3679    14
-Name: count, dtype: int64
+- **Check-ins Total:** 14
 
 ## 5★ samples (Positive Reviews)
 - “I called the nurse and she told me to take the medication that I was given which was three different kinds at the same time even when I was ovulating. When I finally got to speak with the doctor he told me "no I was only supposed to  take the Clomid" so that ruined my first cycle And these medications are not cheap with no insurance.                                                                 My second cycle success!! but sadly  it up an ectopic pregnancy 7 1/2 weeks. Regardless we still went back to him this year. 2017  We trust him, we like him, and he just gives off that vibe that he really cares                                      However, I feel that SOME of his nursing staff and some of his receptionist need to step up their personal relation skills just a little bit more and be more in sync with the doctor. In my opinion if not under constant guidance they think they know the answers that we need to ask the doctor specifically. One receptionist was really rude to My Husband and didn't want to schedule an appointment before my cycle started which was in just a few days. She would've had me scheduled after my cycle day three, so therefore I would not of been able to take my Clomid that month. The second receptionist that we spoke to said "come on in and if you're a little bit late that's fine." Seeing as how all we needed was a refill.   We had one but waited a year before going back to Gelety so the pharmacy said " sorry, it's been to long you have to see the doctor."  We were just getting the prescription refill. Gelety came in and when I explain the situation he was very nice polite said" no problem"  ‍ Wrote me the prescription for Clomid and told me to come back in a couple weeks due to the risk of the ectopic pregnancy.   I HIGHLY recommend this man to any man & woman or couple that are trying to conceive a baby. He will not stop till you get that baby, that's attitude I got from him. I've had two boys 16 & 12. So he checked my husbands sperm count & mobility and said " I can't express enough how high of a count you have and great mobility- he was just as excited as we were!!! Because I have no female problems he thinks clomid is the way to go. We trust him. Just wish the ultra sound cost could be lowered for those paying cash on a sliding scale income. That would be generous & selfless of him. .  The Walkers  Doctors experience: Gelety really cares. I genuinely believe that he wants to help people that are have infertility problems, that he's not in it just for the money..                     I hope in the future that he considers help with those that have no insurance and are paying cash that he would please possibly do a sliding scale fee on Ultra Sounds( basic check ups)   ‍ He is noninvasive, easy to get along with, gets excited for you, shows compassion when you you're upset.    Your first appoint be ready to anwser a lot of questions. WRITE THESE ANSWERS down and take them in with you to be prepared FOR HIS QUESTIONS .  *Know your cycles & right them down. *Date of last menstrual flow. *How long have you been trying under 40 ( a year or two with no success he'll help) Over 40 if in 6 months no success go see him)  *Write down how many days between each menstrual flow. *After your period ends but before it begins is your luthal phase, write down how many days that is. Because he *NEEDS* this info & no sense in waisting time on your consult. Come prepared.  *How many pregnancies? *How many live births? *Ages? *Any miscarriages, abortions or ectopics? He don't judge. *Coffee ( how much?)  *Alcohol,( how much?)  *Smoking ( how much) *Drugs ( what kind?)  *Any family history you feel may be important and if you've ever been diagnosed with endometriosis? *A medical background of ovarian cyst? The more you write down and take with you to see him with you the quicker the consultation and the better he can help you! With your accurate honest notes, just don't forget to bring them in lol”
@@ -3011,7 +2941,7 @@ Name: count, dtype: int64
 - **Attributes:** By Appointment Only
 - **Overall Rating:** 2.0
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “What a great business ! From meeting MaryBeth to Jason our project manager, there kindness and care that they took with us was outstanding.  The team that showed up to do our roof were professional and we could tell they knew what they were doing.  We highly recommend them.”
@@ -3039,8 +2969,7 @@ Run I mean run. Find another company. The owner is a liar....
 - **Attributes:** Restaurants Delivery, Restaurants Take Out
 - **Overall Rating:** 2.0
 - **Review Count:** 6
-- **Check-ins Total:** 5505    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -3067,7 +2996,7 @@ Rude chick, dirty store, over priced, drive thru or not, I won't be back Don't g
 - **Attributes:** 
 - **Overall Rating:** 2.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -3090,8 +3019,7 @@ Rude chick, dirty store, over priced, drive thru or not, I won't be back Don't g
 - **Attributes:** Business Accepts Credit Cards, Restaurants Take Out
 - **Overall Rating:** 2.0
 - **Review Count:** 7
-- **Check-ins Total:** 5576    17
-Name: count, dtype: int64
+- **Check-ins Total:** 17
 
 ## 5★ samples (Positive Reviews)
 - “One of my favorite places to get a quick treat. The cinnamon/sugar bites with icing dip are amazing! I tried the jalapeño bites with cheese which was good too. The portions are big and you will definitely have enough to share!The cheese was a little salty for my taste. They are usually fast and give out free samples. The employees are nice and make sure to have food ready for you so you don't have to wait too long for it. They also have frozen drinks and lemonade. I mixed the strawberry lemonade and blueberry, it was amazing! This place is in the mall so it's something quick you can get while shopping.”
@@ -3118,7 +3046,7 @@ best pretzels ever! always fresh!
 - **Attributes:** 
 - **Overall Rating:** 2.0
 - **Review Count:** 10
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “We recently worked with Jennifer Tillman from Copper Rose Realty. She did a great job! My Grandma's property was listed with another agent for a year...and nothing. Jennifer took over and BAM! Sold! We are out of the area and she made it very easy to do business from afar. She took care of everything, even helping us with maintenance and inspection items. Feel confident in using Copper Rose for your Real Estate needs.”
@@ -3143,8 +3071,7 @@ best pretzels ever! always fresh!
 - **Attributes:** Bike Parking, Business Accepts Credit Cards, Restaurants Delivery
 - **Overall Rating:** 2.0
 - **Review Count:** 58
-- **Check-ins Total:** 5487    458
-Name: count, dtype: int64
+- **Check-ins Total:** 458
 
 ## 5★ samples (Positive Reviews)
 - “Love this store. I used to visit here for all non-food items and the Neighborhood market on 22nd/craycroft for food but now I shop for it all here since I watched it become the supercenter:) Ad matching should put other stores out of business. I only wish they weren't so picky about the exact cuts or packages of meat/size/fresh cut.”
@@ -3173,8 +3100,7 @@ People of Walmart. It never gets old! I'm in hell Pretty good mark downs right n
 - **Attributes:** Restaurants Good For Groups, Good For Kids, Business Accepts Credit Cards, Bike Parking, Restaurants Delivery, Restaurants Take Out, Has T V, Caters
 - **Overall Rating:** 2.0
 - **Review Count:** 45
-- **Check-ins Total:** 8415    82
-Name: count, dtype: int64
+- **Check-ins Total:** 82
 
 ## 5★ samples (Positive Reviews)
 - “Friendly greetings, nice staffs, great food with good portion. So worth it for the price!!! I love coming here at least once every 2 weeks for lunch.”
@@ -3203,8 +3129,7 @@ Thank you for the food poisoning! Never coming to this location again. My first 
 - **Attributes:** Business Accepts Credit Cards, Good For Kids
 - **Overall Rating:** 2.0
 - **Review Count:** 23
-- **Check-ins Total:** 6034    394
-Name: count, dtype: int64
+- **Check-ins Total:** 394
 
 ## 5★ samples (Positive Reviews)
 - “Very modern, clean building hosting the Tucson Roadrunners and a variety of shows . I am very happy to go to any event in this building. Plus every time I have had to encounter any staff/security, they have all been helpful and friendly. As for people stating the seats are too small, I would agree that there is not a lot of leg room, but the chairs are comfortable and not too narrow. I am not even the skinniest girl in the world so I really cannot see why too many people are complaining. The venue is easy to navigate and clean and great for Tucson!”
@@ -3232,8 +3157,7 @@ Tale as old as time! Beauty and the Beast! Two shows and load out At cirque! So 
 - **Attributes:** Bike Parking, Business Accepts Credit Cards, Restaurants Take Out
 - **Overall Rating:** 2.0
 - **Review Count:** 8
-- **Check-ins Total:** 4925    44
-Name: count, dtype: int64
+- **Check-ins Total:** 44
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -3260,7 +3184,7 @@ They don't take coupons for anything, and no parking. Was very disappointed . Qu
 - **Attributes:** 
 - **Overall Rating:** 2.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Well after a year and a half of service we are still very satisfied with Titan.  I did get my complementary bins last year. New.  They leave no debrie behind after a pick up if it  Falls out from something.  The have more narrow trucks than standard and have no trouble in our  cul de sacs.  I think we are lucky we have them. The big green alternative would never fit around here.”
@@ -3283,8 +3207,7 @@ They don't take coupons for anything, and no parking. Was very disappointed . Qu
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 38
-- **Check-ins Total:** 965    126
-Name: count, dtype: int64
+- **Check-ins Total:** 126
 
 ## 5★ samples (Positive Reviews)
 - “I can't believe the negative reviews about this post office! I ship packages fairly regularly and I would actually go so far as to describe my experiences there as "delightful". Having moved from DC to Tucson, I know what a horrific post office experience is like. I've only waited a few minutes here (as opposed to up to an hour in DC).  Also the employees are legitimately friendly. Y'all don't know how good we have it here!”
@@ -3313,8 +3236,7 @@ Manager super nice and helpful! Line is very long before closing. Come in during
 - **Attributes:** 
 - **Overall Rating:** 2.0
 - **Review Count:** 5
-- **Check-ins Total:** 6075    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “As a student here who is about to graduate, my schooling was wonderful. I learned an amazing trade with cutting edge technology. I feel ready to take on the world. Kaelen, Nadia, Karen and the other staff are so supportive and want to help me in any way they can to achieve my goals. I wish I would have known how great the treaments are here before I was a student!! I used to pay 100's of dollars for sub par facials. The way this school teaches its students is to go above and beyond for exceptional service. For the $$ this is a tremendous value. Thanks to you guys for the best education possible and for giving the public a great place to address their skincare and relaxation needs for exceptional prices. You rock!”
@@ -3341,7 +3263,7 @@ Would not recommend
 - **Attributes:** By Appointment Only, Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 44
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I waited a few months after my appointment before writing a review so that I could adequately comment on my end to end experience.  I had all of my windows replaced in October 2016.  The initial sales conversation lasted many hours, but he didn't waste my time.  He took a lot of pictures of my existing windows, inspected the existing windows inside and out.  He offered ideas for the best style of window use (for example, we replaced a bathroom window with one that uses obscure glass so we get the light in without needing a window covering).  He did talk prices and I felt that he showed the "regular price" vs. "special price".  This practice is no different with ANY business.  Walk into a Kohl's store and look at a shirt.  It will tell you the shirt is regularly $30, on sale for $12.99.  Same concept...make the price look like a deal. Here's the important part...I moved into a brand new house many years ago, and after about 8 years, the vinyl windows were warping/cracking.  The house I'm currently in is about 15 years old and those vinyl windows were falling apart.  Nowhere were there any warranties or promises from the home builder or window supplier that the windows would last, or that they would be replaced with normal weather issues.  Now consider Anderson...even if I break the damn window myself...they will come out and fix it.  Honestly, I had to make a decision...pay less for new vinyl windows now and have to replace them again when I'm in my 50's, or pay more now while I have a decent income and have peace of mind that I won't need to spend my retirement money on another set.  So I went with Anderson and their lender, Green Sky.  Yes, Green Sky immediately charged me, and I had to start paying even before the windows were installed.  I knew about this up front because my sales person told me what to expect.  You only have to pay the interest amount until the work is completed.  It was very clear that I had a short window in which to change my mind before the charges would be made, making it impossible to reverse.  Calm down, read what you sign, listen to what people tell you, and there will be no surprises.  Anderson came out as promised for the final measurement and the installation.  The installation took about two days (12 windows and a slider on a single story home).  The guys who came out were very young (which worried me at first), but they were professional, nice, and worked quickly.  They didn't waste any time and didn't bother me at all (I was working from home on the installation days). One of the screens was damaged in shipping.  Anderson ordered a replacement and they came out and installed it as soon as it arrived.  Quick and easy.   Now for the results:  My windows are AWESOME.  Two of my bedrooms get direct sunlight in the morning.  With the old windows, those rooms would be hot even during the winter.  No longer.  Standing next to the window, you feel the sunlight, but no other heat coming in from the outside.  My gas bill is about $20 less per month through this winter.  My electric bill was $50 less the first month I had the windows (and I only had them for a couple of weeks into the billing cycle.  During winter, the electric bill has averaged about $15 less per month.  I'll try to come back this summer and update any cost savings during the hot Tucson summer.  My favorite thing so far?  The dust...or lack thereof.  Before having my windows replaced by Anderson, I had to change my air filters every couple of months.  It's March. My current filters were put up on December 1.  I purchased new ones and went to remove the old filters and they were COMPLETELY CLEAN.  I'm talking...the filters that had been there for the coldest parts of the winter looked brand new!  No dust, nothing.  The only thing different in my world are my windows, so I'm giving the credit to Anderson for the dust reduction (and saving me the cost of replacing filters so often).  Here's a comment from my next door neighbor (who happens to be on the HOA board):  "Those new windows look like they came with the house.  You can't even tell that you had them replaced! They look great!"  If the HOA board member says that, it must be true.  My only issue:  When some of the caulking dried, it cracked a bit and I noticed that it lets in a little air.  Why this is MY issue and not Anderson's issue:  I haven't reported this to them (until now) because I just haven't had time and it's not that big of a deal. I'm sure they will come out and fix the caulk once I tell them about it.  Overall, I had a great experience from beginning to end and I now have windows that will hopefully outlast me.  They deserve more than just two stars on Yelp.  Seriously.”
@@ -3367,7 +3289,7 @@ Would not recommend
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I had never hired movers before and had only heard horror stories from other people.  Needless to say, I was nervous to hire movers, but after speaking on the phone with Carl a few times, I felt at ease.  Carl and his son showed up a few minutes early to our scheduled moving time.  They worked quickly and were very careful with all of our belongings.  They were friendly throughout the move.  My husband and I could not have been happier and would gladly use them again ourselves.  The only negative I have to say is that I would have liked a more accurate quote when I called on the phone, but that could have been my poor description of our furniture.  All in all it was really pleasant to work with them.”
@@ -3391,8 +3313,7 @@ Would not recommend
 - **Attributes:** Drive Thru, Business Accepts Credit Cards, Restaurants Delivery
 - **Overall Rating:** 2.0
 - **Review Count:** 5
-- **Check-ins Total:** 3312    15
-Name: count, dtype: int64
+- **Check-ins Total:** 15
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -3419,7 +3340,7 @@ Poor service/quality.
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 25
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “The folks are reliable, reasonably priced, and do excellent work.  I have a small house, but no time to keep it as clean as I'd like.  They do.  And the customer service is as good as it gets.  Can't say enough good things about these people!”
@@ -3448,7 +3369,7 @@ A ridiculously expensive service.
 - **Attributes:** 
 - **Overall Rating:** 2.0
 - **Review Count:** 9
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I have had multiple cars from this establishment. All were reliable and ran fine for years. Upgrading after improving my credit score. Any questions were quickly resolved by Fawn, Steve, or Dane. Yvonne the sales lady was extremely kind and knowledgeable. I had service done here on my car multiple times and it was taken care of with tender hands. I have had no issues with any department here.”
@@ -3473,8 +3394,7 @@ A ridiculously expensive service.
 - **Attributes:** 
 - **Overall Rating:** 2.0
 - **Review Count:** 12
-- **Check-ins Total:** 1140    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “I really enjoyed their Tanque Verde location and everyone that works there is quite pleasant! They work on getting you better so that you aren't in there constantly. Only issues I've had have been with billing but for the most part that was addressed. I'd tell anyone looking for a PT place to check them out.”
@@ -3499,8 +3419,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 11
-- **Check-ins Total:** 6002    26
-Name: count, dtype: int64
+- **Check-ins Total:** 26
 
 ## 5★ samples (Positive Reviews)
 - “Might be a little worn around the edges, but there's a clean bed, hot shower, working A/C and lights, free wifi and tv, and a buffet breakfast from 6-9a all for $50. Sounds like 5 stars to me; will definitely come back if I'm in the area.  Edit: after checking the other reviews, I should include that the walls are a bit thin. You can hear cars pulling up and people walking by. Might give this a pass if you're a light sleeper; I didn't have any problems.”
@@ -3524,8 +3443,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Restaurants Delivery, Restaurants Take Out
 - **Overall Rating:** 2.0
 - **Review Count:** 8
-- **Check-ins Total:** 2983    5
-Name: count, dtype: int64
+- **Check-ins Total:** 5
 
 ## 5★ samples (Positive Reviews)
 - “Since Chris and Teresa took over this has been a lovely neighborhood shop. They're so friendly! They've extended the hours to better suit late night workers and lifestyles. The store feels safe and looks clean. Huge improvement. Now it's our first choice.”
@@ -3553,8 +3471,7 @@ Awesomely inexpensive alcohol and cigs
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 2.0
 - **Review Count:** 28
-- **Check-ins Total:** 4535    67
-Name: count, dtype: int64
+- **Check-ins Total:** 67
 
 ## 5★ samples (Positive Reviews)
 - “I love that this gym is open 24/7, inexpensive and not too large. I usually come in late around 10:00pm and practically have the gym to myself. I've been to other gyms as a guest and can say that Anytime Fitness has to be one of the cleanest and up to date. Plus the benefits they offer are really great --- including events, classes and exclusive offers for members. They are always adding new equipment which helps with switching up workout routines.”
@@ -3583,8 +3500,7 @@ Fuck anytime fitness that's all i have to say.
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 7
-- **Check-ins Total:** 5019    21
-Name: count, dtype: int64
+- **Check-ins Total:** 21
 
 ## 5★ samples (Positive Reviews)
 - “The lady, I believe was the owner was very nice and very very helpful. I bought a few items and she gave me a good discount. I will be coming back to this store. GREAT DEALS AND GREAT ITEMS !”
@@ -3611,8 +3527,7 @@ Awesome store!  Nice owner!!!  Will be back!! Great place for beautiful art piec
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 5
-- **Check-ins Total:** 879    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “I have an indoor air conditioner unit. My stuff is dust free even after after a few years here! I strongly recommend this place.”
@@ -3636,8 +3551,7 @@ Name: count, dtype: int64
 - **Attributes:** Bike Parking, Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 7
-- **Check-ins Total:** 4433    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “Jose the manager is the one who took care of use. He was extremely helpful, professional, and kind. He answered all our questions. Getting two new phones and adding a line couldn't be any easier thanks to this guy. Great job Verizon! Extremely pleased!”
@@ -3662,7 +3576,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 2.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “i fought a police officer he was nice enough to let me smoke a cigarette, the deputies were nice the jail already had a bed mattress and a warm blanket, would definitely get arrested or preferably jailed at pima county jail”
@@ -3686,8 +3600,7 @@ Name: count, dtype: int64
 - **Attributes:** Restaurants Take Out, Business Accepts Credit Cards, Good For Kids, Caters, Restaurants Delivery, Has T V
 - **Overall Rating:** 2.0
 - **Review Count:** 12
-- **Check-ins Total:** 1546    27
-Name: count, dtype: int64
+- **Check-ins Total:** 27
 
 ## 5★ samples (Positive Reviews)
 - “Close to the Hogan School of Real Estate. Consistent food and for a small location they are able to move the line during the lunch rush.”
@@ -3711,8 +3624,7 @@ Name: count, dtype: int64
 - **Attributes:** By Appointment Only, Business Accepts Credit Cards, Accepts Insurance
 - **Overall Rating:** 2.0
 - **Review Count:** 8
-- **Check-ins Total:** 7307    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “Front desk staff and wait times were unlike anything I've experienced. I usually dread going to the doctors because of ridiculous wait times.... but at Northwest they got me in to see Dr. Miller before I could even finish my paperwork and 10-5 minutes before my scheduled appointment.  Dr. Miller and her assistant Michelle  are amazing! I had been to three different doctors with the same concerns. My symptoms would go unnoticed or would not be taken seriously. Dr.Miller asked all the right questions and got my lab testing immediately! I was then diagnosed with the illness I believed I had. I can't be any more appreciative! Now I am able to manage my illness. Thank you so much. Would definitely recommend this office to everyone I know!”
@@ -3736,8 +3648,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 2.0
 - **Review Count:** 17
-- **Check-ins Total:** 3098    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “Personally, I love University Heights! I enjoy the staff, love the location, and there is a small community among the residents. I have always recommended it to outside people or have even bragged about it to touring guests. I have got to know other people at the complex and it is typically laid back. I have never had any issues with the manager or the maintenance staff. This will be my third year living there and yes there isn't granite counter tops, but it is far more spacious than a lot of these other student housing apartments.”
@@ -3762,8 +3673,7 @@ Name: count, dtype: int64
 - **Attributes:** Wheelchair Accessible, Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 8
-- **Check-ins Total:** 3196    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -3787,8 +3697,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Restaurants Delivery, Good For Kids
 - **Overall Rating:** 2.0
 - **Review Count:** 13
-- **Check-ins Total:** 5320    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - “This is the best mexican food period. Always coming up with new food. Must try the hot cheeto burrito!”
@@ -3816,7 +3725,7 @@ Best Mexican food! Portions are huge.
 - **Attributes:** 
 - **Overall Rating:** 2.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Dr Cooley is great! The kindest and most caring ortho I have ever met! He will be honest with you and do everything he can to Help you!”
@@ -3839,8 +3748,7 @@ Best Mexican food! Portions are huge.
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only, Accepts Insurance
 - **Overall Rating:** 2.0
 - **Review Count:** 8
-- **Check-ins Total:** 2910    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “I'm currently living in DC area and it's hard to find a decent dentist around this area. I have been coming here for years before I moved out east for graduate school and work. Eduardo and the staff are truly amazing. Not only that they are flexible with scheduling because they do understand that life happened and sometimes some things are beyond our control but they also take the time to explain about dental care, breaking down the costs, making recommendations, and treats you as if you're a part of the family.”
@@ -3865,8 +3773,7 @@ Name: count, dtype: int64
 - **Attributes:** Restaurants Good For Groups, Business Accepts Credit Cards, Has T V, Restaurants Delivery, Good For Kids
 - **Overall Rating:** 2.0
 - **Review Count:** 23
-- **Check-ins Total:** 5095    32
-Name: count, dtype: int64
+- **Check-ins Total:** 32
 
 ## 5★ samples (Positive Reviews)
 - “I've literally been here over twenty times and never had a problem. The employees are friendly, the food comes fast, the orders are accurate, and the restaurant is clean. There's also WiFi! No complaints about this place.”
@@ -3895,8 +3802,7 @@ Kris the manager has No idea how to treat customers. Never going back. Don't eat
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.0
 - **Review Count:** 9
-- **Check-ins Total:** 4334    6
-Name: count, dtype: int64
+- **Check-ins Total:** 6
 
 ## 5★ samples (Positive Reviews)
 - “My service has always been perfect, professional and timely. They fixed issues with the AC not being able to pull down the temperature without having to do anything major. Also always available on nights and weekends.”
@@ -3923,8 +3829,7 @@ Fixing what the other company left you with. https://youtu.be/UXBotYGw6BY Robert
 - **Attributes:** Accepts Insurance, Business Accepts Credit Cards, By Appointment Only
 - **Overall Rating:** 2.0
 - **Review Count:** 14
-- **Check-ins Total:** 1979    5
-Name: count, dtype: int64
+- **Check-ins Total:** 5
 
 ## 5★ samples (Positive Reviews)
 - “I have seen Dr. Zacheis for my severe allergies, He has been very through and helpful, and he has a nice manner about him.”
@@ -3953,8 +3858,7 @@ The front desk was awful They are rude
 - **Attributes:** 
 - **Overall Rating:** 2.0
 - **Review Count:** 15
-- **Check-ins Total:** 941    19
-Name: count, dtype: int64
+- **Check-ins Total:** 19
 
 ## 5★ samples (Positive Reviews)
 - “Luis at the North Oracle branch was great, very knowledgable, quick and efficient.  Went in for an auto loan came out 30 mins later with a check.  I highly recommend this branch and Luis especially.  Thank you.”
@@ -3983,8 +3887,7 @@ Ask for the bank manager he is very friendly and helpful. Also, the credit union
 - **Attributes:** Business Accepts Credit Cards, Restaurants Delivery
 - **Overall Rating:** 2.0
 - **Review Count:** 5
-- **Check-ins Total:** 6695    19
-Name: count, dtype: int64
+- **Check-ins Total:** 19
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -4010,7 +3913,7 @@ Cashier's are friendly and sarcastic!
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Been with them for 3 1/2 years there about. Always hit good quick responsive service.”
@@ -4034,8 +3937,7 @@ Cashier's are friendly and sarcastic!
 - **Attributes:** Restaurants Good For Groups, Business Accepts Credit Cards, Bike Parking, Has T V, Good For Dancing
 - **Overall Rating:** 2.5
 - **Review Count:** 16
-- **Check-ins Total:** 84    91
-Name: count, dtype: int64
+- **Check-ins Total:** 91
 
 ## 5★ samples (Positive Reviews)
 - “I LOVE IT HERE! The women are clean and Freeeeaky! You can eat tacos,wings, and suck toes! Do what ya like baby! They even have a day care in the back for the little ones. I'm here every day for the drink specials...I cant wait to ride the new bull they installed!”
@@ -4064,8 +3966,7 @@ This place is legit..but the duke is a registered sex offender!!!
 - **Attributes:** 
 - **Overall Rating:** 2.5
 - **Review Count:** 32
-- **Check-ins Total:** 8127    100
-Name: count, dtype: int64
+- **Check-ins Total:** 100
 
 ## 5★ samples (Positive Reviews)
 - “I'm sure the service you receive depends on the person you deal with. Frankly, I would only trust my big girl to Courtnie H.! I have a Great Dane that can be incredibly stubborn. Seriously, try making a 115lb dog go somewhere she doesn't want to go...it's a freakin' nightmare! However, Courtnie always seems to manage my Honey baby. She comes back to me happy, clean, soft and smelling wonderful. Total love and props to Courtnie, she is amazing and I wouldn't take my precious girl to anyone but her!!”
@@ -4095,8 +3996,7 @@ Clean, not as unfriendly as the other I went to.
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 2.5
 - **Review Count:** 24
-- **Check-ins Total:** 4884    9
-Name: count, dtype: int64
+- **Check-ins Total:** 9
 
 ## 5★ samples (Positive Reviews)
 - “This place has always been good. Fair prices and quality flowers. The service is always good and they go the extra mile when delivering flowers. I have seen them deliver flowers the same day even though I didn't get there til afternoon. They always have a good selection of fresh flowers and have a book there for you to pick out an arrangement, if you don't see what you like on the shelves. I would definitely recommend this store.”
@@ -4125,8 +4025,7 @@ Great service. If I ever need flowers last minute, this is my go to place
 - **Attributes:** Business Accepts Credit Cards, Good For Kids, Restaurants Good For Groups, Restaurants Table Service, Restaurants Take Out, Bike Parking, Restaurants Delivery
 - **Overall Rating:** 2.5
 - **Review Count:** 85
-- **Check-ins Total:** 4709    224
-Name: count, dtype: int64
+- **Check-ins Total:** 224
 
 ## 5★ samples (Positive Reviews)
 - “Father's Day morning and the parking lot was packed so I expected a wait, but we were seated within 5 mins.  Our coffee was brought very quickly, order taken quickly.  Smiling and courteous staff.  Pleasant experience!”
@@ -4155,7 +4054,7 @@ The food needs more flavor Don't worry about the waitress you get, they will be 
 - **Attributes:** 
 - **Overall Rating:** 2.5
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Read lots of bad reviews from several years ago.  Decided to give them a shot anyway.  We'll, whatever customer service issues they had in the past are gone.  Friendly, fast service.   I'll be back.”
@@ -4180,8 +4079,7 @@ The food needs more flavor Don't worry about the waitress you get, they will be 
 - **Attributes:** 
 - **Overall Rating:** 2.5
 - **Review Count:** 9
-- **Check-ins Total:** 8378    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “We tried to look for a minute clinic for the hubby's strep throat and all appointments (via on-line) showed already booked, except for this Northwest Urgent Care at Speedway. It was a seemless on-line check-in process and we arrived to an empty lobby, filled out paperwork and were seen within 10 minutes.   They did not take his weight or height just asked him if he knew how tall and how much he weighed. An LPN took his vitals, an MA recorded the vitals and symptoms in the computer (Cerner EHR) and than within 3 minutes he was seen by Dr. Alvarado.   The longest part was waiting the 10 minutes or so for the strep test swab results that the LPN took after vitals were taken.   They provide an e-script to the pharmacy of your choice and let you go on your way.”
@@ -4207,8 +4105,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 54
-- **Check-ins Total:** 1392    20
-Name: count, dtype: int64
+- **Check-ins Total:** 20
 
 ## 5★ samples (Positive Reviews)
 - “I had the best experience dealing with Jim Click Nissan's parts department!  Luis Rodriguez was beyond helpful and took the time to look up a part I previously ordered and invoice number to make sure my part was covered under warranty.  I can't thank you enough Luis and I will definitely recommend you to anyone!”
@@ -4237,8 +4134,7 @@ Make sure you make a note of who you have an appointment with, apparently they d
 - **Attributes:** Restaurants Good For Groups, Good For Kids, Business Accepts Credit Cards, Has T V, Caters, Outdoor Seating, Restaurants Take Out, Restaurants Reservations, Restaurants Table Service, Bike Parking, Restaurants Delivery, Happy Hour
 - **Overall Rating:** 2.5
 - **Review Count:** 158
-- **Check-ins Total:** 8072    332
-Name: count, dtype: int64
+- **Check-ins Total:** 332
 
 ## 5★ samples (Positive Reviews)
 - “Congratulation el molinito on the best catering award this week in the best of tucson weekly fall 2018 awards issue out this last week of October . Only heard great compliments on the catering . FYI Pantano & Wrightown is my favorite site.”
@@ -4267,8 +4163,7 @@ Worst dining experience I've ever had! Weekday lunch specials until 2pm FYI pric
 - **Attributes:** 
 - **Overall Rating:** 2.5
 - **Review Count:** 9
-- **Check-ins Total:** 2256    75
-Name: count, dtype: int64
+- **Check-ins Total:** 75
 
 ## 5★ samples (Positive Reviews)
 - “Not sure why they have 3 stars, I've been banking here for years. Employees come and go but the WellsFargo folks are always up to speed and kind. Don't care for bullet proof glass and old building ... However the people make up for it.”
@@ -4295,8 +4190,7 @@ I avoid this branch like the plague but not for why you'd expect. The employees 
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 288
-- **Check-ins Total:** 5597    82
-Name: count, dtype: int64
+- **Check-ins Total:** 82
 
 ## 5★ samples (Positive Reviews)
 - “I bought a used Jeep Wrangler here on the 4th of July. These guys are great.  I did not feel pressured and they provided carfax info and kelly blue book quotes upfront without my asking. Jasen Lauver was my salesman and is more than awesome. The test drive was actually fun. He is honest and upfront with information and didn't try to up-sell me.  I benefited from the 4th of July sale but they really worked with me on the price beyond that. I have always wanted a Jeep but thought they were beyond my budget. Desert Toyota was able to make it happen for me. Options and warranties were explained to me concisely yet thoroughly but I was not pressured. I simply said no or yes to what i wanted and that was that. Hands down, this was the best car buying experience I have ever had. I left really excited about my purchase rather then exhausted. Jasen even helped me get the panels off the hard-top for me so I could cruise out of there with the top down!”
@@ -4325,8 +4219,7 @@ Never coming back to this place. How come you there are several clerks available
 - **Attributes:** 
 - **Overall Rating:** 2.5
 - **Review Count:** 11
-- **Check-ins Total:** 5206    10
-Name: count, dtype: int64
+- **Check-ins Total:** 10
 
 ## 5★ samples (Positive Reviews)
 - “I havent been excited to do a yelp in a long time , i had spent so much time here doing what was needed ,   I couldnt recommend something more than ever & also someone more than ever for you to experience this ,   Mayra the manager helped me i cant ever thank her enough for doing what she did to help me , she went above and beyond with her job . She helped me pick out the engagement ring as well as the two wedding bands that fit the shape of the diamond . If she wasnt the manager id wonder why not . All stars for this location & you may thank her for this .”
@@ -4351,7 +4244,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 2.5
 - **Review Count:** 13
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Very nice dealership they took the time to show me the car that I wanted explained financial options even though my credit wasn't so hot and came up with a solution so I can get my dream truck. Really had a great experience here”
@@ -4377,7 +4270,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Word to the wise CONTINENTAL A/C & HEATING/  TUSCON AZ. is AMAZING. Jay the Manager IS THE GREATEST.    This company is exactly what anyone could dream of when it comes to any or all of your heating and air conditioner needs.   For starters this company is 100 % HONEST, 100%  KNOWLEDGEABLE  from the techs to the office Manager Jay.    Our family couldn't be more happier to give this review to CONTINENTAL AC and HEATING TUCSON and to JAY  the Manager.   Plain and Simply put,  they are the BEST in our opinions and we've been through the RIP OFF companies LIKE SO MANY OTHERS HAVE, but never again now that we've found the BEST.   Thank you so much Jay and CONTINENTAL A/C & HEATING/  TUSCON  for providing outstanding A + SERVICE AND 100% SATISFACTION.    Sincerely,  Barbara, Jewel, Robert”
@@ -4402,8 +4295,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 2.5
 - **Review Count:** 7
-- **Check-ins Total:** 4277    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “This staff has worked hard to overcome many challenges to improve the property. For anyone who has ever worked in customer service or management I feel that social media is being abused by disgruntled people who don't like to play by the rules.”
@@ -4433,8 +4325,7 @@ Are the maintenance team.  That bad review was probably some one who got turn do
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 7
-- **Check-ins Total:** 4957    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “Auction Tucson is my favorite local auction website. They have so many great auctions which offer a wide range of merchandise, so there is something for everyone! Their pricing is also very fair.  All of the items that I picked up cost me less than they would have been through a retailer. Thank you auction Tucson for making the process so easy!”
@@ -4458,8 +4349,7 @@ Name: count, dtype: int64
 - **Attributes:** Happy Hour, Has T V
 - **Overall Rating:** 2.5
 - **Review Count:** 25
-- **Check-ins Total:** 4509    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “Started our night very unimpressed at eden and decided to catch an Uber to Curves . We were pleasantly greeted and seated by Dillion upon entry . There was no cover charge + my wife and I received wrist bands for 2 for 1 drinks !   Pros - good music ,lots of stages , most of the dancers/servers are friendly, a wide selection of ladies for every taste, dancers didn't seem to be on drugs , the price of a private dance was great , my Wife felt very comfortable there , the restrooms are clean   Cons- no complaints”
@@ -4488,8 +4378,7 @@ Good place nice girls and clean table dance is also at a great price Two-for-one
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 18
-- **Check-ins Total:** 2422    16
-Name: count, dtype: int64
+- **Check-ins Total:** 16
 
 ## 5★ samples (Positive Reviews)
 - “Today I was extremely impressed with Public Storage and more so the manager, Estelle who helped me. I came in to pay for a unit and I was grateful for Estelle's friendly personality. She answered all my questions thoroughly and was extremely helpful during my visit. She and the other staff I've interacted with at Public Storage deserve the highest accolades and gratitude. Great job! I will be a Public Storage renter for years to come.”
@@ -4515,7 +4404,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only
 - **Overall Rating:** 2.5
 - **Review Count:** 10
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “jason and his crew at landshapes recently finished some work for my husband and myself to help update and beautify the area around our home. we couldn't be happier with the results.  the work was done with great care for detail and efficiency. the site was left orderly after each day's work. these guys were very hard workers.  any questions we had were answered promptly and fully so that we all were on the same page during the process.  the final outcome is amazing.  i celebrate the transformation i had hoped for and would surely use them again.”
@@ -4541,8 +4430,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 25
-- **Check-ins Total:** 4129    50
-Name: count, dtype: int64
+- **Check-ins Total:** 50
 
 ## 5★ samples (Positive Reviews)
 - “Love my local Post Office N. Silverbell and Speedway! The couple of workers there are always upbeat and very pleasant I know Larry and didn't catch the name of the the woman who's station is in the extreme left! So uplifting to see Post Office workers that r not grumpy and makes r day! Thank you! Your job must not be easy!”
@@ -4571,8 +4459,7 @@ Difficult to use the outside mailboxes unless you're driving south. Hours are 9a
 - **Attributes:** Has T V, Restaurants Good For Groups, Good For Kids, Caters, Business Accepts Credit Cards, Restaurants Take Out, Drive Thru, Restaurants Delivery
 - **Overall Rating:** 2.5
 - **Review Count:** 45
-- **Check-ins Total:** 3270    35
-Name: count, dtype: int64
+- **Check-ins Total:** 35
 
 ## 5★ samples (Positive Reviews)
 - “Well it is Panda Express how can you go wrong. I love eating here only because I love their orange chicken and teriyaki chicken.  The restaurant was clean. But the restroom could use a little attention.”
@@ -4603,8 +4490,7 @@ Speed 4/5
 - **Attributes:** 
 - **Overall Rating:** 2.5
 - **Review Count:** 7
-- **Check-ins Total:** 3661    77
-Name: count, dtype: int64
+- **Check-ins Total:** 77
 
 ## 5★ samples (Positive Reviews)
 - “I am thoroughly satisfied with my experience at the Pima County Government I should this is my life I am fortunate enough to be employed with Yuma County they take great care of me and my family , I don't know when I've ever been so happy driving to work it's like the weekends are so long I can't wait to get to work on a Monday well thank you, Pima County and thank you to all of my managers and supervisors for making this such a great place to work.”
@@ -4630,8 +4516,7 @@ Go to the bathrooms not on the first floor. They're much cleaner!! The jury asse
 - **Attributes:** Has T V, Business Accepts Credit Cards, Restaurants Take Out, Restaurants Good For Groups, Bike Parking, Good For Kids, Outdoor Seating
 - **Overall Rating:** 2.5
 - **Review Count:** 10
-- **Check-ins Total:** 6165    24
-Name: count, dtype: int64
+- **Check-ins Total:** 24
 
 ## 5★ samples (Positive Reviews)
 - “So, I'm sitting here at work reading a brand new, fresh-off-the-keyboard Yelp review written by my nearest & dearest (and ethereally beautiful) best friend Naomi G. In this review she wittingly chose the verb "polished" to describe her most recent experience devouring a 1/4 lb burger (and accompanied fries). What's funny about this mental image to me, is if you saw her, you'd wonder where she fit it all. I mean, she literally is the quintessential poster child for what a gorgeous petite woman should look like.   What does all this have to do with Peter Piper Pizza, you ask? Well, let me tell you!   A long, long time ago, in a land not so far away (about 500 miles to be exact), two girls (let's call them Naomi & Rebecca) met up frequently for social outings together. These outings weren't like that of most other girls. They didn't sip on cosmopolitan martinis in some fancy New York sky scraper like Carrie & Miranda. They didn't get pedicures together at some fancy resort. They didn't go to a blow out bar and get their hurr did (Naomi mostly did that solo & Rebecca was too broke at the time). No, these girls were different.   When they went out, they met up at Peter Piper Pizza where together, these two "polished" off a large pepperoni pizza and a basket of buffalo wings. They didn't care about the P.O.S. carousel there or the alluring ski ball games. They didn't care about the child cootie-soaked carpet beneath their feet or the useless waste-of-space plastic prizes. All they cared about was their pizza and the time they got to spend together eating it. By the time they left, Rebecca practically had to be rolled out of the joint, kind of like Violet from Willie Wonka... and Naomi always skipped out with childlike energy....again wondering, where does she fit it all? (Jealous!)   The moral of this story? Well, there's a few. The first is size doesn't matter, unless of course you're a guy, and I'm sad to say you'll be battling that one for the bulk of your life. The second is that no matter where you go, spending time with someone you love can make a 3 star place into a 5 star experience. And lastly, Peter Piper Pizza has some damn yummy pizza!  Thanks for the nostalgia, Naomi. I miss you and our pizza outings. :)”
@@ -4659,8 +4544,7 @@ So good! I love the pizza and the wings. Very delicious stuff
 - **Attributes:** Restaurants Take Out, Business Accepts Credit Cards, Bike Parking, Restaurants Delivery
 - **Overall Rating:** 2.5
 - **Review Count:** 5
-- **Check-ins Total:** 148    14
-Name: count, dtype: int64
+- **Check-ins Total:** 14
 
 ## 5★ samples (Positive Reviews)
 - “Tonight I called ahead to ask for advice on over the counter for a cold that I have. Ron the pharmacist said he would show me exactly what to get as I would have no idea what to choose from in a sea of medications to choose from. He was very kind to check my existing medication to make sure there was no conflict. What a gem the staff was. Thank you Ron and everyone at the Walmart pharmacy in 22nd and Craycroft, you're very kind and helpful. Exactly what I needed.”
@@ -4685,8 +4569,7 @@ Yikes. The majority of the produce has seen better days. Now I remember why I ne
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 28
-- **Check-ins Total:** 2292    127
-Name: count, dtype: int64
+- **Check-ins Total:** 127
 
 ## 5★ samples (Positive Reviews)
 - “Gave me the best rate on my RV loan, I was very grateful”
@@ -4715,8 +4598,7 @@ Fridays they're open until 6. If you're a member bring you loose change here to 
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 54
-- **Check-ins Total:** 226    205
-Name: count, dtype: int64
+- **Check-ins Total:** 205
 
 ## 5★ samples (Positive Reviews)
 - “I enjoyed my trip to the casino. From the minute I walked in everybody I met were friendly. I was pleased to find out that the benefits offered to veterans are wonderful. So if your a vet get your tribute card. I liked the variety of slot machines.  I had some good payouts. Which enabled me to play for a lengthy time.”
@@ -4745,8 +4627,7 @@ Smokey EMS on the Border today My daddy & I winning big $$$$$ ziggy marley!! Dia
 - **Attributes:** 
 - **Overall Rating:** 2.5
 - **Review Count:** 8
-- **Check-ins Total:** 2143    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “my grandmother received the best quality care at this facility!! l would recommend this facility to anyone who is looking to have their family taken completely care of. 10/10 would recommend”
@@ -4771,8 +4652,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 105
-- **Check-ins Total:** 2520    160
-Name: count, dtype: int64
+- **Check-ins Total:** 160
 
 ## 5★ samples (Positive Reviews)
 - “I love Mister Car Wash! The staff here is always so friendly and attentive. They do a great job cleaning the interior and exterior of the car. If I'm in a rush and don't want the interior cleaned, I love that I can go through the car wash myself and I enjoy the experience. I really love that they have hand dryers at the end of the wash to dry my car off for me in addition to the blow dryer, such a nice touch! They are speedy, friendly and do an awesome job every time I bring my car in!”
@@ -4801,8 +4681,7 @@ this location will be closed from 3/24 to 4/30 for renovations. but I love this 
 - **Attributes:** By Appointment Only, Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 22
-- **Check-ins Total:** 1176    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “From check in to check out, I had a great experience for my first time coming here.  The staff at check in were kind and helpful.  Wait time wasn't bad at all.   The staff helping me to the back were wonderful.  When I finally met Dr.Wang and his assistant Vanessa they were very kind and helpful for my situation.  Dr.Wang is very knowledgeable and knows what he is doing.  He makes sure the patient is receiving the right care safely.  This office is clean and well kept.  Staff members provide excellent customer service and Dr.Wang is a kind doctor.  Highly recommended! 5 stars earned!”
@@ -4831,7 +4710,7 @@ Dr Wang saved my cornea twice!
 - **Attributes:** Restaurants Take Out
 - **Overall Rating:** 2.5
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Hi Everyone I'm new Manager at ATT N swan RD. Looking forward to answering any questions you might have! Have a great day!”
@@ -4857,8 +4736,7 @@ Dr Wang saved my cornea twice!
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 20
-- **Check-ins Total:** 2044    27
-Name: count, dtype: int64
+- **Check-ins Total:** 27
 
 ## 5★ samples (Positive Reviews)
 - “They checked my battery for free and revealed to me that the previous owner of my car had put a smaller-incorrect size of battery, and not only that, it had little charge in it! Sears charged-up my battery for either free or $15, i can't remember.”
@@ -4887,8 +4765,7 @@ Tires do take forever...been over 2 hours so far...
 - **Attributes:** Drive Thru, Bike Parking, Outdoor Seating, Restaurants Take Out, Has T V, Restaurants Delivery, Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 28
-- **Check-ins Total:** 6778    37
-Name: count, dtype: int64
+- **Check-ins Total:** 37
 
 ## 5★ samples (Positive Reviews)
 - “It is so nice to have a new, clean, modern looking DQ. Service was great!! It was busy and crowded but they were friendly and quick. They got my order exactly right.  Everything was fresh and very tasty. Best banana split ever. Took out the Chocolate and added Carmel.   I look forward to coming back often.   Welcome to our neighborhood!!!!!”
@@ -4918,8 +4795,7 @@ no food just ice cream.
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 23
-- **Check-ins Total:** 4705    23
-Name: count, dtype: int64
+- **Check-ins Total:** 23
 
 ## 5★ samples (Positive Reviews)
 - “I had a problem with the factory electrical plug on my hitch, so I went to U-Haul on Speedway for help. It was a Sunday, so I didn't expect much, but it turned out they had a technician there. He tested my harness, and instead of selling me a new one, found a blown fuse. Fixed it for free!    I was needing a brake controller, so he walked me through the different choices, sold me the parts I needed (they were the same price as Walmart), and even found and pointed out where to plug the harness into the truck. Took me all of 10 minutes to install it at home.  These guys are extremely helpful, and the price is just as good or better than Camping World or Walmart on what I needed.   Save me huge amounts of time, did it with a smile, cost was at or below their competitors, and on a Sunday. That's as above and beyond as it gets in my book.”
@@ -4948,8 +4824,7 @@ Get yo' hitches installed here. Will accept unopened returns, including boxes! W
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 15
-- **Check-ins Total:** 2227    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “The crews where at my home so quickly! I had no idea services like this existed and I'm grateful this one was so knowledgeable. I loved all of the managers and crew, but hope to not have to see them ever again.”
@@ -4978,8 +4853,7 @@ Can't even get them to return a call.....called them 3 times
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 17
-- **Check-ins Total:** 3094    31
-Name: count, dtype: int64
+- **Check-ins Total:** 31
 
 ## 5★ samples (Positive Reviews)
 - “We have had the best experience there because of Kelly! Kelly has been kind and very very patient. When we weren't happy with the way something looked in our home, she made it easy to find something we loved! We love the quality of the furniture we bought and intend to make all of our future purchases at La-Z-Boy. Their quality and customer service are top notch! Go in and ask for Kelly, she's really great!”
@@ -5008,8 +4882,7 @@ Unless stated, price tags do not reflect the sale price.  Ask for help Quality f
 - **Attributes:** Restaurants Take Out, Restaurants Good For Groups, Good For Kids, Business Accepts Credit Cards, Restaurants Delivery, Outdoor Seating, Has T V
 - **Overall Rating:** 2.5
 - **Review Count:** 24
-- **Check-ins Total:** 7073    18
-Name: count, dtype: int64
+- **Check-ins Total:** 18
 
 ## 5★ samples (Positive Reviews)
 - “I really like this Domino's. Their pizza is pretty good. What I especially like is the fast delivery time whenever I have placed an order. It's nice to have the online ordering that shows exactly where they are at in the process, ie making the pizza, and when they have left to deliver the pizza. Drivers have always been very courteous and professional.”
@@ -5038,7 +4911,7 @@ The assistant manager was a looker. fire seth They are rude so rude
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 15
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “We've had other alarm companies, and after having mediocre service, we found Capital Connect to be a really trustworthy company!  Finally!   The staff was helpful, not pushy, and seemed very honest.  We've not had any trouble since it's installation!  The mobile app is easy to use to check on my house, as well as to turn on/off the system.  I'm happy!”
@@ -5067,8 +4940,7 @@ Installers not finishing there job.
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 5
-- **Check-ins Total:** 3727    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “Red Star is amazing! Josh was so helpful. He helped me choose the right atomizer for my mod and walked me through the installation and care. He was very knowledgeable about the products and showed me their CBD vape options. Great selection! I will be back for sure.”
@@ -5091,8 +4963,7 @@ Name: count, dtype: int64
 - **Attributes:** Caters, Bike Parking, Business Accepts Credit Cards, Restaurants Reservations, Restaurants Good For Groups, Outdoor Seating, Has T V, Restaurants Table Service, Good For Kids, Dogs Allowed, Wheelchair Accessible
 - **Overall Rating:** 2.5
 - **Review Count:** 142
-- **Check-ins Total:** 6330    545
-Name: count, dtype: int64
+- **Check-ins Total:** 545
 
 ## 5★ samples (Positive Reviews)
 - “CLEANLINESS AT A HIGH STANDARD. This Marriott location is by far one of the best in AZ. I travel often but I ONLY stay here when I'm In Tucson. They renovated recently and looks great a but even more the way that they clean is greater. I'm ALWAYS treated like royalty when I am here. I specially love the front desk personal as they have always been very Tucson FRIENDLY.”
@@ -5131,8 +5002,7 @@ I should have known better as this full service Marriott was cheapest in town Ni
 - **Attributes:** Good For Kids, Business Accepts Credit Cards, Bike Parking, Restaurants Good For Groups, Caters, Has T V, Restaurants Take Out, Restaurants Delivery
 - **Overall Rating:** 2.5
 - **Review Count:** 15
-- **Check-ins Total:** 6313    45
-Name: count, dtype: int64
+- **Check-ins Total:** 45
 
 ## 5★ samples (Positive Reviews)
 - “This Subway is always clean, staff is friendly, & sandwiches and fixins are always fresh!”
@@ -5161,7 +5031,7 @@ This Subway Sucks. Egg white omelet with tomatoes and spinach on flatbread.... S
 - **Attributes:** 
 - **Overall Rating:** 2.5
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Great! Thanks for easy my mind about my coverage for my car rental. It only takes one bad driver to hit you while you are on vacation to spoil a day at the beach.  So glad to hear I am covered by my own insurance and that I don't have to purchase it from my rental car agency at 10X the amount with State Farm.  Yep!”
@@ -5186,8 +5056,7 @@ This Subway Sucks. Egg white omelet with tomatoes and spinach on flatbread.... S
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 15
-- **Check-ins Total:** 5542    7
-Name: count, dtype: int64
+- **Check-ins Total:** 7
 
 ## 5★ samples (Positive Reviews)
 - “We pay $25/month for one of the best packages that they have which is what you pay for one regular car wash. It's definitely worth it.  I guess this business has a new name which is Clean Freak Car Wash.  I usually stop in once a week if not more.  They provide vacuums so you can vacuum your car after the car wash.”
@@ -5213,8 +5082,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 2.5
 - **Review Count:** 29
-- **Check-ins Total:** 4575    21
-Name: count, dtype: int64
+- **Check-ins Total:** 21
 
 ## 5★ samples (Positive Reviews)
 - “Had to give Banfield another review. My puppy is now 6 months old and is going through a barking phase. She distrusts everyone but us. Marley wouldn't calm down to be weighed, but we were given the suggestion of my husband weighing himself with her, then without. My youngest daughter had an issue with being weighed as a toddler and when we suggested this, the nurse couldn't comprehend it. Sad that people taking care of pets are smarter than people taking care of humans! We hadn't been able to see her vet, Dr. Cameron, for the last few visits. First, she was on vacation, then I kept getting sick and having to reschedule with whoever was available. Marley barked and barked at the nurse but remembered Dr. Cameron! Marley was completely comfortable with her, no barking!  Dr. Cameron understood why Marley isn't well socialized immediately. I was paranoid of exposing her to other dogs, which also means people, until she was fully vaccinated. Now she has all of her shots and we're making baby steps at socializing her. If you see us, don't worry! She's all bark I promise!”
@@ -5243,8 +5111,7 @@ Took two of my pets, cat and dog, to Banfield for their semiannual comprehensive
 - **Attributes:** Business Accepts Credit Cards, Wheelchair Accessible
 - **Overall Rating:** 2.5
 - **Review Count:** 15
-- **Check-ins Total:** 6202    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “The staff at the Canyons at Linda Vista Trail clearly take great pride and have the utmost respect for what they do everyday on behalf of their residents and for the betterment of the community.   Specifically, to say that Mira, Patti, of course Sam, and the rest of Mira's team were absolutely outstanding to our family (including our beloved pet) while we lived at the Canyons over this past year is quite a gross understatement. The management staff went out of their way, as well as above and beyond to make us feel at home during our transition. My children would look forward to obtaining packages in the mail from the main office just to exchange warm greetings, genuine conversation, and sometimes a goodie. We thoroughly enjoyed our time residing at the Canyons.  Scotia Group Management: if you are reading this, your current administration staff deserve raises!”
@@ -5281,8 +5148,7 @@ Update: management came through and the neighbors from hell are gone! Thank you!
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Restaurants Delivery
 - **Overall Rating:** 2.5
 - **Review Count:** 30
-- **Check-ins Total:** 6834    262
-Name: count, dtype: int64
+- **Check-ins Total:** 262
 
 ## 5★ samples (Positive Reviews)
 - “I know what you're thinking when you see "Walmart" and a five-star rating accompanying it.   "But, Jason, Walmart is an enterprise for NASCAR fans and the backyard wrestling crowd. I don't shop with Juggalos and ravers."  And you would be remiss to feel otherwise. Given Walmart's reputation of attracting the most abhorrent crowds mankind has ever encountered, I would totally accept that brand of response wholeheartedly.   This is one Walmart, however, that goes against the grain. Let's commence with the grocery section. It's a relatively compact area that has somehow discovered a way to provide more options, despite the confinement.   The grade of beef sold is second to none. I live in Rita Ranch and will drive the added miles (which is only like two, but still...) for the beef. And that's not even mentioning the chicken, pork, fish, shrimp, sausage and other various fresh flesh items in the meat department. Seriously, don't even bother with any other grocery store when it comes to fresh meat.   Produce is generally stocked with fruits and vegetables you may not be able to locate at other markets on a consistent basis. Mangos, edamame, nopales, habaneros... these are just a select few that I have seen in the produce section at this Walmart when stores such as Fry's and Safeway only have limited availability.   The grocery section is similar to the competition but at a much more appropriate price and while much of the general consensus tend to dislike Walmart's product, the company excels when it comes to groceries and does so at an affordable price-range. Many other grocery chains that are thriving could stand to cut prices and they simply will not do it. For that reason, I will continue to come to this brand-new locale.   The rest of the store is a more spiffy version of most other Walmart's. You can buy anything at a relatively bargain price, but -- for now -- you can do so without any of the Walmart prerequisites that tend to deter the average customer to other competitors. It's like regular Walmart, but clean and with less butt crack. No more gelatinous piles of goo getting in your way here.   I'll return... often.”
@@ -5311,8 +5177,7 @@ Don't go to walmart during busy times you might get steam rolled Coachella shopp
 - **Attributes:** Bike Parking, Wheelchair Accessible, Restaurants Good For Groups, Has T V
 - **Overall Rating:** 2.5
 - **Review Count:** 11
-- **Check-ins Total:** 6037    6
-Name: count, dtype: int64
+- **Check-ins Total:** 6
 
 ## 5★ samples (Positive Reviews)
 - “I've been multiple times... All fantastic experiences I highly recommend it. The girls range from cute to beautiful”
@@ -5341,8 +5206,7 @@ LIT and AMAZING entertainment moving if you feel me go and see for your self LIT
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 16
-- **Check-ins Total:** 7320    19
-Name: count, dtype: int64
+- **Check-ins Total:** 19
 
 ## 5★ samples (Positive Reviews)
 - “I needed tires and an alignment. I went in and talked to about what I needed and they took care of me. Gave me an option for 2 different financing places to help if I wasn't able to pay all of it up front. It was a very nice and easy process, plus they didnt try and up sale or push you to purchase something you didnt want too. They were wonderful!!! Will go back to this one!!!!”
@@ -5371,8 +5235,7 @@ getting dan's flat tire replaced :(
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 2.5
 - **Review Count:** 101
-- **Check-ins Total:** 6703    54
-Name: count, dtype: int64
+- **Check-ins Total:** 54
 
 ## 5★ samples (Positive Reviews)
 - “One of my favorite car dealerships I've been too.  The complex is massive and has EVERYTHING you need.  Everything is clean here, the bathrooms are nice, and there is a fantastic waiting area with a cafe that has plenty of options!  I have had my oil changed twice. Both times it's taken 1hr - 1 1/2hr.  Both occasions they've quote me the appropriate wait time.    They even have a shuttle service to take you to and from work or home while your vehicle is getting serviced.    The technician today went above and beyond by asking if he could fix the "recalls" on my vehicle without me knowing about them.  Ballin!  After Jose did that, he decided to wash my car upon request for free.  Boo yah!  Tires here are incredibly expensive, I'd rather use discount tire, but they claim to price match if the brand is the same...  worth a shot with this kind of hospitality!  What a joy to find a car dealership that aren't total sleezeballs.  The American public appreciates you Holmes Tuttle.”
@@ -5401,7 +5264,7 @@ Ask about any rebates! Ask for Bob Schmidt in sales. BEST experience I've ever h
 - **Attributes:** Business Accepts Credit Cards, Accepts Insurance
 - **Overall Rating:** 2.5
 - **Review Count:** 9
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Such a great service! Mobile mammograms. The convenience of a mobile mammogram and a really caring staff makes for the perfect experience.”
@@ -5426,8 +5289,7 @@ Ask about any rebates! Ask for Bob Schmidt in sales. BEST experience I've ever h
 - **Attributes:** Business Accepts Credit Cards, Restaurants Good For Groups, Restaurants Take Out, Good For Kids, Restaurants Table Service, Outdoor Seating, Has T V, Restaurants Delivery, Bike Parking
 - **Overall Rating:** 2.5
 - **Review Count:** 74
-- **Check-ins Total:** 7656    161
-Name: count, dtype: int64
+- **Check-ins Total:** 161
 
 ## 5★ samples (Positive Reviews)
 - “I ate breakfast there yesterday, and the experience was perfect - the food arrived promptly, the portions were generous, the coffee cup was bottomless, the waitress Ashley was friendly and courteous, and the price was reasonable.  What's not to like?  A.”
@@ -5456,8 +5318,7 @@ Can't go wrong with the Moons Over My Hammy! This Dennys is to be rebuilt, about
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only
 - **Overall Rating:** 3.0
 - **Review Count:** 34
-- **Check-ins Total:** 5223    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “We have used them for several years now, and they continue to provide great service!”
@@ -5483,8 +5344,7 @@ Name: count, dtype: int64
 - **Attributes:** Wheelchair Accessible, Bike Parking, Business Accepts Credit Cards
 - **Overall Rating:** 3.0
 - **Review Count:** 133
-- **Check-ins Total:** 7817    168
-Name: count, dtype: int64
+- **Check-ins Total:** 168
 
 ## 5★ samples (Positive Reviews)
 - “Only nail place I trust to put my feet in their spa! Very clean and professional, high quality nail polishes, beautiful n calming atmosphere, best massage chair ... they know how to make their guests pleased and satisfy”
@@ -5513,7 +5373,7 @@ Best pedicure ever! Get Amy she is the absolute best! Love this place! Nice, chi
 - **Attributes:** 
 - **Overall Rating:** 3.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Terry was very responsive when we had an emergency plumbing issue.  Being out of town made it worrisome for us, but he helped us out with every step and solved the problem quickly with great customer service.”
@@ -5538,8 +5398,7 @@ Best pedicure ever! Get Amy she is the absolute best! Love this place! Nice, chi
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 3.0
 - **Review Count:** 18
-- **Check-ins Total:** 6820    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “Just moved to the Tucson area and needed a sofa bed.  I had researched stores for weeks and decided to make Brett Interiors my first stop.  I will be forever thankful I did.  Walked in and within 5 minutes had found the exact sofa bed I was looking for at a price I wanted to pay.  The assistance and service I received were above 5 stars.  Highly recommend this store.”
@@ -5568,8 +5427,7 @@ Quite simply, the worst retail experience of my life.
 - **Attributes:** Restaurants Good For Groups, Caters, Outdoor Seating
 - **Overall Rating:** 3.0
 - **Review Count:** 38
-- **Check-ins Total:** 7223    17
-Name: count, dtype: int64
+- **Check-ins Total:** 17
 
 ## 5★ samples (Positive Reviews)
 - “Came here when they first opened, food and atmosphere is better than ever great Mountain View's and great sunset. And of course food is excellent!”
@@ -5595,8 +5453,7 @@ Name: count, dtype: int64
 - **Attributes:** Restaurants Take Out, Outdoor Seating, Business Accepts Credit Cards, Good For Kids, Has T V
 - **Overall Rating:** 3.0
 - **Review Count:** 76
-- **Check-ins Total:** 2134    45
-Name: count, dtype: int64
+- **Check-ins Total:** 45
 
 ## 5★ samples (Positive Reviews)
 - “We ordered a carne asada quesadilla, pollo asada burrito, and rolled crunchy beef tacos. Everything was awesome and huge! The green salsa adds so much to it. We'll definitely stop here again thru Arizona.”
@@ -5625,8 +5482,7 @@ Slow service in the drive thru sometimes. Food is awesome though. Check your foo
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.0
 - **Review Count:** 13
-- **Check-ins Total:** 3681    8
-Name: count, dtype: int64
+- **Check-ins Total:** 8
 
 ## 5★ samples (Positive Reviews)
 - “Wasted a bunch of time on this visit to Phoenix searching for a nail salon that could indulge my preference for a dipping powder manicure. While I did find one salon in Chandler, it wasn't till I stopped for a girls' day pedicure with my cousins that I discovered this gem in Gold Canyon.   Canyon Nails has been in this location and run by the same crew for 16 years. They offer everything from dipping powder (yay) to acrylics and gel and provide relaxing and attentive salon services at reasonable prices. I wish they'd come to New Mexico where the healthier and longer lasting dipping powder manicure is almost non-existent. They didn't over-sell their service and there was no pressure for more expensive services I didn't want. Better yet, I watched their thorough and careful cleaning after the pedi was over and our toes dried.   Definitely on my list for my next visit!”
@@ -5655,8 +5511,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 3.0
 - **Review Count:** 19
-- **Check-ins Total:** 6647    36
-Name: count, dtype: int64
+- **Check-ins Total:** 36
 
 ## 5★ samples (Positive Reviews)
 - “Great selection - hundreds of frames and some even starting at $9 and nice. Plus fast, polite and efficient service. Everyone seemed happy and competant and the Optician Susan who waited on me was fantastic. I went to buy one cheap pair for driving, and bought 2 distance and one pair of readers for what I would have spent at Target or Lenscrafters, since it's 20 percent off for the 2nd and 3rd pair.  Also added reflective and sun shading. Why not, it was affordable!!!!”
@@ -5685,8 +5540,7 @@ Hey y'all. Just hanging out at Wal Mart. Like the cool people here. New low poin
 - **Attributes:** Good For Kids, Restaurants Take Out, Bike Parking, Business Accepts Credit Cards, Has T V, Restaurants Delivery, Caters
 - **Overall Rating:** 3.0
 - **Review Count:** 62
-- **Check-ins Total:** 2352    127
-Name: count, dtype: int64
+- **Check-ins Total:** 127
 
 ## 5★ samples (Positive Reviews)
 - “I've been a Wingstop fan for years and this store is one of the best. Incredibly polite employees and the store is impeccably clean.  Food is always hot and delicious w the BEST fries!  Give the Lemmon pepper wings a try... Delicious!”
@@ -5715,8 +5569,7 @@ Found coupon in a mailer for 3 free wings with a combo order. They've got online
 - **Attributes:** 
 - **Overall Rating:** 3.0
 - **Review Count:** 12
-- **Check-ins Total:** 4016    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “Picked me up at stroke rehab, was waiting for when I got to the door. Friendly gentleman and we talked all the way down to post office in Hereford.He got my walker out and waited while I collected 3 weeks mail. Short ride from post office to home. I live alone so when we got to my home, he again got my walker and suitcase, he offered to help me up my stairs, I decline because I wanted to use my muscles, he carried my suitcase. This was a 94 mile trip but good conversation all the way”
@@ -5745,8 +5598,7 @@ On 05/27/16, about 4:15 pm driver #2012 was driving like a maniac going east on 
 - **Attributes:** Business Accepts Credit Cards, Good For Kids, Restaurants Good For Groups, Has T V, Bike Parking, Restaurants Delivery, Restaurants Take Out, Drive Thru
 - **Overall Rating:** 3.0
 - **Review Count:** 28
-- **Check-ins Total:** 5183    76
-Name: count, dtype: int64
+- **Check-ins Total:** 76
 
 ## 5★ samples (Positive Reviews)
 - “Back again and even better... thank you Der Weiner Schnitzel! One Kraut and one Chili Dog with extra mustard.. Yummy!”
@@ -5775,8 +5627,7 @@ Thanks for your quick response. Saturday is $1.99 Freezee day. Dog food!  Spare 
 - **Attributes:** Restaurants Take Out, Bike Parking, Good For Kids, Restaurants Good For Groups, Has T V, Business Accepts Credit Cards, Restaurants Delivery, Restaurants Reservations
 - **Overall Rating:** 3.0
 - **Review Count:** 97
-- **Check-ins Total:** 3773    142
-Name: count, dtype: int64
+- **Check-ins Total:** 142
 
 ## 5★ samples (Positive Reviews)
 - “Good food at great price!  The remodel has vastly improved the interior.”
@@ -5805,8 +5656,7 @@ yum sizzling rice soup FTW Beef is rubbery and bland! Such nice folks here Lunch
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 3.0
 - **Review Count:** 10
-- **Check-ins Total:** 1692    27
-Name: count, dtype: int64
+- **Check-ins Total:** 27
 
 ## 5★ samples (Positive Reviews)
 - “Everyone is really nice. The woman with the blue/purple hair is awesome. Knowledgable  and very helpful and sweet. Good selection of beauty supplies and good deals.”
@@ -5843,8 +5693,7 @@ Cheers!
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.0
 - **Review Count:** 35
-- **Check-ins Total:** 3457    6
-Name: count, dtype: int64
+- **Check-ins Total:** 6
 
 ## 5★ samples (Positive Reviews)
 - “We just had our living room floor finished by Rogo's and couldn't be happier with the job they did at every point in the process.  We asked a lot of questions and all were answered satisfactorily.  The workmen who came out were very conscientious in keeping everything tidy and keeping the disruption to our home to a minimum.  The wait was worth it when we got to move our furniture in and put our rugs down on our new floor yesterday.  Even the dogs like it.  Thank you so much Steve, Felipe and son!”
@@ -5875,8 +5724,7 @@ Concrete spilled on our flagstone. The front lawn was their concrete and paint w
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.0
 - **Review Count:** 11
-- **Check-ins Total:** 313    32
-Name: count, dtype: int64
+- **Check-ins Total:** 32
 
 ## 5★ samples (Positive Reviews)
 - “I love this Fairfield inn ! I stay here often and yes ,it is an older hotel but the beds are extremely comfortable and the staff is super friendly.I admit there are some flaws ,like there is only one elevator and its super slow,but the breakfast was always nice and I always slept terrific.There could be some upgrades made to the bathrooms like the floor tiles are old but it was always clean.”
@@ -5903,7 +5751,7 @@ Free food and beer Mon-Weds 5-7 pm I love Marriott pens!
 - **Attributes:** 
 - **Overall Rating:** 3.0
 - **Review Count:** 9
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I hope you never need a tow, BUT IF YOU DO these are the guys to call in the Tucson area.   ON A SUNDAY we were traveling West on I-10, some random truck in front of us had an unsecured load and a table fell off the back of their truck; table basically blew up in front of us. One of the legs of the table pierced our rental mini-van's radiator, destroying it. Van became undriveable. We limped off the freeway and ended up in someplace called Marana. We called AAA they said it was gonna be two hours for a tow. Fortunately for us, Arturo from A and L was there in about 35 minutes, had the mini-van loaded onto his truck in under 5 minutes and then he gave us a ride to the car rental office all the way back at the Tucson airport. Dude was a pro and super helpful. We are very appreciative of the service we got from this company. They made the best of our bad situation.”
@@ -5929,8 +5777,7 @@ Free food and beer Mon-Weds 5-7 pm I love Marriott pens!
 - **Attributes:** Business Accepts Credit Cards, Restaurants Reservations, Restaurants Good For Groups, Bike Parking, Restaurants Delivery, Has T V, Outdoor Seating, Restaurants Take Out
 - **Overall Rating:** 3.0
 - **Review Count:** 298
-- **Check-ins Total:** 7302    1164
-Name: count, dtype: int64
+- **Check-ins Total:** 1164
 
 ## 5★ samples (Positive Reviews)
 - “I was killing time while in Tucson and rolled out to the local Indian casino to see what the hubbub was all about. As I drove up, the parking lot was swarmed with cars, and I just followed the directions of the parking lot attendant. Apparently there was a concert that evening.  I walked up to the ticket office to see who was playing, and a Mafioso looking Indian (feather, not dot) gentleman in a suit, turquoise bolo tie and boots put an envelope in my hands. "Enjoy" he said as he walked away.  I opened the envelope and inside were two tickets to see the world famous entertainer, Calvin Broadus. That's right. Snoop. Doggy. Dogg!  The amphitheater was a surprisingly intimate 5,000 seats. And for whatever reason, the venue was far from full that evening. I checked the seats numbers and sat down in row "ii". I asked the usher if we were in the right seats because we were less than twenty rows from the stage. Well apparently we were in the wrong seats, so he ushered us to row "i".   Yeah, that's right. NINE rows from the stage, dead center.   I bounced to classics like "What's my Name?" and "Gin and Juice", then later won $400 playing blackjack. I love you Pascua Yaqui Indian tribe!”
@@ -5960,8 +5807,7 @@ and the concert area looks cool! Celebrity poker tournament tonight Closed until
 - **Attributes:** Good For Kids, Business Accepts Credit Cards, Restaurants Reservations
 - **Overall Rating:** 3.0
 - **Review Count:** 7
-- **Check-ins Total:** 7608    7
-Name: count, dtype: int64
+- **Check-ins Total:** 7
 
 ## 5★ samples (Positive Reviews)
 - “I absolutely love Bear Down Kitchen. Everyone that works there is super kind and welcoming. The place itself is very clean and the view of the stadium is really nice and calming. The food is average, but it's all you can eat for a really fair price and gives you a lot of options if you're looking to be more nutritious without going broke.”
@@ -5988,8 +5834,7 @@ Bad food
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.0
 - **Review Count:** 11
-- **Check-ins Total:** 4002    41
-Name: count, dtype: int64
+- **Check-ins Total:** 41
 
 ## 5★ samples (Positive Reviews)
 - “FedEx has been the most reliable service we have used for transfering parcels for several years.”
@@ -6018,8 +5863,7 @@ Staff is Great at this location ; )
 - **Attributes:** Outdoor Seating, Good For Kids, Restaurants Table Service, Restaurants Take Out, Has T V
 - **Overall Rating:** 3.0
 - **Review Count:** 35
-- **Check-ins Total:** 3333    69
-Name: count, dtype: int64
+- **Check-ins Total:** 69
 
 ## 5★ samples (Positive Reviews)
 - “One of my favorite places for good, consistent, & fresh mexican seafood.  The ceviche is bomb!  The cocktails are all good & the service is always superb.  Great place!”
@@ -6048,8 +5892,7 @@ Cash only Excellent Cash only... And well worth your pesos. The tostada especial
 - **Attributes:** 
 - **Overall Rating:** 3.0
 - **Review Count:** 78
-- **Check-ins Total:** 1662    61
-Name: count, dtype: int64
+- **Check-ins Total:** 61
 
 ## 5★ samples (Positive Reviews)
 - “These guys are experts in every single type of animal care that there is.  All the employees are big animal lovers and have lots of pets of their own.  There's always some kinds of deals, bundles, or 2 for 1's going on or something as well.  Support this local business!”
@@ -6078,8 +5921,7 @@ Buy 10 bags of dog food, get the 11th free! For such a big store there were no c
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.0
 - **Review Count:** 25
-- **Check-ins Total:** 3355    96
-Name: count, dtype: int64
+- **Check-ins Total:** 96
 
 ## 5★ samples (Positive Reviews)
 - “The new supervisor here has REALLY improved the situation! Lots of good packaging supplies and helpful staff.”
@@ -6108,8 +5950,7 @@ Come early no wait!!! Amazing location, no line!! Open till 8 and last pick up a
 - **Attributes:** Restaurants Table Service, Has T V, Restaurants Take Out, Business Accepts Credit Cards, Good For Dancing, Restaurants Good For Groups, Bike Parking, Happy Hour, Caters, Outdoor Seating
 - **Overall Rating:** 3.0
 - **Review Count:** 58
-- **Check-ins Total:** 774    67
-Name: count, dtype: int64
+- **Check-ins Total:** 67
 
 ## 5★ samples (Positive Reviews)
 - “This was are favorite place the weekend my friends and I went to Tucson..  They have amazing food( goat cheese stuffed mushrooms were my absolute fave)  3$ Mexican beers were on special it was the day after cinco de mayo so it wasn't crazy busy but still really fun! Are server (can't remember her name) was awesome very attentive!! Even went out of her way to continue to wait on us even after we moved to the area outside to play corn hole and connect 4.  Highly recommend funky monk and will most definitely be back soon!!!”
@@ -6138,8 +5979,7 @@ Name: count, dtype: int64
 - **Attributes:** Bike Parking, Good For Kids, Business Accepts Credit Cards, Restaurants Delivery, Restaurants Good For Groups, Restaurants Take Out
 - **Overall Rating:** 3.0
 - **Review Count:** 67
-- **Check-ins Total:** 6959    846
-Name: count, dtype: int64
+- **Check-ins Total:** 846
 
 ## 5★ samples (Positive Reviews)
 - “What a great service. Once you figure out all the ins and outs of the app this is such a great service!!! My mom just has to be ready to open the door at the appointed hour... The driver brings the bags in and refuses a tip. What a great service for those who can no longer drive and walk the isles with ease.”
@@ -6170,8 +6010,7 @@ Oh. And they have good produce too. Apparently the breakfast sandwiches are NOT 
 - **Attributes:** Restaurants Good For Groups, Business Accepts Credit Cards, Good For Kids, Restaurants Take Out, Has T V, Outdoor Seating, Caters
 - **Overall Rating:** 3.0
 - **Review Count:** 13
-- **Check-ins Total:** 4104    31
-Name: count, dtype: int64
+- **Check-ins Total:** 31
 
 ## 5★ samples (Positive Reviews)
 - “Our first sit down, get a snack and enjoy the air conditioning rest stop on our Desert Museum adventure today!   The Ironwood Terraces is lovely and a little tucked away in the corner of the museum so it's not usually over crowded. It's a cafeteria style restaurant with lots of options from burgers and fries to salads and grilled fish. Don't bother trying to find any obvious lines- just figure out what you want and go to that counter. Today our party was just looking for drinks and ice cream.   We decided to invest in the Desert Museum plastic cup - they are $3 -$4 depending on which design you pic (there are two different cups to choose from and they hold about 20-24 ounces each.) The best part is you get free refills "for the life of the cup!" Several Desert Museum employees mentioned the program to us, so we had to check it out.   Sure enough, every time we stopped at a restaurant, cafe or even the coffee bar while inside the Desert Museum, we were able to get a free refill (fountain drink or iced tea,) with our new magic cups. As we left, we were encouraged to bring our cups again next time too! What a deal! I guess they really really want to encourage hydration here!   The Terraces dining area is great - it was hot so we sat inside today. The views of the surrounding museum desert gardens are still beautiful and the overhead ceiling fans circulating the A/C on a 90 degree day in Tucson like today, felt marvelous to this Seattle girl!  3 stars for grill/cafeteria dining, 4 stars for friendly and excellent customer service and 5 stars all the way for ambience, whimsy (metal insect art... look up in the dining room,) and absolutely breathtaking Sonoran Desert beauty!”
@@ -6199,8 +6038,7 @@ The food here is good.  Cafeteria style but they cook everything to order. Buy a
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 3.0
 - **Review Count:** 30
-- **Check-ins Total:** 665    197
-Name: count, dtype: int64
+- **Check-ins Total:** 197
 
 ## 5★ samples (Positive Reviews)
 - “Excellent sales today. We found alot of art supplies on sale. They also have the Halloween decor out which is really cool.”
@@ -6229,8 +6067,7 @@ I used the phone app to redeem a coupon. Yeah Making Cup Quequitos' shirts! I en
 - **Attributes:** 
 - **Overall Rating:** 3.0
 - **Review Count:** 7
-- **Check-ins Total:** 6970    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “Been here since October 2015 in the RV section. The entire complex is clean and well-kept. Staff very friendly, residents very friendly. After looking at several RV parks in the area I chose this one because of it's convenient location, overall Appearance, and cost. They have a beautiful pool area that is well-kept grounds that are well-kept and in my honest opinion the best deal in town for rates. Having grown up in the Tucson area back in the 70s 80s and 90s, I  considered it to be in a very safe part of town on the far east side and is very quiet.”
@@ -6254,8 +6091,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 3.0
 - **Review Count:** 6
-- **Check-ins Total:** 5208    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “My family and I walked in and right away we were asked if we could be helped looking for anything specific. We were asked again by another employee if we had any questions about anything. Staff seemed to be at a good pace assisting customers. This is great for a Sunday.”
@@ -6280,8 +6116,7 @@ Name: count, dtype: int64
 - **Attributes:** Bike Parking, Business Accepts Credit Cards, Wheelchair Accessible, Dogs Allowed
 - **Overall Rating:** 3.0
 - **Review Count:** 15
-- **Check-ins Total:** 1052    176
-Name: count, dtype: int64
+- **Check-ins Total:** 176
 
 ## 5★ samples (Positive Reviews)
 - “Found some very nice high end items!! Very clean and professional, friendly staff. Was visiting from LA and wish our goodwill had decent prices like this one!”
@@ -6308,8 +6143,7 @@ Cleaning the closet! Ugly holiday sweater shopping! Woot woot! One man's trash i
 - **Attributes:** Has T V, Outdoor Seating, Restaurants Good For Groups, Restaurants Take Out, Bike Parking, Good For Kids, Restaurants Table Service, Wheelchair Accessible, Business Accepts Credit Cards, Restaurants Delivery, Happy Hour
 - **Overall Rating:** 3.0
 - **Review Count:** 44
-- **Check-ins Total:** 360    158
-Name: count, dtype: int64
+- **Check-ins Total:** 158
 
 ## 5★ samples (Positive Reviews)
 - “Just finished lunch here. Despite some old negative reviews about food and atmosphere, we thought everything was just fine. Nice open sports bar environment. Large garage doors opened to the outside give the entire place an outdoor vibe. Pleasant service. Appropriately sports decorations and tables.  Reasonable prices.  Good beer selection, and the food was excellent.  JJ had the Reuben and took half it home l. I had the foot long kielbasa on a Kaiser roll served with excellent. fries. A Polish boy's dream lunch.  Ate it all. Please don't forward the picture to my cardiologist.   PS. We didn't see the waitress who wears almost nothing, as mentioned in Kelly B's earlier review. Darn it”
@@ -6338,8 +6172,7 @@ Average, nothing to write home about. Best burgers in town Good local place to h
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 3.0
 - **Review Count:** 47
-- **Check-ins Total:** 364    27
-Name: count, dtype: int64
+- **Check-ins Total:** 27
 
 ## 5★ samples (Positive Reviews)
 - “I live in Tucson, and make the 35min drive every two weeks to vail because the work from the technicians are worth it! Everyone always takes their time to make sure you get exactly what you ask for! The salon is always clean, and no matter what time I've gone in, I always see the employees sweeping and cleaning their tools and stations! If you're looking for a place where people truly care about the work they're doing for you, come see Van and the rest of the team here at Eva Nails!”
@@ -6368,8 +6201,7 @@ If you're here, read my review, look at the picture of my rash, THEN consider le
 - **Attributes:** Restaurants Good For Groups, Restaurants Delivery, Business Accepts Credit Cards, Restaurants Take Out, Good For Kids
 - **Overall Rating:** 3.0
 - **Review Count:** 56
-- **Check-ins Total:** 5795    20
-Name: count, dtype: int64
+- **Check-ins Total:** 20
 
 ## 5★ samples (Positive Reviews)
 - “Food staff and restaurant manager Douglas were outstanding. You can tell all will be well when the manager is on the ball. Hope they keep up the generally excellent food and service of Denny's restaurants. Thank you all. God Bless.”
@@ -6398,8 +6230,7 @@ Don't order takeout or door dash. They will forget multiple items every time OK 
 - **Attributes:** 
 - **Overall Rating:** 3.0
 - **Review Count:** 7
-- **Check-ins Total:** 5589    18
-Name: count, dtype: int64
+- **Check-ins Total:** 18
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -6425,8 +6256,7 @@ Usually easy and reasonable line, the lines can be long in the morning especiall
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Restaurants Take Out, Drive Thru
 - **Overall Rating:** 3.0
 - **Review Count:** 14
-- **Check-ins Total:** 1602    36
-Name: count, dtype: int64
+- **Check-ins Total:** 36
 
 ## 5★ samples (Positive Reviews)
 - “Rene at the Pharmacy is a real asset. Great customer service, helped me to get the right med for my little one ASAP.  Kudos!! When it's about the Health of your kids nothing like pronto fast service. Grateful.”
@@ -6455,8 +6285,7 @@ Really incompetent people at the pharmacy. If I were you I would read your presc
 - **Attributes:** 
 - **Overall Rating:** 3.0
 - **Review Count:** 5
-- **Check-ins Total:** 7401    6
-Name: count, dtype: int64
+- **Check-ins Total:** 6
 
 ## 5★ samples (Positive Reviews)
 - “I lived here for two years while attending the University of Arizona and loved it. It's a very quiet property - very important to me, close to everything I needed (Trader Joe's, Rillito for running, Union Public House, the University). Neighbors and management were always very friendly. I got lucky with a north facing view of the gorgeous Catalina's. Gated was a big plus for me as well. Wouldn't hesitate to live here again.”
@@ -6483,8 +6312,7 @@ Beautiful area
 - **Attributes:** Good For Kids, Restaurants Take Out
 - **Overall Rating:** 3.0
 - **Review Count:** 5
-- **Check-ins Total:** 73    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “I can't believe this location wasn't on yelp yet! This place is gold! It's a popular favorite amongst many of the college kids on campus. The set up can be tricky for those who are unfamiliar with the process but you go in and grab one of the slips (whichever one has what you want on it-some slips are for plain bagels, some slips are for breakfast bagels, lunch bagels, signature bagels, you get the idea) then you put your name on that and toss it in a little cubby! The workers behind the glass then grab your slip and make your food and call your name when it's Time to go to the register and pay.   My personal favorite from here are the French toast and Tucson bagel! These loaded bagels are about 5$ each. They also sell coffee,orange juice, water, fruit, and sometimes cookies or muffins!”
@@ -6511,8 +6339,7 @@ Burnt my bagel. Waited in line for 15 minutes to pay $6 for a mediocre bagel wit
 - **Attributes:** 
 - **Overall Rating:** 3.0
 - **Review Count:** 6
-- **Check-ins Total:** 7493    7
-Name: count, dtype: int64
+- **Check-ins Total:** 7
 
 ## 5★ samples (Positive Reviews)
 - “From day 1 I have loved banking here.  Well, perhaps day 178, when running in to a teller at Tucson Meet Yourself- and she remembered my name.  Never got that level of personal service with Wells Fargo.  Last Friday I totaled my car.  Today, I went to deposit the settlement check.  Now, I need this money so I can give up the rental, and make a down payment on a new vehicle.  Because of the amount of the check,  there's an automatic 7 business day hold.   Uh oh. ..this immediately stresses me out.  15 minutes later, Nichole lets me know that the teller had spoken with her, she knew my circumstances,  and the check was clear.  Service above and beyond!”
@@ -6541,8 +6368,7 @@ Not the best place to go to an ATM.
 - **Attributes:** 
 - **Overall Rating:** 3.0
 - **Review Count:** 6
-- **Check-ins Total:** 3512    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “Fantastic! Express really took the time to figure out what would be best for me and guided me through the process of everything I would need to do for my best possible position. Cate and Wendy are great, and they don't make you feel like a number. If you want to be a substitute teacher or find any other job, I would recommend Express as your first stop.”
@@ -6566,8 +6392,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Outdoor Seating, Restaurants Take Out, Restaurants Delivery
 - **Overall Rating:** 3.0
 - **Review Count:** 103
-- **Check-ins Total:** 5802    313
-Name: count, dtype: int64
+- **Check-ins Total:** 313
 
 ## 5★ samples (Positive Reviews)
 - “Thank you grant/swan dunkin donuts for supporting probation and community corrections professionals. The donuts were fresh and delicious.”
@@ -6596,8 +6421,7 @@ Good coffee at 5:30pm. Bathroom is clean, possibly because you need to ask the s
 - **Attributes:** Business Accepts Credit Cards, Wheelchair Accessible, Bike Parking
 - **Overall Rating:** 3.0
 - **Review Count:** 5
-- **Check-ins Total:** 7379    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - (none found)
@@ -6620,7 +6444,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 3.0
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I highly recommend Buzz Dempsey and his team for your mortgage needs. They are very professional, knowledgeable, and caring. You're not just a number or a case with this team your treated like family. We were not an easy case but Buzz found a way because he knows his stuff! He made sure we understood the whole process and when we didn't he took the time to explain it all to us. Thank you Buzz and the V.I.P Mortgage Team.”
@@ -6645,8 +6469,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.0
 - **Review Count:** 5
-- **Check-ins Total:** 2875    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “We're shopping for pavers to extend the patio and block for a wall. They have a huge selection of both. The staff is really helpful and knowledgeable.”
@@ -6670,8 +6493,7 @@ Name: count, dtype: int64
 - **Attributes:** Restaurants Take Out, Caters, Has T V, Outdoor Seating, Good For Kids, Business Accepts Credit Cards, Wheelchair Accessible, Restaurants Good For Groups, Bike Parking, Restaurants Delivery
 - **Overall Rating:** 3.0
 - **Review Count:** 101
-- **Check-ins Total:** 5055    62
-Name: count, dtype: int64
+- **Check-ins Total:** 62
 
 ## 5★ samples (Positive Reviews)
 - “I was doubtful after reading the terrible reviews this place hd, but I was bored of Wingstop. This place BLEW me away. The wings were big and crispy, more than generously seasoned, and the onion rings were sooo good. Only complaint is that I got an extra ranch instead of special sauce on the side, I'm looking forward to trying it in my next order. I had a really good experience here.”
@@ -6700,8 +6522,7 @@ We ordered boneless wings could not finish the 1st wing I had was not cooked al 
 - **Attributes:** By Appointment Only
 - **Overall Rating:** 3.0
 - **Review Count:** 7
-- **Check-ins Total:** 3208    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “Dr. Vig took care of my Grandmother and must have done a very good job, as she died at age 99.  I have gone to Dr. Vig for the past 15 years and he has solved all my health problems.  He has sent me to different Dr. to solve problems that are out of his practice.  Thank you Dr. Vig.”
@@ -6727,8 +6548,7 @@ Name: count, dtype: int64
 - **Attributes:** Outdoor Seating, Restaurants Reservations, Has T V, Restaurants Good For Groups, Restaurants Take Out, Business Accepts Credit Cards, Happy Hour, Good For Kids
 - **Overall Rating:** 3.0
 - **Review Count:** 38
-- **Check-ins Total:** 3212    123
-Name: count, dtype: int64
+- **Check-ins Total:** 123
 
 ## 5★ samples (Positive Reviews)
 - “It's OFI! Been here before I was born and hopefully long after I die. It's a bar so what do you expect!? If you're from the foothills expecting a pampered ass and wine your only going to leave butt hurt with bourbon. It's a bar a real bar nothing more nothing less. Oh and the food is bomb.com”
@@ -6757,8 +6577,7 @@ Way cool and very fun dive bar. I believe I was swimming in a pond of Ex's, not 
 - **Attributes:** Restaurants Take Out, Business Accepts Credit Cards, Bike Parking, Good For Kids, Has T V, Restaurants Delivery
 - **Overall Rating:** 3.0
 - **Review Count:** 23
-- **Check-ins Total:** 6147    19
-Name: count, dtype: int64
+- **Check-ins Total:** 19
 
 ## 5★ samples (Positive Reviews)
 - “These are the best tortillas in Tucson, hands down! A plus is that they're always warm when you pick a pack up.”
@@ -6787,8 +6606,7 @@ Still hot from the morning when you pick them up! Mine and my Family's favorite 
 - **Attributes:** Business Accepts Credit Cards, Restaurants Delivery, Restaurants Take Out, Wheelchair Accessible, Drive Thru
 - **Overall Rating:** 3.0
 - **Review Count:** 11
-- **Check-ins Total:** 6120    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - “We love their eegees drinks and grinder.  They're always busy! The have good salads too!”
@@ -6812,8 +6630,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Good For Kids, Outdoor Seating, Restaurants Take Out, Restaurants Good For Groups, Bike Parking, Drive Thru, Has T V, Restaurants Delivery
 - **Overall Rating:** 3.0
 - **Review Count:** 42
-- **Check-ins Total:** 4732    156
-Name: count, dtype: int64
+- **Check-ins Total:** 156
 
 ## 5★ samples (Positive Reviews)
 - “I move the very close to it and the food is good the shakes up and up the shakes are off the hook do you want a great milkshake go to Del taco I am not joking great tacos great talk everything is good there”
@@ -6842,8 +6659,7 @@ Chili cheese fries!!!! $1.49 Sundays 3 regular tacos Quick and pleasant service.
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Restaurants Delivery
 - **Overall Rating:** 3.0
 - **Review Count:** 5
-- **Check-ins Total:** 1593    85
-Name: count, dtype: int64
+- **Check-ins Total:** 85
 
 ## 5★ samples (Positive Reviews)
 - “A great location for both your immediate needs plus they sell liquor. They have deals/discounts on photos regularly. The customer service was simple but not bad.”
@@ -6866,7 +6682,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.0
 - **Review Count:** 13
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Highly recommend this company, from start to finish they performed quality work. Kept the work site clean, arrived on time and worked late. This company goes "above and beyond" again, highly recommend.”
@@ -6892,7 +6708,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 3.5
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I called Sunrise Irrigation for a quote.  They came out the next day and performed the service 4 work days later.  They even threw in a couple extra connections at no additional charge.  I think they're terrific.  Another company I called couldn't even send someone out to give me a quote for 3 weeks.”
@@ -6917,8 +6733,7 @@ Name: count, dtype: int64
 - **Attributes:** Restaurants Delivery, Restaurants Take Out, Restaurants Reservations, Good For Kids, Has T V, Caters, Bike Parking, Restaurants Good For Groups, Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 19
-- **Check-ins Total:** 1424    28
-Name: count, dtype: int64
+- **Check-ins Total:** 28
 
 ## 5★ samples (Positive Reviews)
 - “Valentines dinner for grandson who loves pepperoni pizza ( must be Heredity ) ? No reservation , eat outside al fresco , great friendly service , not an overpriced valentines special menu!  Currently may 2 med 2 item s 5.99$ each or Lg 3 item 7.99$ hard to beat in local area here”
@@ -6947,8 +6762,7 @@ Wanted to go to basils swan sunrise not open till 4pm too hot to grill 2x2toppin
 - **Attributes:** Bike Parking, Outdoor Seating, Restaurants Good For Groups, Has T V, Restaurants Take Out, Wheelchair Accessible, Caters, Happy Hour, Business Accepts Credit Cards, Restaurants Table Service
 - **Overall Rating:** 3.5
 - **Review Count:** 85
-- **Check-ins Total:** 3726    165
-Name: count, dtype: int64
+- **Check-ins Total:** 165
 
 ## 5★ samples (Positive Reviews)
 - “The Pasta a la Tucson is amazing with it's perfectly savory tequila-lime cream sauce, the Jalepeno Popper Burger is as good as it sounds, and they have the best beer-battered fries and handmade onions rings i've ever tasted, and that's with experience spanning Oregon, California, Washington, Texas, and Ohio! They also have a huge selection of chicken wing sauces that are truly mild to truly spicy”
@@ -6977,8 +6791,7 @@ These guys have the best lemon pepper wings in town. Best burgers in town! Chris
 - **Attributes:** Restaurants Take Out, Bike Parking, Has T V, Restaurants Reservations, Business Accepts Credit Cards, Restaurants Good For Groups, Good For Kids, Restaurants Table Service, Restaurants Delivery, Wheelchair Accessible
 - **Overall Rating:** 3.5
 - **Review Count:** 70
-- **Check-ins Total:** 5167    257
-Name: count, dtype: int64
+- **Check-ins Total:** 257
 
 ## 5★ samples (Positive Reviews)
 - “We visited Sunday at around 2pm  Our experience didn't start off so great. Our party of 6 was seated, and were left waiting for at least 15 minutes for anyone to follow up with us on drinks or anything. We finally got someone's attention and they apologized as their communication was off.   After we ordered drinks and food  (as we had waited a long enough time to decide what to eat) the manager came over to apologize and offered us an appetizer on the house. This was much appreciated because most restaurants wouldn't do something like that.   As far as the food, everything was very good and came out to us super quick even tho it wasn't too busy. We ordered the clam chowder (a little salty but good), the lobster Mac n cheese, the (2) Admiral's feast (the fried scallops were tiny and the fried lobster was also small and mostly breading) bit it comes with a salad and a side which was definitely a feast. Oh and of course, the appetizer was on point. It included 4 cooked plain shrimp served on ice, 4 stuffed cheese mushrooms, and 4 coconut shrimp. We also ordered strawberry and peach lemonades which were super good and refreshing. Not too sweet either.   Overall, our service was fantastic! Thank you, we'll be back.”
@@ -7007,8 +6820,7 @@ Always great food, had good service. My Mother's Day dinner ala Don! We love it 
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Wheelchair Accessible
 - **Overall Rating:** 3.5
 - **Review Count:** 16
-- **Check-ins Total:** 6177    7
-Name: count, dtype: int64
+- **Check-ins Total:** 7
 
 ## 5★ samples (Positive Reviews)
 - “I was in Tucson for a few weeks and I stumbled upon this shop. I travel a lot and always try different vapes from different shops. I have NEVER tasted juices this good before. I purchased My Melons and Express Joe and I was so impressed that I bought the biggest bottles they had. Unfortunately for me, TSA confiscated my bottles before hopping on a plane. I have not been able to find juice as smooth and with such amazing flavor as I found here. I'm now in Virginia and just had to order those 2 juices over the phone because I just can't find anything as good. The prices are AMAZING too. This shop is all around amazing and the employees are incredibly helpful, patient and kind. If I was still in Tucson I would be here all the time. For now I will be ordering over the phone from them. I HIGHLY recommend. 10/10”
@@ -7037,8 +6849,7 @@ Your manager Carissa is a HOE. Terrible customer service. This place sucks. Plac
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 19
-- **Check-ins Total:** 1912    24
-Name: count, dtype: int64
+- **Check-ins Total:** 24
 
 ## 5★ samples (Positive Reviews)
 - “I needed my car title notarized so I could sell it. I got that done at this UPS store for $10, which is very reasonable. It took all of five minutes. I've used this store for shipping and have always been very satisfied, but this was the first time I'd used the notary service. All the staff were wearing masks, and there is always a friendly and professional vibe at this location.”
@@ -7064,8 +6875,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 3.5
 - **Review Count:** 30
-- **Check-ins Total:** 7572    10
-Name: count, dtype: int64
+- **Check-ins Total:** 10
 
 ## 5★ samples (Positive Reviews)
 - “great place to take your pet. the receptionist Mary was very pleasant and helpful. my 13 year old dog needed a tail amputation and a dental, the doctor there did a great job on her stump. she was in and out the same day and i was very happy with the price. other hospitals quoted me twice as much. definitely a new customer now !!!”
@@ -7091,8 +6901,7 @@ Name: count, dtype: int64
 - **Attributes:** Good For Kids, Restaurants Take Out, Has T V, Outdoor Seating, Restaurants Good For Groups, Business Accepts Credit Cards, Bike Parking, Restaurants Delivery, Caters
 - **Overall Rating:** 3.5
 - **Review Count:** 114
-- **Check-ins Total:** 4536    107
-Name: count, dtype: int64
+- **Check-ins Total:** 107
 
 ## 5★ samples (Positive Reviews)
 - “Best Italian food in Tucson. I would give them 10/10 if I could. Must try if you are a local or visiting. Friendly caring staff make feel like family. Amazing food. Great experience. I would recommend food network checks this place out it's a winner!”
@@ -7121,8 +6930,7 @@ Best Italian beef and cheese sandwiches in AZ!  The fries are great too! The bil
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only, Bike Parking, Wheelchair Accessible, Accepts Insurance
 - **Overall Rating:** 3.5
 - **Review Count:** 50
-- **Check-ins Total:** 5626    18
-Name: count, dtype: int64
+- **Check-ins Total:** 18
 
 ## 5★ samples (Positive Reviews)
 - “I was AMAZED (and deeply comforted) by the over-the-top customer service--and true kindness--that I experienced before, during, and after my recent MOHS surgery at the River Park location. I received excellent care from every person I interacted with, whether on the telephone, in the office, or in the billing back office! And, since, I went in with a very complex/logistically-challenging insurance situation (and, frankly, some emotional duress about the insurance situation plus nervousness over the surgery itself), I ended up working with several different admin people and nurses to figure out my situation. They went so far as to actually go apply to GET my doctor of choice (Dr. Dihr) covered by my insurance before my first insurance ended (so kind, wow)!! Then, when my new insurance demanded excessive documentation in order to start my policy on time, not only did a few different different staff members work to get my records turned around in record time (I was so grateful!), but then even Dr. Chen himself agreed to come in and give an observation/assessment of my healing (for no extra charge) even though he wasn't the surgeon I saw, so that I could start my new insurance on time. I wish I could thank by name each person who greeted me, dealt with my 2 insurance companies's difficult paperwork requests, helped me see the doctor of my choice, were with me before and during the surgery (so kind, professional, and reassuring!), and who worked with me over the phone. Alas, the only name I have is Bernadette (Bernie), the awesome surgery assistant to Dr. Dihr--thank you Bernie! Furthermore, I am very grateful for the excellent and skillful (and kind) work and words of Dr. Dihr during the surgery itself. I cannot say enough about how relieved and pleased I am with the care I received at HealthySkin. NOTE: I've been dealing with skin issues (including skin cancer) for 10 years, and over the last decade, I've been seen by 4 other dermatologists in Tucson--(3 of whom I could also give a good to great recommendation for (everyone EXCEPT "zero stars" for Specialists in Dermatology, please never go there)--but none as shining as the awesome folks at HealthySkin, and that's in large part because of all their amazing nurses and admin staff!!! Thank you, thank you, thank you. :-)”
@@ -7151,8 +6959,7 @@ I love Kathleen! She is personable, thorough and fast. And, she is always on tim
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 35
-- **Check-ins Total:** 4633    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “Water Tec worked hard with me to try and fill my needs. My request to install a water softener and filters in the configuration I needed were not very common, so I got a time and materials with a not-to-exceed estimate. I had bought the filters and softeners on line from another source. The plumbers came and worked as expeditiously as they could, George was the actual plumber that installed my units, very friendly and professional guy.  They also responded very quickly to a very, very small drip that developed and within a day they had sent another plumber to take care of it. I got several calls from Water Tec and it seemed that they had put in motion everyone in their shop to cure the problem.  Did not get my invoice for a while, I was told they only send invoice once a month, which baffled me a bit, buy hey, it's their money and system. I also requested an itemized bill (since it was time and materials) and that took a while to get. But once I left a message to Leigh, it was promptly taken care of.  Anyway, the billing situation will soon be forgotten, but the good workmanship and the understating of my unusual situation will remain for a long time.  Will recommend this company to anyone that asks.”
@@ -7183,8 +6990,7 @@ Total came to $140.00 before a 5% discount which the serviceman forgot to give u
 - **Attributes:** Bike Parking, Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 8
-- **Check-ins Total:** 2320    46
-Name: count, dtype: int64
+- **Check-ins Total:** 46
 
 ## 5★ samples (Positive Reviews)
 - “This ACE has a great selection and the customer service has been great. A better alternative to Home Depot if you need questions answered.”
@@ -7212,8 +7018,7 @@ Ace Hardware now has Craftsman tools.
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 5
-- **Check-ins Total:** 538    82
-Name: count, dtype: int64
+- **Check-ins Total:** 82
 
 ## 5★ samples (Positive Reviews)
 - “got stuck at the bx parking lot coz battery died on me. Walked to the dm express to see if anyone in the automotive could give me a ride to jump my car. They are so quick to attend to me  and very helpful. Got my car jumped and drove it to their place to get new battery. I was in and out of there in a timely manner and the mechanic even checked my car if it needed anything else. All in all, i had a good experience here.”
@@ -7238,8 +7043,7 @@ At this moment I got filled for $3.43 per gallon. This is on the Air Force base.
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 48
-- **Check-ins Total:** 5213    24
-Name: count, dtype: int64
+- **Check-ins Total:** 24
 
 ## 5★ samples (Positive Reviews)
 - “I have a Volvo SUV and I love my car.  It's my second one! The salesmen have been low key, so it was a pleasure to shop. The service department is perfect. There's always a loaner car for me. I used to drive a BMW and hated going in for service so much that I wouldn't consider buying another one!”
@@ -7265,8 +7069,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 3.5
 - **Review Count:** 69
-- **Check-ins Total:** 6806    64
-Name: count, dtype: int64
+- **Check-ins Total:** 64
 
 ## 5★ samples (Positive Reviews)
 - “This place is amazing!  Definitely satisfied and definitely recommend! Very low key spot, I never have to wait long.  Service is quick and the ladies are very gentle when threading! This is by Far the Best experience I've had with threading!   My eyebrows are always hideous and uneven, but by the time I leave this place, these ladies always let me leave with an even pair of brows :)   Only negative that I have is that the prices are just a tad higher than what I'm used to but suites their service.”
@@ -7295,8 +7098,7 @@ Fast and friendly. Rewards system is a bonus! $30 for full-face threading...expe
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 3.5
 - **Review Count:** 13
-- **Check-ins Total:** 4700    37
-Name: count, dtype: int64
+- **Check-ins Total:** 37
 
 ## 5★ samples (Positive Reviews)
 - “First off walking in the front door is like heaven for a bowhunter or an archer for that matter.  I picked up a brand new 2012 Brute X in skullworks camo and man this bow is sweet the set it up sized and draw weight for free with new resized d-loop. i brought my own sight and drop away and they even installed those.. PSE is just plain top notch service and top notch products. I have been back twice since and you get a free month use of their indoor range when you buy a bow.   Thank you PSE pro shop team I'll be back for sure”
@@ -7325,7 +7127,7 @@ Outdoor practice begins They offer a 25% discount for active duty military.
 - **Attributes:** By Appointment Only, Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Very happy with our emergency plumbing service! I've had bad experiences with other plumbing companies (unfriendly techs, not solving the problem, crazy up-charges) so I wasn't looking forward to another bad experience. This was the opposite in every way. From the time we placed the call to clean up and paper work, the service was professional, friendly, and thorough.”
@@ -7350,7 +7152,7 @@ Outdoor practice begins They offer a 25% discount for active duty military.
 - **Attributes:** 
 - **Overall Rating:** 3.5
 - **Review Count:** 8
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Stopped here to get a deep cycle battery for the RV. Ken gave me a lot of good info and made me a good deal on what I needed.  Honest folks running a small business. Go here to get your batteries”
@@ -7378,8 +7180,7 @@ Disappointed with covid protocols / cleanliness of the store Disappointed with c
 - **Attributes:** Good For Kids, Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 18
-- **Check-ins Total:** 3531    12
-Name: count, dtype: int64
+- **Check-ins Total:** 12
 
 ## 5★ samples (Positive Reviews)
 - “So helpful and amazing. I felt so good and happy in here. I bought so many things in here. One was so kind and knowledgeable !!!”
@@ -7404,8 +7205,7 @@ Name: count, dtype: int64
 - **Attributes:** Outdoor Seating, Good For Kids, Business Accepts Credit Cards, Bike Parking, Restaurants Take Out, Caters, Restaurants Delivery, Has T V
 - **Overall Rating:** 3.5
 - **Review Count:** 12
-- **Check-ins Total:** 5806    66
-Name: count, dtype: int64
+- **Check-ins Total:** 66
 
 ## 5★ samples (Positive Reviews)
 - “We frequent this location and are always impressed with the customer service and quality of food.  We would like to say thank you to Amanda for making our most recent experience especially enjoyable.  Her kindness and passion for a positive customer experience went above and beyond.”
@@ -7434,8 +7234,7 @@ Familiar food. Fast. Easy. Love the sandwiches (banana peppers!), but the employ
 - **Attributes:** Business Accepts Credit Cards, Restaurants Take Out, Restaurants Good For Groups, Bike Parking, Good For Kids, Has T V, Caters, Restaurants Delivery
 - **Overall Rating:** 3.5
 - **Review Count:** 14
-- **Check-ins Total:** 5103    49
-Name: count, dtype: int64
+- **Check-ins Total:** 49
 
 ## 5★ samples (Positive Reviews)
 - “This is a good subway, the main benefit is they have a drive through and there is usually one dedicated person to staff it. It is a smaller location inside so it be quite cramped at lunch.”
@@ -7464,8 +7263,7 @@ Awesome staff and wow, they have a drive thru. Always a long line ; try drive th
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Restaurants Good For Groups, Outdoor Seating, Has T V, Good For Dancing
 - **Overall Rating:** 3.5
 - **Review Count:** 155
-- **Check-ins Total:** 3378    1302
-Name: count, dtype: int64
+- **Check-ins Total:** 1302
 
 ## 5★ samples (Positive Reviews)
 - “Always a good time at Sky Bar! The bartenders take good care of us and the Cass and Cassandra combination knock it out of the park! Dont forget about Kenny! He always knows what to make for us!! Thank you Sky Bar!!”
@@ -7494,8 +7292,7 @@ Great seasonal brew selection! Solar powered goodness The house-made gingerale a
 - **Attributes:** 
 - **Overall Rating:** 3.5
 - **Review Count:** 9
-- **Check-ins Total:** 2356    11
-Name: count, dtype: int64
+- **Check-ins Total:** 11
 
 ## 5★ samples (Positive Reviews)
 - “Great venue! We have our ballet productions here and they are very accommodation. The building is absolutely stunning! The ballroom is beautiful. The sets our amazing as well. Lynn is fun to work with. Would make a great wedding venue or charity event venue!”
@@ -7524,8 +7321,7 @@ Awesome venue for a special event
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 3.5
 - **Review Count:** 7
-- **Check-ins Total:** 2285    71
-Name: count, dtype: int64
+- **Check-ins Total:** 71
 
 ## 5★ samples (Positive Reviews)
 - “This review is solely on those who shop at Ross.....  We are all there for the same reason, to find a deal. With that being said, it's not a daycare center. Please don't let your children run free around the store to tear it up, bump into other customers and scream at the top of their lungs for no reason at all. Please be respectful of others shopping experience.  And to the store employees.... I know it's not your place or mine to babysit these children, but you could very well lose lots of customers because of this. Not to mention they tear up your store and could get seriously hurt.”
@@ -7550,8 +7346,7 @@ Great place for cheap kitchen supplies This is a nicer, cleaner Ross store. Some
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 6
-- **Check-ins Total:** 8377    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “From the moment we met Paris, she went above and beyond with her customer service. We were recently involved with a custody case and she took time explain what our best approach was. She gave us pointers on how to best organize our documents and also clearly explained how the process was going to work on our end. She went through everything line by line in extreme detail and was beyond helpful. If you are looking for a real, knowledgeable professional to assist you with legal services, I highly recommend Affordable Paralegal Solutions.”
@@ -7575,8 +7370,7 @@ Name: count, dtype: int64
 - **Attributes:** Restaurants Take Out
 - **Overall Rating:** 3.5
 - **Review Count:** 9
-- **Check-ins Total:** 238    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “I have no idea why this place has bad reviews. I guess more people like to complain than compliment, but we moved to Tucson a few months ago and have had nothing but positive experiences with this Pizza Hut. They are great with special requests and are always prompt with welcoming staff. Note: We just order via phone and ask about deals, so I can't comment on the online portion.”
@@ -7605,8 +7399,7 @@ Super friendly staff! I had a very pleasant experience!
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 49
-- **Check-ins Total:** 4214    52
-Name: count, dtype: int64
+- **Check-ins Total:** 52
 
 ## 5★ samples (Positive Reviews)
 - “This review is for a purchase of a set of four new tires.  I have a great mechanic (see Wood-Oberholzer review), so I haven't utilized Firestone Auto Service, although they automatically did a complimentary check-up with my tire purchases.  I'd purchased my last set of tires from this Firestone 4 years ago and remembered it had been a good experience.  This experience was better even.  Typically, most retail is slowest on Wednesdays, so I arrived when they opened (7:15 am).  Christian assisted me with my options after I spoke to him about our driving needs (5,000 city, not highway, miles/year) and budget ($500).  He made two recommendations, and of course, I chose the least expensive, declining Roadside Service (we have AAA).  He quoted me a completion time of approximately 8:30 and an out the door price of $385 for the tires (215/65R16, if you must know).  Their rest room is clean, and the waiting area is pleasant with decent magazines (current:  ESPN, AZ Highways, etc.).  Fry's Food Store is across the street, and McDonald's is next door.    My name was called at about 8:35, I paid after he advised me the results of our car's exam and was out the door by 8:45.  I'd researched other tire stores and pricing on-line, so I felt good about this experience.  It definitely exceeded my expectations.”
@@ -7635,8 +7428,7 @@ Always friendly, helpful and responsive.  Nice people to work with. Great tires!
 - **Attributes:** Happy Hour, Restaurants Reservations, Outdoor Seating, Business Accepts Credit Cards, Restaurants Good For Groups, Bike Parking, Restaurants Take Out, Corkage, Wheelchair Accessible, Good For Kids, Restaurants Table Service, Caters, Has T V, Good For Dancing, Dogs Allowed, Restaurants Delivery
 - **Overall Rating:** 3.5
 - **Review Count:** 555
-- **Check-ins Total:** 2408    458
-Name: count, dtype: int64
+- **Check-ins Total:** 458
 
 ## 5★ samples (Positive Reviews)
 - “I've lived in Tucson my whole life. When the Wildcat house closed I was at a loss. I felt Tucson had lost a Rich piece of night-life history. But when I saw the building reopened as a bbq place, I felt optimistic about the future of our city. I've gone there a few times over the years and love the food. Tonight they raised the bar. The atmosphere is stimulating without being loud or overwhelming. Large wooden beams stacked bordering the dining area made me reminiscent of my child hood Lincoln logs. Call me nostalgic but that's how I felt. Like a kid in a candy store! The food was amazing and the service impeccable. Since Covid I've felt customer service has been lacking, whether it be at the grocery store or with my cable provider. Not at Brother John's. Our server Ben, (we found out it was his first day) was very professional and forthcoming with answers to every question on the menu. My wife can be very thorough. And the front of house manager Jamie, a charming and friendly business woman. She was clearly in her element in what could have otherwise been a chaotic atmosphere. Stopping to check on us, we felt like guests of honor. I'm not usually one to "Yelp" before but I believe in giving credit where credit is due. Highly recommended BBQ! And they offer the same service for events.”
@@ -7666,8 +7458,7 @@ Best BBQ in Tucson coming from a Texan The best small rib on Tucson New Tucson f
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Restaurants Take Out, Wheelchair Accessible, Caters, Restaurants Delivery
 - **Overall Rating:** 3.5
 - **Review Count:** 23
-- **Check-ins Total:** 8301    76
-Name: count, dtype: int64
+- **Check-ins Total:** 76
 
 ## 5★ samples (Positive Reviews)
 - “I will always like this place. I cannot get enough of their Oreo Milkshakes!  I got a different pair of workers this time around, but they were as nice and maybe even better than the last. I had a card for a free "Love It" sized item. So naturally I purchased a milkshake.   I am glad I could get a milkshake with that free card.”
@@ -7696,8 +7487,7 @@ Coffee Lovers mix. I had that on my first visit and as far as I'm concerned, tha
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only, Bike Parking
 - **Overall Rating:** 3.5
 - **Review Count:** 25
-- **Check-ins Total:** 3258    8
-Name: count, dtype: int64
+- **Check-ins Total:** 8
 
 ## 5★ samples (Positive Reviews)
 - “Absolutely enjoyed my time getting my eye exam and ordering newly prescribed glasses. All the staff members are professional, polite, and very pleasant to work with. They will take the time to explain things to you. For once, I did not feel like I was being rushed into picking the right reading glasses and the many options available. I highly recommend this place.”
@@ -7726,8 +7516,7 @@ There seems to be a lot of legitimate good reviews not being recommended by yelp
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 29
-- **Check-ins Total:** 6192    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “This was only competent locksmith. Very helpful and friendly. They just moved so initially didn't find blank but more seasoned employee found it. Very helpful.”
@@ -7757,7 +7546,7 @@ Thanks! Best locksmith in town, Fast reliable
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 3.5
 - **Review Count:** 11
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “The customer service is great and they try to save you money versus spend on unnecessary frills.  Good juice, large selection of vapes and juice and by far great service. I highly recommend this vape store.”
@@ -7784,7 +7573,7 @@ I initially started going here because a few items are cheaper compared to freed
 - **Attributes:** 
 - **Overall Rating:** 3.5
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “My experience with Serr's Towing has been great. I've been doing business with this company for almost 7 years. They have a great, fair, and honest repair-towing company. I had to call for towing today and the driver was professional, caring, courteous, and customer-centric. I give this company a 12/10!”
@@ -7812,8 +7601,7 @@ Horrifyingly aggressive driver.
 - **Attributes:** Restaurants Good For Groups, Restaurants Reservations, Caters, Outdoor Seating, Restaurants Take Out, Good For Kids, Has T V, Business Accepts Credit Cards, Bike Parking, Restaurants Delivery, Happy Hour, Wheelchair Accessible
 - **Overall Rating:** 3.5
 - **Review Count:** 140
-- **Check-ins Total:** 531    348
-Name: count, dtype: int64
+- **Check-ins Total:** 348
 
 ## 5★ samples (Positive Reviews)
 - “We have come to this restaurant several times over the last 5-6 years. I have written a review before, but wanted to write another from our most recent event. We had a party of 14 people attending for my husband's birthday. Every person left saying their meal was wonderful and service was excellent. I also appreciated the restaurant acknowledging my husband's birthday by bringing out a wonderful dessert for him. The entire evening was memorable and enjoyable!”
@@ -7842,8 +7630,7 @@ Layer cake Zinfandel was wonderful 19th Hole ; ) Time to re-hydrate !!!! Divine 
 - **Attributes:** Restaurants Good For Groups, Good For Kids, Business Accepts Credit Cards, Restaurants Take Out, Has T V, Outdoor Seating, Caters, Bike Parking, Drive Thru, Restaurants Delivery
 - **Overall Rating:** 3.5
 - **Review Count:** 95
-- **Check-ins Total:** 4090    336
-Name: count, dtype: int64
+- **Check-ins Total:** 336
 
 ## 5★ samples (Positive Reviews)
 - “Great food. Great concept. Thanks Firehouse for providing reasonably priced quality food and supporting our community.  Our whole family loves this place.”
@@ -7872,8 +7659,7 @@ First time here! SOOOOO good!!! Place is super clean. And plenty  of seating. An
 - **Attributes:** Restaurants Good For Groups, Good For Kids, Bike Parking, Business Accepts Credit Cards, Restaurants Delivery, Restaurants Take Out, Has T V
 - **Overall Rating:** 3.5
 - **Review Count:** 35
-- **Check-ins Total:** 8048    87
-Name: count, dtype: int64
+- **Check-ins Total:** 87
 
 ## 5★ samples (Positive Reviews)
 - “I love Jerry Bobs. Very much like an old school diner with the perfect southwest twist. I love the tamales for breakfast! The waitresses are standard diner waitresses: over friendly when they're not ignoring you and telling you to refill your own coffee. I'm kidding...or am I?!? It's nice fun casual dining experience and the cooks are awesome and quick.”
@@ -7902,8 +7688,7 @@ Wonderful little place, super friendly,  great eggs Benedict has gone down hill.
 - **Attributes:** Bike Parking, Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 24
-- **Check-ins Total:** 6776    11
-Name: count, dtype: int64
+- **Check-ins Total:** 11
 
 ## 5★ samples (Positive Reviews)
 - “The attendant was very nice and caring, even making sure we weren't the car with our lights left on. It was very clean inside and cool. My husband loved the movie they were playing.”
@@ -7932,8 +7717,7 @@ Why is it 5 bucks for your blankets. Wont be back. Go before 7p so you can roam 
 - **Attributes:** Restaurants Take Out, Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 31
-- **Check-ins Total:** 3207    16
-Name: count, dtype: int64
+- **Check-ins Total:** 16
 
 ## 5★ samples (Positive Reviews)
 - “I've been shopping here for the last four years now on and off. Original came here for a suit that I was hesitant on but the staff was incredibly helpful in finding me just what I wanted. Also weirdly enough, great place to buy jeans with killer deals on them.   Just bought another two suits from here and got them tailored this time. Best part? Any alterations are free for the life of the garment. They will even do it on short notice too. Which was great when I got a little too wide for slacks and I had a interview in four days. Super accommodating.”
@@ -7962,8 +7746,7 @@ Check for discount coupons on the website.  Found a $40 off rental.
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 3.5
 - **Review Count:** 21
-- **Check-ins Total:** 5788    22
-Name: count, dtype: int64
+- **Check-ins Total:** 22
 
 ## 5★ samples (Positive Reviews)
 - “Great jeweler, nice, helpful people. It is a tic more expensive than other jeweler selections, but it is worth it. You know you're getting quality and you know you're talking to someone that wants to help you. It is exactly how a business should be run.”
@@ -7992,8 +7775,7 @@ They will clean your rings free of charge. :) Best jewelry store and great peopl
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 14
-- **Check-ins Total:** 5284    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “Great deals, and the owners are really friendly. The car I bought from here was a great deal, low mileage, and in good shape.”
@@ -8022,8 +7804,7 @@ Great small dealership. Has an excellent selection and was a pleasure to work wi
 - **Attributes:** Business Accepts Credit Cards, Restaurants Good For Groups, Good For Kids, Bike Parking, Has T V, Restaurants Take Out
 - **Overall Rating:** 3.5
 - **Review Count:** 8
-- **Check-ins Total:** 797    26
-Name: count, dtype: int64
+- **Check-ins Total:** 26
 
 ## 5★ samples (Positive Reviews)
 - “DH and I were going to go to the fair today, but apparently admission didn't start until 2. We needed to get gas, so backtracked over to the Qwik Mart to fill up and get some snacks and drinks.   On my way back to the car, I tripped on some uneven pavement and went flying. My sunglasses fell off, the Coke Zero I got went rolling merrily on it's way, but the Crystal Light packets, M&Ms and bottled water stayed inside the bag. Go figure!   A very nice young man in his early twenties clucked over me and pointed out my head was bleeding. I didn't even know until that moment (when I saw the blood on the pavement.) He handed me some paper towels, asked if I was all right, and a couple of other gentlemen who were older (fifty-ish) supplied some paper towels for my bleeding head as well.   I REALLY appreciate this. I felt all right after standing up so if not for the aid I got, I might have just tried to go home. As of this writing, I'm at St Joe's waiting to be seen.   The gas station itself is nice and clean, and they had hazelnut spread M&Ms! The five stars is really for the customers; I am sp thankful to you gentlemen for your attention and kindness today.”
@@ -8048,8 +7829,7 @@ Before Vail became the culturally diverse urban center that it is today, there w
 - **Attributes:** Restaurants Good For Groups, Restaurants Delivery, Good For Kids, Has T V, Restaurants Reservations, Caters, Outdoor Seating, Business Accepts Credit Cards, Restaurants Take Out, Wheelchair Accessible, Restaurants Table Service, Dogs Allowed, Bike Parking, Happy Hour
 - **Overall Rating:** 3.5
 - **Review Count:** 427
-- **Check-ins Total:** 5273    748
-Name: count, dtype: int64
+- **Check-ins Total:** 748
 
 ## 5★ samples (Positive Reviews)
 - “Great place for breakfast as well as friendly service.   High quality food for a good price plus a nice bakery for take out.”
@@ -8078,7 +7858,7 @@ I like this place . Check it out. The staff is friendly and helpful. Homemade eg
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I have used Sahuarita Plumbing twice now. This is our first year in this home. The first visit involved two toilet water values. The second visit involved a leaking shower head. Their pricing and service on the first job were both great. On the second job, the shower head leaked for a day when I called them. They got here the next day, but the leak had stopped. Sahuarita Plumbing took a look at the shower head, made a suggestion about what to do if it should happen again and left. These guys are very fair, efficient and friendly.”
@@ -8103,8 +7883,7 @@ I like this place . Check it out. The staff is friendly and helpful. Homemade eg
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 12
-- **Check-ins Total:** 5231    14
-Name: count, dtype: int64
+- **Check-ins Total:** 14
 
 ## 5★ samples (Positive Reviews)
 - “well stocked supply store and very reasonably priced.  all sorts of professional tools and server supplies, cake decorator supplies, and the staff is friendly and knowledgeable.”
@@ -8134,8 +7913,7 @@ Kinda dusty inside
 - **Attributes:** Business Accepts Credit Cards, Restaurants Good For Groups, Restaurants Take Out, Restaurants Reservations, Good For Kids, Wheelchair Accessible, Restaurants Table Service
 - **Overall Rating:** 3.5
 - **Review Count:** 21
-- **Check-ins Total:** 3866    30
-Name: count, dtype: int64
+- **Check-ins Total:** 30
 
 ## 5★ samples (Positive Reviews)
 - “Great real Mexican food for breakfast. Great place for large groups. The machaca (however you spell it) was real dried meat shredded.”
@@ -8165,8 +7943,7 @@ My husband was waiting to check us in for 15min at the register he was ignored t
 - **Attributes:** Restaurants Good For Groups, Restaurants Take Out, Business Accepts Credit Cards, Good For Kids, Bike Parking, Outdoor Seating, Has T V, Restaurants Delivery
 - **Overall Rating:** 3.5
 - **Review Count:** 115
-- **Check-ins Total:** 5440    121
-Name: count, dtype: int64
+- **Check-ins Total:** 121
 
 ## 5★ samples (Positive Reviews)
 - “I visited my parents here in Tucson and decided to make a pitstop for a breakfast meal. I came across this gem near Tucson and I fell in love with it. The homey, inviting environment of the restaurant along with the various choices left me smiling and loving Tucson already. The staff were so friendly and attentive, it almost felt like we were all family. I felt cared and loved for. I would come back again for sure, 200%. Perhaps, before I leave back for home :)”
@@ -8196,8 +7973,7 @@ Always good, Always fun.
 - **Attributes:** Outdoor Seating
 - **Overall Rating:** 3.5
 - **Review Count:** 67
-- **Check-ins Total:** 8325    23
-Name: count, dtype: int64
+- **Check-ins Total:** 23
 
 ## 5★ samples (Positive Reviews)
 - “What a yummy dinner. This is my second time here and really enjoyed my meal yet again. I had the number 62, Pad Kee Mao w/ Beef with heat level Thai spice . Perfect amount of heat. Service was a tad inattentive, but they were busy and like almost everywhere, I'm sure they are understaffed so I completely understand. Me and my dining partner got there at 5 and it wasn't busy at all but by 5:30 they started filling up. I'm not sure why there are complaints on here about price. Sure, it may seem somewhat expensive initially, but the portions are large. I have leftovers.”
@@ -8226,8 +8002,7 @@ Great food and iced tea! I had the curry pork and it was delicious. Great food a
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Wheelchair Accessible
 - **Overall Rating:** 3.5
 - **Review Count:** 36
-- **Check-ins Total:** 3082    1318
-Name: count, dtype: int64
+- **Check-ins Total:** 1318
 
 ## 5★ samples (Positive Reviews)
 - “Target is my go-to place for all things household related.  It's clean and bright. The aisles are wide.  The selection is great.  It has a Starbucks so I can indulge in a little coffee goodness while shopping.  Yes, it is a chain, but the staff is what makes this location so awesome.  Always friendly, always helpful.  I don't think I've ever been in here that I haven't been asked at least once during my visit if I'm finding everything okay (and I don't generally walk around looking confused) by some random staffer I pass in one of the aisles.”
@@ -8256,8 +8031,7 @@ Very clean, organized store.  Plenty of cashiers. Agh, argh..... I like the over
 - **Attributes:** Business Accepts Credit Cards, Restaurants Delivery, Restaurants Take Out
 - **Overall Rating:** 3.5
 - **Review Count:** 10
-- **Check-ins Total:** 6007    62
-Name: count, dtype: int64
+- **Check-ins Total:** 62
 
 ## 5★ samples (Positive Reviews)
 - “Roxy, in the bakery is AH-Mazing!!! I have used her several times now, and every time she blows me away! I normally go in with an idea and I let her do her "thing" and I'm also so impressed with what she comes up with! Not only do they look amazing, but they are delicious as well!! She is my "go-to" gal, and if you give her a try she'll be yours too!!! You won't be disappointed!”
@@ -8285,8 +8059,7 @@ It does look yummy for only 1.49! I could feel its warm! By the way the cashier 
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 7
-- **Check-ins Total:** 5580    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “We used this company a few weeks ago for our front and back yard that have a couple of bushes and a large tree. Not to mention our back yard was covered in weeds from all the rain! They did an amazing job and got everything cleaned up and cleared out! They were easy to communicate with, schedule and very affordable! We have paid double in the past with other companies and they didn't do half as much as this company! We are so pleased that we have requested monthly service with them! We would definitely recommend Anthony to anyone! Thank you!”
@@ -8312,8 +8085,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 3.5
 - **Review Count:** 20
-- **Check-ins Total:** 6218    54
-Name: count, dtype: int64
+- **Check-ins Total:** 54
 
 ## 5★ samples (Positive Reviews)
 - “Hector Ramirez noticed our pre paid box wasn't packed right. He educated us how to pack and have your package arrive safely to its destination.He opened it up said it had too much give in it. He comped us some bubble wrap to make it right. He repacked it with no scolding and said now we know better. Well all I can say is we'll be back.I said this was the best shipping store I have been in and everyone behind me in line agreed. He was so pleasant that the other customers were not impatient and noticed what a nice guy to take time to help. A+ Kindness is back, no more it's not my job.  We ship often and just fired UPS for a very expensive lost package. Useless piece of shit=UPS trying to track a package is even harder than getting the package to the destination”
@@ -8342,8 +8114,7 @@ Know exactly what you need, some of the staff is undertrained on their capabilit
 - **Attributes:** By Appointment Only, Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 22
-- **Check-ins Total:** 1817    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “I switched from a well known practice to Dr Olson at BDP five years ago, have been so happy on making the switch. Dr Olson has a great warming personality, explains well and is very through. The staff knows what there doing along with a attitude that they like working there. I 'm glad to drive past many practices to get there. Thanks”
@@ -8372,8 +8143,7 @@ They seem very thorough. The wait was too long but the overall quality is very g
 - **Attributes:** Outdoor Seating, Good For Kids, Restaurants Good For Groups, Bike Parking, Caters, Restaurants Take Out, Restaurants Reservations, Wheelchair Accessible, Business Accepts Credit Cards, Restaurants Delivery, Restaurants Table Service
 - **Overall Rating:** 4.0
 - **Review Count:** 184
-- **Check-ins Total:** 5537    200
-Name: count, dtype: int64
+- **Check-ins Total:** 200
 
 ## 5★ samples (Positive Reviews)
 - “I've had this bookmarked for years, wondering if I'd ever get the chance to go. Luckily I happened to be in Tucson on a Thursday, which is vegan night. I got almost everything at the buffet; it was all delicious. There was a group of people at a table near mine who were speaking Hindi the entire time. I could listen to that all day. I was in heaven. There is a little boutique where you can buy various Indian clothing, incense, etc. definitely one of my favorite places.”
@@ -8402,8 +8172,7 @@ best salad bar in Tucson, offering fresh vegetarian and vegan food! Food that ma
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 9
-- **Check-ins Total:** 247    6
-Name: count, dtype: int64
+- **Check-ins Total:** 6
 
 ## 5★ samples (Positive Reviews)
 - “I just had two pieces of clothing altered at Mendel's Wife the Tailor. They came out perfectly. You could not even tell that they had been altered and now they fit perfectly. I'm very happy and would recommend them to anyone.”
@@ -8431,8 +8200,7 @@ Cute, old school Tailoring business. Got exactly what I asked for. Highly recomm
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Good For Kids, Wheelchair Accessible
 - **Overall Rating:** 4.0
 - **Review Count:** 66
-- **Check-ins Total:** 3586    39
-Name: count, dtype: int64
+- **Check-ins Total:** 39
 
 ## 5★ samples (Positive Reviews)
 - “Great haircut, great barber, great prices. I will be going back again. It feels nice to finally have a place where I can be a regular. It's also enjoyable not going to a generic commercial place like super cuts.”
@@ -8461,8 +8229,7 @@ one word for lisa..edward scissor hands Going blonde thanks to Lisa! Getting my 
 - **Attributes:** Good For Kids
 - **Overall Rating:** 4.0
 - **Review Count:** 21
-- **Check-ins Total:** 5008    160
-Name: count, dtype: int64
+- **Check-ins Total:** 160
 
 ## 5★ samples (Positive Reviews)
 - “Quarter horse racing is done for the season.”
@@ -8489,8 +8256,7 @@ Celtic festival What a great bike ride! Great way to spend a beautiful weekend a
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 73
-- **Check-ins Total:** 4968    46
-Name: count, dtype: int64
+- **Check-ins Total:** 46
 
 ## 5★ samples (Positive Reviews)
 - “After having a horrible experience with a different Audi dealership in north Scottsdale, I was amazed at the impeccable professionalism and customer service Audi of Tucson provided. My sales associate, Eddie Zglinicki, was professional and extremely knowledgeable with respect to the Audi brand, and took the time to go over the features of the 2019 Audi A4 I purchased. Tim McElvain with the finance department was professional and not high-pressuring as you often encounter with a finance department. I was also surprised to find Audi of Tucson had the largest inventory of certified Audis, as well as very fair prices. It was well-worth the drive to down Tucson from Phoenix. Highly recommend buying from this dealership. Thanks guys for making my buying experience with you, relatively painless!”
@@ -8519,8 +8285,7 @@ yikes! lol Looks small in the front but it's a very large operation! Very classy
 - **Attributes:** 
 - **Overall Rating:** 4.0
 - **Review Count:** 39
-- **Check-ins Total:** 4585    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “I had a slight emergency called at 7:30 am on a Saturday and they were able to take our pup in at 12:30 same day. Needed to get sutures and sedated for a cut. What I appreciated was they told me appx what the cost would be when I called.( which others would t even dare give me a estimate) as well my regular vet was not open on a Saturday . I truly appreciate the awesome service and great customer service. As well didn't mind having to pay what I thought was reasonable pricing for the great same day service. Keep up the great work!”
@@ -8546,8 +8311,7 @@ Name: count, dtype: int64
 - **Attributes:** Outdoor Seating, Wheelchair Accessible, Good For Kids, Restaurants Take Out, Dogs Allowed, Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 4.0
 - **Review Count:** 79
-- **Check-ins Total:** 496    132
-Name: count, dtype: int64
+- **Check-ins Total:** 132
 
 ## 5★ samples (Positive Reviews)
 - “This is hands down my favorite location in Tucson for coffee. Every time I go it is clean, plenty of space for people to social distance and all employees are wearing masks. Today I got the Lavender Oat milk latte and the caprese panini. The panini was SO delicious and I savored every bite. Their coffee is rich and delicious and full of flavor. I highly recommend trying Ren out next time you are wanting a great cup of coffee.”
@@ -8576,8 +8340,7 @@ They have coffee smoothies so be sure to ask about it! The zipline I am a true l
 - **Attributes:** 
 - **Overall Rating:** 4.0
 - **Review Count:** 7
-- **Check-ins Total:** 2048    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “I am one of the few that can actually say I love my job I work at yard 3 which is the Valencia and the freeway location we have amazing staff at this location great customer service and an amazing manager”
@@ -8601,7 +8364,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 17
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “In late August, we had David and Robert come to look at our leaking refrigerator - a fantastic refrigerator that we did not want to replace - and they did so. They were a little delayed (understandable, in that they cannot know just how long a job will take - not a big deal), but they came equipped to work and finished the job in a timely fashion. Cost was very reasonable. Our refrigerator has been working well since. Job well done! Thank you!”
@@ -8630,8 +8393,7 @@ positive experience. was able to come quickly and fix clog in our washer. thanks
 - **Attributes:** 
 - **Overall Rating:** 4.0
 - **Review Count:** 52
-- **Check-ins Total:** 4275    28
-Name: count, dtype: int64
+- **Check-ins Total:** 28
 
 ## 5★ samples (Positive Reviews)
 - “I had my Australian Shepherd groomed for the first time here and they did an amazing job! She is nervous in new situations and Jamie made her feel comfortable in the first 5 minutes. My dog looks great and the price was good. Thank you!”
@@ -8660,8 +8422,7 @@ This is Belle's new place she's been my long time groomer for my dog Sully and s
 - **Attributes:** Business Accepts Credit Cards, Wheelchair Accessible, Bike Parking, Accepts Insurance
 - **Overall Rating:** 4.0
 - **Review Count:** 21
-- **Check-ins Total:** 1282    48
-Name: count, dtype: int64
+- **Check-ins Total:** 48
 
 ## 5★ samples (Positive Reviews)
 - “Wow, this was by far the best massage I've had in a while! The venue is clean and serene, and a 60 minute massage is $60, and there's $5 off with a Yelp check-in. Everyone wears face masks inside, so I felt very safe.   I told the masseuse that I had a lot of knots and stiffness in the neck/trap area, and she focused a great deal on these areas, and also performed the full body massage. There's also hot stones that were used during the massage, and I was completely on cloud-nine! By the end of the 60 minutes, I was super relaxed, and you're given a bottle of cold water when you check out. Definitely recommend coming here!”
@@ -8689,8 +8450,7 @@ It's ok... Awesome stop for a massage! Best place in this area. Don't go anywher
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 54
-- **Check-ins Total:** 33    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - “There were flames shooting out of my car when I was driving home from the store and luckily some lady pulled me over before my car caught on fire and blew up! I took the keys home and I just moved to a new house and I didn't have anyone to drive me over there so the driver from Bronco came over to my house and picked up my keys. He was here within about 15 to 20 minutes....Much earlier than I expected him which was great! They towed my car to my mechanic. I had excellent communication with the dispatcher and the driver was super professional and nice. I would definitely recommend this company!”
@@ -8725,7 +8485,7 @@ Satisfied customer.
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “We have been looking for a small Lance camping trailer for some time. I noticed one listed on craigslist for Eastside RV Liquidators. They had just gotten it in. I called and told them I was 1.5 hours away and on my way. Before I arrived, they had numerous calls and one person tried to put down deposit on the Lance. They were told to wait until after I saw the camper since I called first. So glad they did!  The camper was in excellent condition with a price far less than we expected. Also, the service people were friendly and helpful when we returned for the camper. This place is great.  When we returned to Las Cruces, we told our neighbors about the dealership. They called and asked to be notified if something similar to ours showed up. The next week they returned with a camper exactly like they were looking for.”
@@ -8749,7 +8509,7 @@ Satisfied customer.
 - **Attributes:** Wheelchair Accessible, By Appointment Only, Accepts Insurance, Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 8
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I visited Dr Martin in Oro Valley AZ several times in the last few months for what could have been a serious condition. Thankfully Dr Martin assured me that my vision issues were of a temporary measure. He was very thorough and had me return a couple of times to insure my condition has not got worse. I've been going to eye Drs for sixty years and would say the Barnet Dulany and Perkins are among the best around!”
@@ -8774,8 +8534,7 @@ Satisfied customer.
 - **Attributes:** By Appointment Only, Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 10
-- **Check-ins Total:** 1894    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “And we did call again.....mainline clogged. Juan (the owner) came and got us cleared out.  Nice guy, family owned business. They were a home run both times we used them.  Highly recommend.”
@@ -8800,8 +8559,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 4.0
 - **Review Count:** 20
-- **Check-ins Total:** 2732    19
-Name: count, dtype: int64
+- **Check-ins Total:** 19
 
 ## 5★ samples (Positive Reviews)
 - “Me and my puppy love Acoma Clinic. Dr. Livingston is super caring and loving with my puppy. All of the staff know what they're doing. I always get appointments in a timely manner, plus, one time I needed an urgent shot my puppy could stay at the pet's hotel and they told me to go asap and took my puppy as a walk in. Best experience ever!”
@@ -8830,8 +8588,7 @@ Dr. Livingston is a great Dr and we love his care of our fur babies Friendly sta
 - **Attributes:** 
 - **Overall Rating:** 4.0
 - **Review Count:** 30
-- **Check-ins Total:** 2598    231
-Name: count, dtype: int64
+- **Check-ins Total:** 231
 
 ## 5★ samples (Positive Reviews)
 - “Pantano Christian Church teaches directly from the Bible (as it should be). They play contemporary music in a very relaxed atmosphere. Come as you are! Everyone is welcome!”
@@ -8860,8 +8617,7 @@ VBS program gonna watch Max sing! Great place for voting!
 - **Attributes:** Outdoor Seating, Restaurants Take Out
 - **Overall Rating:** 4.0
 - **Review Count:** 33
-- **Check-ins Total:** 5153    18
-Name: count, dtype: int64
+- **Check-ins Total:** 18
 
 ## 5★ samples (Positive Reviews)
 - “The tuna salad here is amazing! It's a huge, hearty portion that keeps me full for hours. I have also gotten the BLT which was great. The sourdough bread was perfectly toasted and the bacon super thick and perfectly cooked. Also- pick any pastry and you can't go wrong.  I have also been loving the patio during covid. This spot is just as good as the original location.”
@@ -8885,7 +8641,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Kevin is straight forward, quick and reasonably priced. 10/10 recommended. I was recommended by Jim Click body shop and a local mechanic that I go to.”
@@ -8912,8 +8668,7 @@ Kevin is straight forward, quick and reasonably priced. 10/10 recommended.
 - **Attributes:** Restaurants Take Out, Has T V, Restaurants Good For Groups, Outdoor Seating, Bike Parking, Good For Kids, Business Accepts Credit Cards, Restaurants Delivery, Caters
 - **Overall Rating:** 4.0
 - **Review Count:** 106
-- **Check-ins Total:** 8251    58
-Name: count, dtype: int64
+- **Check-ins Total:** 58
 
 ## 5★ samples (Positive Reviews)
 - “We eat here regularly and love it! Great for kids and great price. Get the small salad. It's the best deal!   Extra shout out to the staff. I walked in recently with my 3 kids and within 10 steps of walking into the restaurant one of my kids got stomach sick. The staff (especially the man working the register who saw it) was so incredibly kind and understanding. They went above and beyond sending me out with towels and bottles of water.”
@@ -8942,8 +8697,7 @@ Try the new Chile Verde. It's really flavorful and has a spicy kick to it! They 
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 25
-- **Check-ins Total:** 5514    9
-Name: count, dtype: int64
+- **Check-ins Total:** 9
 
 ## 5★ samples (Positive Reviews)
 - “These guys were so nice! My family and I were moving across the country... Driving from California to Texas. Our car broke down in Tucson and we took it here. Turns out the motor was burnt up and it was going to be very expensive to fix it so we decided to replace the car but they didn't even charge us for the diagnostics! They made a really crummy situation a little bit better and we are so thankful for that!”
@@ -8972,8 +8726,7 @@ Used to be ventana automotive and tire. The old ventana automotive and tire.
 - **Attributes:** 
 - **Overall Rating:** 4.0
 - **Review Count:** 10
-- **Check-ins Total:** 136    102
-Name: count, dtype: int64
+- **Check-ins Total:** 102
 
 ## 5★ samples (Positive Reviews)
 - “Great event! I can't believe this was my first year attending after living in Tucson for 5 years! The patio of congress is the perfect venue with lots of space.    I attended the Tequila Class which was held inside at the bar by the dance floor. Dave, the old sommelier from Maynards was there with a tequila connoisseur to teach us about the different varieties of agave liquors - tequila, mezcal and bacanora. I'd never tried a bacanora before the Agave fest, wow is it strong! All of the pourers were having a joke with me saying that Bacanora doesn't give you hangovers if it is done right. I didn't have a hangover the next day, so maybe they are right! (or maybe I drank enough water with each tasting, who knows). After the tequila class, my friends and I officially entered the Agave Fest, we were given out landyard with our tickets and we were set loose on the Congress Patio. The Congress bartenders were having a mixed drink contest, and the first drink I tried was my absolute favorite a watermelon/tequila drink with a spicy salt rim. I need the recipe so I can try and make it at home. I tried to taste at least one tequila from ever stand, and I successfully did that with many tickets to spare.   Agave Fest is very well done. Great event! Can't wait till next year!”
@@ -9000,8 +8753,7 @@ Annual event celebrating all things agave. Local bartenders compete every year b
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 8
-- **Check-ins Total:** 118    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “We bought a car here and the process was great. They are friendly and up front. They accommodate odd hours as well.  No pressure sales at all. they are a USAA certified car dealer as well. They work hard to keep that in good standing.  It is local and a hole in the wall but a good late model inventory fairly priced!”
@@ -9026,8 +8778,7 @@ Name: count, dtype: int64
 - **Attributes:** Bike Parking, Good For Kids, Business Accepts Credit Cards, Restaurants Good For Groups, Outdoor Seating, Restaurants Take Out, Wheelchair Accessible, Has T V, Caters, Happy Hour, Restaurants Reservations, Restaurants Table Service, Dogs Allowed
 - **Overall Rating:** 4.0
 - **Review Count:** 504
-- **Check-ins Total:** 2101    1296
-Name: count, dtype: int64
+- **Check-ins Total:** 1296
 
 ## 5★ samples (Positive Reviews)
 - “This place has such a nice ambience. My husband and I came to lunch here with our baby. We had great service and the food was delicious! We'll be coming back soon!”
@@ -9058,8 +8809,7 @@ Ok so I came back on January 27.  The drinks were watered down.  We got appetize
 - **Attributes:** 
 - **Overall Rating:** 4.0
 - **Review Count:** 9
-- **Check-ins Total:** 2966    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “I needed to replace an outside mirror on my Chevrolet Impala. So, I stopped into National Auto to get a quote, which was done for me on the spot. Excellent customer service. I was greeted immediately and asked what service repair I needed. The quote was provided to me in less than 10 min. They said to just call when I was ready to order the part and have them install the new mirror. Within a week or so, I called and ordered the part. It took 24-48hrs to get the part and to have it painted to match my vehicle. I am pleased with all the employees great service, friendliness, and professionalism. Thank you National Auto Collision for making my visit painless! I would recommend this business to others needing any bodywork done on their cars.”
@@ -9084,8 +8834,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 4.0
 - **Review Count:** 6
-- **Check-ins Total:** 3022    67
-Name: count, dtype: int64
+- **Check-ins Total:** 67
 
 ## 5★ samples (Positive Reviews)
 - “Great store in a great location. Ample, free parking in an area that has various stores to choose from as well as different places to eat or grab a snack or coffee to keep you going.  There were variety of things to look at mostly were seasonal but others appeared to be your round items you could use in your home. They had different areas for the home, including a small area for work spaces. It kind of reminded me of being in a World Market and Ross put together. I really appreciated the highly discounted prices for what appeared to be quality items. I was happy to see that those friendly staff available if you had a questions or that could be found. In my experience in shopping at stores similar to this one, it's difficult to locate store associates or at least to find ones that are willing to help you find what you're looking for.  I left with some pretty good finds including a stainless steel steak knife set for $9.99, a stainless steel toilet cleaner with this beautiful see through faux crystal handle also $9.99 & a wood sandwich playset that for my fussy toddler that refused to let go of it for just under $15.”
@@ -9112,8 +8861,7 @@ Temporarily Closed
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 5
-- **Check-ins Total:** 627    10
-Name: count, dtype: int64
+- **Check-ins Total:** 10
 
 ## 5★ samples (Positive Reviews)
 - “Guess who has a brand spanking new candy thermometer? Guess who watched a Halloween episode of Giada At Home and is going to make marshmallows this weekend? If you guessed me, keep reading...  I've long been confused about why Economy stocks certain things and other things are special order, but this week, it didn't make a difference. I called over and asked whether or not they had candy thermometers and they sure do! This one is much nicer than what I saw at Target, and cheaper too. The gentlemen on the phone was really kind to tell me the price, I sped over there, and I was out in under five minutes with my new culinary toy. I'm a fan of you Economy. A big fan.”
@@ -9136,8 +8884,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 53
-- **Check-ins Total:** 3089    31
-Name: count, dtype: int64
+- **Check-ins Total:** 31
 
 ## 5★ samples (Positive Reviews)
 - “I drove in to Jiffy Lube at Speedway and Sycamore mid morning on a Tuesday with the truck I'd recently bought.  Jacob was informative, professional, when I explained time was a factor he was quick.  I got the oil/lub/filter I walked in for, a new air filter to replace the dirty one they showed me, a new fuel filter (because they said it would only take another 5-6 minutes and it did) and a list of all the manufacturer-recommended maintenance schedules.  On my way out they took the time to diagnose a misadjusted windshield wiper and fix it... without charging me anything.  On top of all of that, they said my total repair qualified for a discount of $50 and gave it to me without my having to do anything, say anything, clip a coupon, dance on one foot, or remember a password.  Nice!  I will come back to this Jiffy Lube.  Oh yes.  I will!!!  Ehud Gavron Tucson AZ 2006 Dodge Ram 3500”
@@ -9166,8 +8913,7 @@ Fast service, and very friendly technicians... Just be sure to get a 2nd Opinion
 - **Attributes:** Good For Kids, Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 4.0
 - **Review Count:** 6
-- **Check-ins Total:** 2899    14
-Name: count, dtype: int64
+- **Check-ins Total:** 14
 
 ## 5★ samples (Positive Reviews)
 - “We had a great time every thing was very well organized The propane jeeps were amazing no oder the pace was just as slow as we were walking and the driver even took time to point out things that were very interested.  All of them were in great moods helped me in and out of the wagons I am going to be going back next year and ride again. I highly recommend the ride to everyone”
@@ -9190,8 +8936,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 4.0
 - **Review Count:** 6
-- **Check-ins Total:** 5563    10
-Name: count, dtype: int64
+- **Check-ins Total:** 10
 
 ## 5★ samples (Positive Reviews)
 - “Beautiful spanish mission style building. Well maintained interior. Solid word of the lord.”
@@ -9218,8 +8963,7 @@ My first time here.  Seems like a very nice place
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 9
-- **Check-ins Total:** 6692    11
-Name: count, dtype: int64
+- **Check-ins Total:** 11
 
 ## 5★ samples (Positive Reviews)
 - “I used to love walking around shopping this market before the world changed.  Even though it isn't quite as fun to drive through it is definitely convenient and I am just happy to be able to get my produce and support them.  There are weeks you can just drive up and make your selection immediately and then there are times you have to wait in a long line and when you get to the front your options are very limited.  Either way they post their menu on Facebook every week and the selection is still pretty great.  All of the staff are always upbeat and very friendly and helpful.  I'm grateful that they are finding a way to continue doing this!”
@@ -9245,7 +8989,7 @@ Parking tight Wow the fresh produce! Mafooco here today
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Over the 2.5 months we employed the Maid Connection, we were gradually packing up what we could pack up, readying for a move into an independent living community.  Calling around to maid services, The Maid Connection was one of the few willing to quote an hourly rate and work from my 'to do' list.  The rate was reasonable, the teams prompt, competent, and fast.   The office end of things is well managed.”
@@ -9269,8 +9013,7 @@ Parking tight Wow the fresh produce! Mafooco here today
 - **Attributes:** Has T V, Business Accepts Credit Cards, Restaurants Table Service, Restaurants Reservations, Restaurants Take Out, Bike Parking, Caters, Restaurants Delivery, Good For Kids, Outdoor Seating, Restaurants Good For Groups, Wheelchair Accessible
 - **Overall Rating:** 4.0
 - **Review Count:** 147
-- **Check-ins Total:** 3343    185
-Name: count, dtype: int64
+- **Check-ins Total:** 185
 
 ## 5★ samples (Positive Reviews)
 - “The lady who answered the phone was beyond nice. Sadly, they couldn't deliver today but I wasn't worried about that at all. She said it would be done in 20 minutes and sure thing, it was. The pizza was amazing. Just perfect!”
@@ -9299,8 +9042,7 @@ Pizza is drippy, soggy... They have a small video arcade! :) Great place for lun
 - **Attributes:** 
 - **Overall Rating:** 4.0
 - **Review Count:** 8
-- **Check-ins Total:** 5445    134
-Name: count, dtype: int64
+- **Check-ins Total:** 134
 
 ## 5★ samples (Positive Reviews)
 - “Nice, clean and quiet. The building seems relatively new, they always have open computers and staff is friendly.”
@@ -9325,8 +9067,7 @@ This is a great library Get the books from the web pick them up at your branch. 
 - **Attributes:** Caters, Restaurants Take Out, Restaurants Reservations, Bike Parking, Has T V, Good For Kids, Restaurants Good For Groups, Business Accepts Credit Cards, Restaurants Delivery
 - **Overall Rating:** 4.0
 - **Review Count:** 448
-- **Check-ins Total:** 7010    726
-Name: count, dtype: int64
+- **Check-ins Total:** 726
 
 ## 5★ samples (Positive Reviews)
 - “Came in for dinner and we were served Abdulla. He helped us make our selections promptly and very much to our liking. We thoroughly enjoyed his service and found him to be pleasant, knowledgeable, funny and a true asset to the Firebirds' brand.”
@@ -9355,8 +9096,7 @@ Happy Hour is a steal! The Double Black Diamond very tasty has NY Strip and Ribe
 - **Attributes:** Bike Parking, Business Accepts Credit Cards, Dogs Allowed, Wheelchair Accessible
 - **Overall Rating:** 4.0
 - **Review Count:** 25
-- **Check-ins Total:** 2569    17
-Name: count, dtype: int64
+- **Check-ins Total:** 17
 
 ## 5★ samples (Positive Reviews)
 - “A friend of mine was out of town and storing her bike at my house. I brought it by for a tune up to surprise her - what a surprise! When she got back she said it rode better than ever before! Best part was that it did not cost an arm and a leg. Friendly, helpful service across the board and an awesome selection. Would not go any place else.”
@@ -9382,8 +9122,7 @@ Name: count, dtype: int64
 - **Attributes:** Good For Kids, Restaurants Good For Groups, Business Accepts Credit Cards, Restaurants Take Out, Bike Parking, Outdoor Seating, Restaurants Reservations, Restaurants Delivery, Restaurants Table Service, Wheelchair Accessible
 - **Overall Rating:** 4.0
 - **Review Count:** 625
-- **Check-ins Total:** 6018    1354
-Name: count, dtype: int64
+- **Check-ins Total:** 1354
 
 ## 5★ samples (Positive Reviews)
 - “Excellent food and a pleasing atmosphere. We especially liked the enclosed courtyard. Good food, good service, and some laughs on the way out. Can't ask for more than that!”
@@ -9413,8 +9152,7 @@ no dogs allowed Classic Tucson feel! I have always loved The Blue Willow. Today 
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 5
-- **Check-ins Total:** 4350    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “Flat roof was removed down to the plywood. A few panels were replaced along with some facia boards. They replaced 5 skylights and a turbine as well as all vents, etc.   The crew was professional; each person seemed to know what to do and did it. The supervisor, Pedro, did an excellent job; he himself was hands-on and really hard working as was the rest of the crew in a hot and for Tucson very humid situation.   They were the low bid by a factor of 2; while I do not normally necessarily choose the low bid, I felt confident in doing so here given the length of time they have been in business and the majority of reviews. John did a fine job with the inspection and bid process, and was on site each day and returned afterwards to check on the work. They will return to do any needed touch-up once my solar panels and new pool solar are in place. I am most pleased with what was done; I have no reason not to assume the roof will hold up well.  From my experience, I recommend them highly.”
@@ -9438,8 +9176,7 @@ Name: count, dtype: int64
 - **Attributes:** Dogs Allowed, Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 56
-- **Check-ins Total:** 7365    40
-Name: count, dtype: int64
+- **Check-ins Total:** 40
 
 ## 5★ samples (Positive Reviews)
 - “Chic rénovation with all the accommodations you would like from a bigger hotel except the rooms are smaller. They provided friendly customer service and we enjoyed the late night live music and food in the lounge.”
@@ -9465,8 +9202,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only
 - **Overall Rating:** 4.0
 - **Review Count:** 33
-- **Check-ins Total:** 4993    15
-Name: count, dtype: int64
+- **Check-ins Total:** 15
 
 ## 5★ samples (Positive Reviews)
 - “The staff at Dan's is professional, knowledgable and expedient.  I have had nothing but positive experiences in the years that I have taken my Toyota vehicles to them for service. Not only can I count on quality work at a fair price, but also honest assessments of what my truck needs to keep it running at its best.  I've never felt pressured into anything that wasn't a needed part or service. I really can't recommend Dan's highly enough!”
@@ -9495,8 +9231,7 @@ Great service and honest. Excellent service and value compared to a dealer.
 - **Attributes:** Business Accepts Credit Cards, Good For Kids
 - **Overall Rating:** 4.0
 - **Review Count:** 10
-- **Check-ins Total:** 1772    5
-Name: count, dtype: int64
+- **Check-ins Total:** 5
 
 ## 5★ samples (Positive Reviews)
 - “The staff is amazing, the center is inviting, the classes are fulfilling and the center is very close to where we live - what could be better”
@@ -9523,8 +9258,7 @@ Great way to start the morning! Pilates or stretch really helps. Great place!
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 10
-- **Check-ins Total:** 1020    7
-Name: count, dtype: int64
+- **Check-ins Total:** 7
 
 ## 5★ samples (Positive Reviews)
 - “Customer service at it's best.  I originally went in to have a hitch installed for a bike rack.  While the hitch was being installed, Alex took time to help me choose the right Thule bike rack.  After the bike rack was installed I had lots of help from everyone making sure I was satisfied with the installation and comfortable with the product.  This 70 year old lady hasn't experienced this overall great treatment while being a customer in a very long time. Well done!  And no, I was not asked or pestered to provide feedback - which was very much appreciated. Thank you!”
@@ -9552,8 +9286,7 @@ Don't be fooled by the exterior! Lots of cool toys for your truck!
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 20
-- **Check-ins Total:** 7430    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “It has been forever since I've needed to call a florist directly to put an arrangement together!   That day came today and Ramon walked me through every step of the way with patience, kindness, and care!   The gorgeous flowers were delivered within three hours of my phone call. They even sent me a photo of the arrangement ahead of time -- and let me make a last-minute change to the card!  Thank you Ramon and Forget Me Nots!”
@@ -9579,7 +9312,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 4.0
 - **Review Count:** 10
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “USAA, my insurance company, recommended that I use them to repair my home after mold remediation.  They did a really nice job.  Super easy to work with, not a bit of argument on anything, and willing to come back and fix anything that they didn't do right the first time.  I didn't need to ask them for that, though, since they did everything right the first time.  Their employees went the extra mile on everything: just very cooperative.  With other contractors I've often had problems with the super-nice sales person who made the "pitch," being replaced by actual site workers with negative attitudes and poor cooperation skills.  Not so with BWS.  They had a job-site manager who could be reached at any time over the phone, but who also came out to my house several times just to make sure everything was going perfectly.  That was AWESOME!  They also cleaned up after themselves really well. I really recommend these guys.”
@@ -9605,8 +9338,7 @@ Name: count, dtype: int64
 - **Attributes:** Restaurants Good For Groups, Restaurants Delivery, Restaurants Take Out, Caters, Business Accepts Credit Cards, Has T V, Restaurants Table Service, Good For Kids, Bike Parking
 - **Overall Rating:** 4.0
 - **Review Count:** 186
-- **Check-ins Total:** 1421    169
-Name: count, dtype: int64
+- **Check-ins Total:** 169
 
 ## 5★ samples (Positive Reviews)
 - “This is one of my favorite restaurants in Tucson. Every dish is always perfect. They have a large selection of vegan items. The help is always pleasant and the place is always clean.”
@@ -9636,8 +9368,7 @@ Attentive and make sure u r taken care of. This place so special!
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only
 - **Overall Rating:** 4.0
 - **Review Count:** 7
-- **Check-ins Total:** 7950    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “I had 2 light fixtures flickering and had another company come out and couldn't figure out what the problem was. This company responded the next day and both were fixed quickly. The rep was very professional and knowledgeable. i would highly recommend!”
@@ -9661,7 +9392,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.0
 - **Review Count:** 8
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Jake Etchart came out to fix a leaky hot water heater and he was fantastic.  Luckily our problem was a pretty quick fix, but he didn't just fix the leak and rush off.  He definitely exceeded our expectations when he cleared away several containers stored in the area that was flooded, and vacuumed up all the water.  He then told us what to do to ensure we didn't get any mold buildup, and even shared some much needed info about the reason why we are suddenly having terrible hard water stains on all our dishes and silverware when using the dishwasher.  Did you know that the substance that typically takes care of hard water stains has been removed from dishwashing soaps? Apparently it's a new law.  So Jake said there are a lot of folks having the same issue.   AND of course, he had the professional strength stuff we needed to take care of that problem as well.    It's always such a pleasure to receive excellent customer service, and when you get someone who cares about your experience, readily shares all they know about the issue, and takes the time to get the job done properly, it certainly makes your day.  Great experience!!”
@@ -9689,8 +9420,7 @@ These guys know what they are doing.  Honest and trustworthy
 - **Attributes:** Caters, Bike Parking, Restaurants Take Out, Has T V, Business Accepts Credit Cards, Good For Kids, Restaurants Delivery
 - **Overall Rating:** 4.0
 - **Review Count:** 47
-- **Check-ins Total:** 525    36
-Name: count, dtype: int64
+- **Check-ins Total:** 36
 
 ## 5★ samples (Positive Reviews)
 - “Ok, great selection,  they have multiple brands of pasztiet, lots of beers and wines,  , Hungarian salamis and more... Staff super awesome and helpful...just need a bakery for peasant breads and piroshki but i. Not complaining bc nearest favorite place is 800 miles away”
@@ -9719,8 +9449,7 @@ Best Gyros you'll find in Tucson. Great food great service. The address on here 
 - **Attributes:** Business Accepts Credit Cards, Dogs Allowed, Wheelchair Accessible
 - **Overall Rating:** 4.0
 - **Review Count:** 20
-- **Check-ins Total:** 8405    73
-Name: count, dtype: int64
+- **Check-ins Total:** 73
 
 ## 5★ samples (Positive Reviews)
 - “Best thrift store in Tucson. clean, organized, slightly pricy but the quality of merchandise is better.The staff does a great job of cleaning and organizing which is no easy feat with the amount of traffic this store gets. The drop off is usually seamless, although some employees are better than others in this area. Sometimes I get help unloading sometimes not....But the treasures inside compensate.”
@@ -9747,8 +9476,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 4.5
 - **Review Count:** 7
-- **Check-ins Total:** 2555    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - “Wow!!! I can't say enough great things about Tangerine Pet Clinic. When I called I was able to get my pet in the very next day. They quickly got me into the exam room and clearly laid out a plan and cost sheet for my pets care. They are very friendly and professional. I will continue to return and highly recommend trusting them with your fur babies!”
@@ -9772,7 +9500,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 4.5
 - **Review Count:** 11
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Rob sold us our home in Sahuarita, and when it came time to sell i chose rob and Catherine. They are thorough and only a phone call away for ANYTHING you may need!!! They took care of everything and made selling our house painless. I have dealt with many realtors and these two are absolutely the best! HIGHLY RECOMMEND.”
@@ -9796,8 +9524,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Wheelchair Accessible
 - **Overall Rating:** 4.5
 - **Review Count:** 43
-- **Check-ins Total:** 735    5
-Name: count, dtype: int64
+- **Check-ins Total:** 5
 
 ## 5★ samples (Positive Reviews)
 - “From the moment I walked in just a few days ago, I knew immediately that this was going to be my favorite gun store in Tucson. I was greeted by Oscar who is professional, knowledgeable and very personable. Next I met Brandon the owner and was blown away by his knowledge base and his friendly demeanor. These guys are the nicest people I've met in the firearm business period. In the past, the most I could hope for was maybe one or two employees at a given gun store would be helpful and kind. At the HUB everyone has a great personality and is genuinely interested in getting to know you. They were so welcoming I found myself becoming interested in the newer AR 15 rifles that are out these days. They provided me with such good information and in such a pleasant manner I found myself planning a purchase. 3 days later I purchased one of the most advanced rifles I've ever owned and added some really nice accessories. Jason even put the accessories on my brand new rifle for me right there so I wouldn't have to worry about installation.   They have a huge selection of firearms and accessories. Probably the largest Sig Sauer display I've ever seen in a store. They also hold classes and have a shooting simulator to practice with. They're opening an actual shooting range next year to compliment their classes and accommodate their customers.   I look forward to more wonderful customer service experiences from these professionals. They're soon to become known as the go to place for all your firearm needs. And do you know why? They're really nice people, and at the end of the day that's what people remember t”
@@ -9823,7 +9550,7 @@ Name: count, dtype: int64
 - **Attributes:** By Appointment Only, Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 11
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Janet is an amazing artist.  She redid my eyebrows which were not done well at another salon.  The color and shape are just perfect.  On my next visit, I had my upper eyeliner done.  I was so nervous about it, but I felt absolutely no pain at all, and I just love the liner.  It is absolutely perfect.  Janet is a perfectionist and her works shows it.  She asks if you have any pain, and I had no pain whatsoever.  She has the most wonderful calming personality, you almost fall asleep while she is working on you.  Janet's prices are very reasonable, and she does one free touch-up.  If you want permanent makeup in the Tucson area, I highly recommend Janet at Lily Anesthetics.  And she has the cutest dogs ever!”
@@ -9847,8 +9574,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only, Bike Parking
 - **Overall Rating:** 4.5
 - **Review Count:** 54
-- **Check-ins Total:** 2045    99
-Name: count, dtype: int64
+- **Check-ins Total:** 99
 
 ## 5★ samples (Positive Reviews)
 - “My first time at Salon De Nouveau and I am sold! I was in town visiting my boyfriend's family and needed to stop in for some highlights. Danielle was absolutely amazing! She did a combo of regular highlights and balayage and the effect was astounding. My hair has never looked better, even after paying twice the price for highlights in Seattle, so CHECK HER OUT! The salon is super professional and I even got a new client gift bag after my appointment! They really know how to make you feel special here, and i left feeling rejuvenated and beautiful!”
@@ -9877,8 +9603,7 @@ Alyssa does the best brows in town! My pedicure was great but service was not. I
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 9
-- **Check-ins Total:** 4576    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - “Jim is excellent. I couldn't ask for a better person working on my car. He is friendly, sincere, knowledgeable, and I really trust what he says and does regarding my vehicle. As a young woman, I have taken my car to many places where I've felt (or been told afterwards) that I was being taken advantage of or made fun of for my lack of knowledge. I've never felt anything like this from Jim. He really listens to what I want, explains what needs to be done in layman's terms, and tells me about the different options of what to do, when to do it, and how much it will cost. I recommend Quantum Mechanics and Jim Mabry to anyone and everyone.”
@@ -9902,7 +9627,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 4.5
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I found them from an AZ Star article where the owners weren't at all upset about the rising minimum wage. "If we lose customers because our rates go up, we'll find new customers."  They did, in ME, and I'm glad.  The same crew comes every month.  They love the plants the way I love the plants.  They pruned my trees perfectly (I've had Master Gardener training in 2 states; I know what butchered trees look like) and that's no small feat.  They are proactive when problems arise.  They are willing to reschedule if I need it, or to skip a month if I don't.    There's never an excuse - they always show up.”
@@ -9929,8 +9654,7 @@ The do excellent work and rates were reasonable! Outstanding customer service! I
 - **Attributes:** 
 - **Overall Rating:** 4.5
 - **Review Count:** 6
-- **Check-ins Total:** 354    15
-Name: count, dtype: int64
+- **Check-ins Total:** 15
 
 ## 5★ samples (Positive Reviews)
 - “This location is AWESOME, the crew was all dressed up, giving out stickers and air fresheners. The party good time vibe is super alive on Tanque Verde. Drinks were made fast, line moved fast, and everything tasted great. Will be back here again week after week, keep up the great work.”
@@ -9957,8 +9681,7 @@ Super sweet workers and amazing coffee!
 - **Attributes:** Business Accepts Credit Cards, Wheelchair Accessible, Dogs Allowed, Bike Parking
 - **Overall Rating:** 4.5
 - **Review Count:** 27
-- **Check-ins Total:** 5389    21
-Name: count, dtype: int64
+- **Check-ins Total:** 21
 
 ## 5★ samples (Positive Reviews)
 - “Went back yesterday for one of the (recurring) Sunday Game Days.  The shop looks amazing, and is now fully stocked with anything and everything you might want to purchase from a game store. (And if you are looking for something they don't have, just ask -- they can order it and/or let you know when it's back in print)  One thing i didn't realize untill yesterday is that the spacious back play area (with the 8+ tables) isn't only open during the Sunday Game Days (and "Friday Night Magic") events that they organize.  Drew & the rest of the staff encourage people to come in anytime they're open and hang out and play games -- either from the impressive library of games to try, or games you might bring from home (even if you didn't buy them at the store).”
@@ -9985,8 +9708,7 @@ They now have used boardgames! Love this shop! This is a shop for card/ board ga
 - **Attributes:** Outdoor Seating, Bike Parking, Restaurants Take Out, Business Accepts Credit Cards, Restaurants Delivery
 - **Overall Rating:** 4.5
 - **Review Count:** 175
-- **Check-ins Total:** 6445    642
-Name: count, dtype: int64
+- **Check-ins Total:** 642
 
 ## 5★ samples (Positive Reviews)
 - “Great drinks, great friendly staff, cool crowd, lots of places to study or chill or talk with friends. This is my new fave spot!”
@@ -10018,7 +9740,7 @@ Oh and it's cozy! WEnt but it was closed?   Not sure it's still in business. Ask
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 10
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I'm coming to terms with the fact that I'm not easy to please. I never would've thought that anyone could pack and move my many thousands of dollars worth of delicate studio equipment across town and at the end I'd be wearing anything but a frown but BAM! Mark and his crew absolutely slayed this move for me. Knocked it out of the park. This crew is crucial for your next move.”
@@ -10042,8 +9764,7 @@ Oh and it's cozy! WEnt but it was closed?   Not sure it's still in business. Ask
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 7
-- **Check-ins Total:** 8286    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “Maternal Grandmother's carved oak table that is about 100 years old was missing the extension leaves.  Ordered 3 red oak leaves blanks from a catalog.  Needed the pins and holes drilled.  I was willing to refinish the leaves even if the edges did not match the table.  Don came out and priced the work and included routing to match the original edge, staining and doing a finish on the three leaves.  When we went to pick it up, the stain, finish, and routing matched the table perfectly.  The price was was 1/3 or what some well advertised companies quoted.  Work was completed as promised.  Would highly recommend Furniture Medic by DB.  It is easy to find once you have their driving directions.  Our GPS got us lost.”
@@ -10067,8 +9788,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Outdoor Seating, Restaurants Take Out, Restaurants Delivery, Wheelchair Accessible
 - **Overall Rating:** 4.5
 - **Review Count:** 184
-- **Check-ins Total:** 569    441
-Name: count, dtype: int64
+- **Check-ins Total:** 441
 
 ## 5★ samples (Positive Reviews)
 - “The Scented Leaf is a fantastic local spot to grab some tea. I tried the Dirty Chai and it was great, flavorful but not too sweet. I was pleasantly surprised by the drink, sometimes Chai can be overwhelmingly sugary but this one wasn't while still being incredibly tasty. Their tea sizes are also pretty generous, their small being the same size as some competitor's medium drinks which was appreciated. They had tables outside for patio seating, hand sanitizer available, and walk up ordering inside with the doors open which was nice during COVID.”
@@ -10096,8 +9816,7 @@ Try something new. Great variety. Just a nice ambience. L Great study spot! Thei
 - **Attributes:** Bike Parking, Good For Kids
 - **Overall Rating:** 4.5
 - **Review Count:** 15
-- **Check-ins Total:** 3571    133
-Name: count, dtype: int64
+- **Check-ins Total:** 133
 
 ## 5★ samples (Positive Reviews)
 - “Breakout has a variety of ways to get you moving! Whether you are here for dance, TRX, toning, or cardio, Breakout has the classes for you. I have regularly attended DJ Dance Cardio with Todd where the energy is contagious. You won't want to stop dancing! I recently tried Open Modern and Long and Lean and will be going back for more.  When you sign up, they will add you to a listserv and send out information about new classes, schedules, and sales. I've never paid full price for classes since I started. Follow them on social media for more information about classes and sales. Life moves - move with it!”
@@ -10124,8 +9843,7 @@ Such a great dance studio. Great instructors and great dancers! Get Moving! Grea
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 11
-- **Check-ins Total:** 1516    6
-Name: count, dtype: int64
+- **Check-ins Total:** 6
 
 ## 5★ samples (Positive Reviews)
 - “I came in for a freshwater pump replacement. They not only fixed that but they found other problems and fixed them too. They always explained extensively and asked beforehand. They were extremely helpful, and they knew my Roadtrek inside out! These people are great. And considering inventory limitations because of shipping these days, they still have many parts on hand. I recommend them highly.”
@@ -10152,7 +9870,7 @@ Road trips in an RV are so much fun. They carry all the RV parts you will need!
 - **Attributes:** 
 - **Overall Rating:** 4.5
 - **Review Count:** 8
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “The best service at reasonable prices, Bill VerSchave not only came to repair our washer, but took care of the problem with our refrigerator, that another company said couldn't be fixed, that's service.  Now the other company, I'm not naming, took care of our refrigerator a couple times, the ice maker, and other issues.  We called them to fix our water dispenser, and told us that due to the fact that the hoses were behind the refrigerator door, sealed, they couldn't fix it.  Well Bill repaired the leak in the back, and when it still wouldn't work, he used a makeshift bottle, put hot water in it, squeezed it up the water spout, and like magic, it worked.  The water in that hose freezes occasionally, but now we know how to fix it, thanks to Bill.  The other company apparently are not that smart.  Bill also worked for Sears and Kristy's appliances, great guy too.  If you have any appliance issues, give him a call, you will thank me.  BTW, he fixed our washer, took the motor home, fixed the belt and belt pulley brought it back and fixed.”
@@ -10177,8 +9895,7 @@ Road trips in an RV are so much fun. They carry all the RV parts you will need!
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 5
-- **Check-ins Total:** 1209    11
-Name: count, dtype: int64
+- **Check-ins Total:** 11
 
 ## 5★ samples (Positive Reviews)
 - “Just moved to Tucson from Florida and registered my car today.  Realized  at 8 pm that I didn't have the correct tool to remove the FL plate and put the AZ plate on.  I Googled auto parts stores near me and called the closest one which was O'Riley's on Tanque Verde.  Matt answered and assured me if I went there they'd have a tool and he'd help me.  True to his word Matt was eager to assist, using tools from a tool box on their counter and didn't even charge me.  He could not have been nicer or more helpful and words cannot express my gratitude.  It was THE bright spot in my week.  You rock Matt, thank you very much!!  .   Thanks to Matt, O'Rileys has won my business for any automotive needs I have going forward.”
@@ -10205,8 +9922,7 @@ Great customer service!!!! They go over and beyond for their customers!!!
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 30
-- **Check-ins Total:** 2106    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - “This was a good deal.  Friendly, prompt service .  They got us in and out of the shop within 30 mins . We spoke to the owner and the key to the fast service is to MAKE AN APPOINTMENT!  They had our parts ready and we were done . No fuss ..great price ...good work..friendly service.”
@@ -10235,8 +9951,7 @@ A++ - great service. Very knowledgeable and professional, great prices too.
 - **Attributes:** 
 - **Overall Rating:** 4.5
 - **Review Count:** 8
-- **Check-ins Total:** 2312    10
-Name: count, dtype: int64
+- **Check-ins Total:** 10
 
 ## 5★ samples (Positive Reviews)
 - “Don't let the outside fool you--the inside is totally remodeled and looks and feels great.   Our king room with walk-in shower was spotless clean and came with all the usual amenities (shampoo, conditioner, coffee, etc.). Room was very spacious. Noise insulation was good.   It was lovely to have a balcony with mountain views, although sadly much too cold to sit outside.   Parking was a breeze.   Susannah and the rest of the staff were super nice and accommodating.   They had complimentary happy hour 5-6:30pm, although we weren't able to attend.  Regarding covid procedures, the staff was following the rules, everything felt clean, and there were reminder distancing signs posted, although some of the guests didn't seem to have gotten the memo (totally not the hotel's fault, obviously).   Breakfast was grab and go style with a lovely lady serving behind the counter. One could either sit inside/outside, but they give you a carton tray to take your items with you, too. Items included: yogurt, 3 types of fresh muffins (individually wrapped), fruit, hot and cold cereal, fruit bars, chocolate and regular milk, coffee and juices served by the lady, teas, and two hot options of either a cheese, ham and egg breakfast burrito or cheese and egg bagel. I was pretty impressed with the options, considering other places I've stayed at during covid either had given up on breakfast all together, or just did yogurt, granola and muffins to go. Only wish breakfast went a little later (ends at 9am on weekdays), but then again I was on vacation and am not a morning person ;)  Would definitely stay here again!”
@@ -10260,8 +9975,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Good For Kids, Wheelchair Accessible
 - **Overall Rating:** 4.5
 - **Review Count:** 19
-- **Check-ins Total:** 1624    5
-Name: count, dtype: int64
+- **Check-ins Total:** 5
 
 ## 5★ samples (Positive Reviews)
 - “I use Yelp all the time, but rarely write reviews.  But after visiting Wild Orchids Salon, I felt the salon really deserved it.  I am not from around this area and needed to find a salon that used the same products as back home.  When I called the salon, the receptionist was very nice and informative.  She referred me to Allie.  I felt very comfortable with Allie and loved the work she did on my hair.  Knowing I was only in the area temporarily, she easily could have done less than average work.  But this wasn't the case at all!  She went above and beyond what I had expected.  For that I was very grateful.  I was able to see her one last time before I left Tucson.  So happy I was able to leave with a positive hair experience!”
@@ -10290,8 +10004,7 @@ Call for appointmet.  Great service
 - **Attributes:** Good For Kids
 - **Overall Rating:** 4.5
 - **Review Count:** 5
-- **Check-ins Total:** 2246    19
-Name: count, dtype: int64
+- **Check-ins Total:** 19
 
 ## 5★ samples (Positive Reviews)
 - “This is one of my favorite parks to walk. The park is well kept, bathrooms are always clean, and the people who walk here are so friendly. My dog loves this park. Plus, you can play tennis,  volleyball, and use the fields.”
@@ -10315,8 +10028,7 @@ Name: count, dtype: int64
 - **Attributes:** By Appointment Only, Business Accepts Credit Cards, Accepts Insurance
 - **Overall Rating:** 4.5
 - **Review Count:** 10
-- **Check-ins Total:** 8111    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “Smile Tucson is about as good as going to the Dentist gets. It's clean, tastefully decorated, and with a friendly and professional staff. The Dental assistants and Dentists are top notch and know what they are doing, providing an efficient painless experience. I would also recommend for kids as they have a great selection of movies to keep them engaged.  Check out Smile Tucson for your next checkup!”
@@ -10340,8 +10052,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 4.5
 - **Review Count:** 25
-- **Check-ins Total:** 4373    94
-Name: count, dtype: int64
+- **Check-ins Total:** 94
 
 ## 5★ samples (Positive Reviews)
 - “I woud have to say the guy at the door is strikingly handsome. Very friendly. I notice the ring on the finger. Must be a lucky lady in his life.  The service is always exceptional. The entire staff is always so nice. Looking, buying, dreaming...doesnt matter. Great times!!”
@@ -10369,7 +10080,7 @@ Love this place!!! Always friendly service Get a charm soldered on, cleaning is 
 - **Attributes:** 
 - **Overall Rating:** 4.5
 - **Review Count:** 8
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Wonderful experience! Very thorough and wanted to make sure she had a vision of what I wanted for my hair. Relaxing atmosphere. Love my hair! Found my new salon!”
@@ -10396,8 +10107,7 @@ A bit pricey but great at what they do.
 - **Attributes:** Good For Kids, Dogs Allowed
 - **Overall Rating:** 4.5
 - **Review Count:** 350
-- **Check-ins Total:** 2139    755
-Name: count, dtype: int64
+- **Check-ins Total:** 755
 
 ## 5★ samples (Positive Reviews)
 - “I lived in Tucson fr over 33 years, and this was the second time I had been to this Museum!   The first time was WAY before social media had been invented.   I bought a two day pass (it is actually 11 dollars a day for that) , and broke up exploring the MASSIVE museum.    There is so much rich aviation history here, words just are not enough.... All branches of the military are covered here, and if you are a history buff.....you will be in heaven!   Fighter jets, HUGE transport planes, the role of females in aviation....even former White House transport planes.     Some are in hangers, some are outside but either way there are volunteers who know A LOT about these planes, and the history of them.    I left the space center and the fighter wing memorial for the second day...and that was perfect.    This hidden gem in Tucson is worth every single penny.   The gift ship has a nice selection , and they even have REAL airplane parts for sale!!”
@@ -10434,8 +10144,7 @@ The tour was wo Dog friendly. Very nice and knowledgeable staff willing to answe
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only
 - **Overall Rating:** 4.5
 - **Review Count:** 19
-- **Check-ins Total:** 5478    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “I asked friends for a recommendation and was told about Regal. They are very customer service oriented, professional, reasonably priced and do a thorough job. Bruce cleaned several area rugs and some furniture and everything looks great. I will definitely call them the next time I need anything.”
@@ -10459,8 +10168,7 @@ Name: count, dtype: int64
 - **Attributes:** Wheelchair Accessible, Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 17
-- **Check-ins Total:** 209    21
-Name: count, dtype: int64
+- **Check-ins Total:** 21
 
 ## 5★ samples (Positive Reviews)
 - “Best bird store ever ! They've got it all.. amazing hand painted locally made feeders.. as well as standard feeders, bird houses, and etc for all types of birds.  Everyone is very knowledgable and extremely helpful, everything from helping me pick out products to loading my car up.. I've never been disappointed with their excellent customer service. All their bird feed is made in house.. if you are ever in the area come in and check it out.. you might just end up walking out with something special”
@@ -10487,8 +10195,7 @@ Best bird feed store ever !
 - **Attributes:** 
 - **Overall Rating:** 4.5
 - **Review Count:** 7
-- **Check-ins Total:** 4331    7
-Name: count, dtype: int64
+- **Check-ins Total:** 7
 
 ## 5★ samples (Positive Reviews)
 - “Had no oil in my truck so I called to ask what kind I should buy. Mark talked me through it and was extremely helpful. I probably sounded really dumb, since I know nothing about cars, but he was very nice and politely answered all my questions. Now my truck has oil and is running great. Thanks Mark! :)”
@@ -10512,8 +10219,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 4.5
 - **Review Count:** 5
-- **Check-ins Total:** 839    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “Great customer service! Beautiful office! Best insurance agent in town! I really appreciated the individualized care and concern for my insurance needs.”
@@ -10540,8 +10246,7 @@ Don't have their stuff together. Amazing office and amazing staff! Best insuranc
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Good For Kids, Outdoor Seating, Restaurants Take Out, Has T V, Caters, Restaurants Delivery
 - **Overall Rating:** 4.5
 - **Review Count:** 217
-- **Check-ins Total:** 1248    312
-Name: count, dtype: int64
+- **Check-ins Total:** 312
 
 ## 5★ samples (Positive Reviews)
 - “This is hands-down the BEST sandwich shop in Tucson.  A true local spot.  I love the PBR Sammy, but you can't really go wrong with anything.  This place should be on Diners, Drive-Ins, and Dives.  Don't miss the beef sticks and the homemade horseradish pickles.  A Tucson gem, locally owned and operated, so support the hell outta them!”
@@ -10570,7 +10275,7 @@ Green chili blue cheese brats, chipotle cheddar brats, bull dogs and Saturdays s
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only
 - **Overall Rating:** 4.5
 - **Review Count:** 8
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I hired Elite Windows to help get my new home move in ready.  Not only did they do a great job, they were on time, professional and their prices were very reasonable.  I have recommended them to my friends, family and employer.  I was very satisfied with their work and will be hiring them again in the future.”
@@ -10597,8 +10302,7 @@ Professional and job well done!  Thank you Gilbert.
 - **Attributes:** By Appointment Only, Business Accepts Credit Cards, Accepts Insurance
 - **Overall Rating:** 4.5
 - **Review Count:** 7
-- **Check-ins Total:** 6751    9
-Name: count, dtype: int64
+- **Check-ins Total:** 9
 
 ## 5★ samples (Positive Reviews)
 - “I m back for cleaning and xrays. First time with dental coverage so we ll see how the bill goes. Thank you Mary for helping me stay healthy.  Condition reviewed by dr Allen and have me his stamp of approval.   Update June 2020 Back tomorrow for my cleaning by Mary.   She is so gentle. No suffering on my part.”
@@ -10625,7 +10329,7 @@ Shawn is the best hygienist , she's gentle and efficient!
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Needed new hinges on a security door after they'd rusted solid/broken the welds. Fast response (within two days the repair was complete, and on a Saturday), did a great job, even painted it. Very very reasonable rates too. It was a simple enough job but done quickly, efficiently, and with skill.”
@@ -10649,8 +10353,7 @@ Shawn is the best hygienist , she's gentle and efficient!
 - **Attributes:** Wheelchair Accessible, Business Accepts Credit Cards, By Appointment Only, Bike Parking
 - **Overall Rating:** 4.5
 - **Review Count:** 24
-- **Check-ins Total:** 5838    27
-Name: count, dtype: int64
+- **Check-ins Total:** 27
 
 ## 5★ samples (Positive Reviews)
 - “My hydrafacial was amazing! The spa space is very comfortable and inviting. The service was very professional. Thank you Zeel MedAesthetics!”
@@ -10678,8 +10381,7 @@ Best Hydrafacial ever!!! You won't find better service anywhere else. Laura and 
 - **Attributes:** Business Accepts Credit Cards, Restaurants Take Out
 - **Overall Rating:** 4.5
 - **Review Count:** 50
-- **Check-ins Total:** 3288    41
-Name: count, dtype: int64
+- **Check-ins Total:** 41
 
 ## 5★ samples (Positive Reviews)
 - “I've been using this location for all of my tire needs for the past 15 years.  I have NEVER been disappointed.  Today, they removed nails and repaired punctures on two tires. I had an appointment for 9:30, and I was on my way by 10:00-- no charge.  As has always been the case, I was greeted promptly and courteously.  All of their staff that I have ever encountered at this location exemplify professionalism, and customer focus.  I can't imagine using another source for my tire-related needs.”
@@ -10708,8 +10410,7 @@ Make an appointment, you get right in! Super friendly staff! Its refreshing to f
 - **Attributes:** Has T V, Bike Parking, Business Accepts Credit Cards, Restaurants Good For Groups
 - **Overall Rating:** 4.5
 - **Review Count:** 62
-- **Check-ins Total:** 2078    182
-Name: count, dtype: int64
+- **Check-ins Total:** 182
 
 ## 5★ samples (Positive Reviews)
 - “I'm giving 5 stars for the great customer service at OPV. All the staff have been really helpful and greet me when I come in and take the time to answer all of my questions. They even will offer you a coca-cola or water while you wait for your liquid to be made. I have been to a lot of other vapor stores in Tucson and none of them rival the quality of service here. There is a wide variety of flavors to choose from and sample. If you are new to vaping or an experienced vapor there is something here to make your experience better. If there was one thing I would recommend it would be to start selling brand name liquids in addition to the store flavors. Definitely the best shop in the area.”
@@ -10738,8 +10439,7 @@ Flew the Coop and Rootbeer are my faves! Honeydew!!!!! New flavor lemon cookie. 
 - **Attributes:** Wheelchair Accessible, Bike Parking, Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 20
-- **Check-ins Total:** 1945    7
-Name: count, dtype: int64
+- **Check-ins Total:** 7
 
 ## 5★ samples (Positive Reviews)
 - “Had my cut and style done by Edith. Loved it! She is so professional and wants nothing but the best for her client's hair. Beautiful studio and very friendly staff!   I am definitely pleased with this salon!”
@@ -10764,8 +10464,7 @@ Name: count, dtype: int64
 - **Attributes:** Good For Kids, Business Accepts Credit Cards, By Appointment Only, Bike Parking
 - **Overall Rating:** 4.5
 - **Review Count:** 13
-- **Check-ins Total:** 4710    6
-Name: count, dtype: int64
+- **Check-ins Total:** 6
 
 ## 5★ samples (Positive Reviews)
 - “Phenomenal experience here at Trenza Salon with Art Benavidez. I had a Groupon for highlights, a haircut, and styling with Art and I'm so glad I picked the right place.   It doesn't take long to realize that Art is a super friendly and outgoing guy who has so much passion for and pride in what he does. He truly is an artist and it's really fun watching him work. He knows his craft very well, is up to date with all sorts of crazy techniques, and has an eye for detail.  Starting with the consultation, Art takes the time to listen and understand what you are looking for. He really helped guide me through the process of figuring out exactly what I wanted and what would look best with my hair color.   Art did an amazing job with the coloring process. The color and highlights are so natural and blended so well; this isn't easy with Asian hair. Best yet, the color is low maintenance and will grow out very nicely without requiring root touch ups or frequent visits to the salon (don't got time for that). I had specifically requested low upkeep and he accomplished that and combined it with the look I wanted.    I was just as happy with the haircut.  He used a combination of techniques, some I had never seen before, to create long layers that brought out the highlights. Unlike other salon experiences where I had to point out certain areas that look weird after the haircut was complete, Art fixed everything without a word and did such a great job I had no complaints.    As far as the logistics go, it's super easy to book an appointment. Call or book one online.   From start to finish, the whole process took 3 hours, but it felt more like 30 minutes.  I am so happy with the outcome and the experience as a whole and can't recommend Art enough. Get your hair did with Art (snag a Groupon if available) and you won't be disappointed.   BONUS: not once was I harassed about buying extra services and products (I just dread this part about most salons).”
@@ -10792,8 +10491,7 @@ Handicapped entrance in the back
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 11
-- **Check-ins Total:** 6497    5
-Name: count, dtype: int64
+- **Check-ins Total:** 5
 
 ## 5★ samples (Positive Reviews)
 - “Store manager Yvonne was extremely friendly and helpful. She had our reservation quickly pulled up after we walked in. American Self Storage was recommended for dorm storage and the 5x5 was more than adequate for the amount of stuff I had. Highly recommend!”
@@ -10817,8 +10515,7 @@ Name: count, dtype: int64
 - **Attributes:** Wheelchair Accessible, Restaurants Good For Groups, Bike Parking, Good For Kids, Happy Hour, Business Accepts Credit Cards, Has T V
 - **Overall Rating:** 4.5
 - **Review Count:** 805
-- **Check-ins Total:** 6209    3081
-Name: count, dtype: int64
+- **Check-ins Total:** 3081
 
 ## 5★ samples (Positive Reviews)
 - “Street is an excellent build-your-own burrito/taco/etc bar that also serves a wide variety of alcoholic beverages, all great complements to their food options. Its already been said, but Street reminds me of the perfect Chipotle-style restaurant I always envision, but have never been able find.. until now.   Street shines not only because of the fresh quality of the food, but also because the food is legitimately Sonoran-style Mexican. Refried beans, spanish fried rice, street corn, al pastor, and queso fresco, all ingredients I've longed for in burrito-babies and bowls of yesteryear.   The price is literally no different than Chipotle (actually cheaper depending on your choice), yet the food feels real, it feels like Tucson. $7 will get you any burrito with your choice of meat, beans, and rice along with accompanying garnishes.  Some of their drinks may be a little steep, but in my experience $7 for a good Michelada is not unheard of. The margaritas are excellent, and who doesn't like a good variety of beer with their tacos. Chips and salsa are also complimentary, self-serve as a matter of fact.   Overall: If you're looking for high quality, fast/casual Mexican food in the downtown area, look no further. In my humble opinion, it's worth parking for. Don't pass up Street, you won't be disappointed.”
@@ -10852,8 +10549,7 @@ Excellent free chips and salsa! Great concept... nothing better than tacos and b
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 14
-- **Check-ins Total:** 7674    13
-Name: count, dtype: int64
+- **Check-ins Total:** 13
 
 ## 5★ samples (Positive Reviews)
 - “Georgia and the crew was great! I came for business and they showed my entire team 5 star treatment! I advise staying here for business and pleasure!!!!!”
@@ -10877,7 +10573,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 4.5
 - **Review Count:** 10
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Last year my son was struggling in his pre-calculus class. I contacted Varsity Tutors and within a week a tutor was assigned. Edwin was able to not just tutor but teach My son by using language and methods that were clear to understand. He passed the class and I'm convinced that Edwin was a huge reason why. Edwin was very dependable and able to adjust his schedule when needed for last minute requests. This was a very positive experience and worth the investment.”
@@ -10901,8 +10597,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Wheelchair Accessible
 - **Overall Rating:** 4.5
 - **Review Count:** 16
-- **Check-ins Total:** 6463    7
-Name: count, dtype: int64
+- **Check-ins Total:** 7
 
 ## 5★ samples (Positive Reviews)
 - “I have had two sentimental pieces of jewelry (turquoise and silver cuff bracelet and multi-stone sterling silver ring) commissioned and created by Shane, the owner and jeweler, and I am so elated about how they both turned out!   He turned my very basic yet specific ideas and desires about each piece into works of art that mean so much to me. I highly recommend Mac's for their customer service, quality, inventory, and artistic skills!!”
@@ -10929,8 +10624,7 @@ Wholesale/retail jewelry, pottery, rugs, kachinas, turquoise carvings, authentic
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 27
-- **Check-ins Total:** 6971    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “I honestly can not say how awesome these guys are.  They moved my shipment from a freight company to my home.  The shipment was 1400#. Four other companies wouldn't help me because my driveway is gravel and sloped.  Not only did they get it here, they put it in my garage and might have been the most pleasant group of guys doing really tough job in 100+ heat!!! AWESOME.  I will use them in the future and praise them to anyone who will listen.”
@@ -10958,8 +10652,7 @@ Great customer service, prompt response time, communicative and informative.
 - **Attributes:** Business Accepts Credit Cards, Restaurants Delivery, Restaurants Take Out
 - **Overall Rating:** 4.5
 - **Review Count:** 42
-- **Check-ins Total:** 6667    11
-Name: count, dtype: int64
+- **Check-ins Total:** 11
 
 ## 5★ samples (Positive Reviews)
 - “Wow! This spot is awesome! I stopped here after Sabino and I was starving. I can't believe how healthy and delicious everything was. I highly recommend!”
@@ -10983,8 +10676,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 10
-- **Check-ins Total:** 8163    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “Rob was able to come to me on a Sunday afternoon when most shops were closing or didn't have an A/C on duty that day.  He was helpful and only was looking into the best or most direct way to fix my problem...not trying to add on services or unnecessarily diagnostics, but he was thourugh with things to monitor.  Anyway, he had my A/C back up so I wasn't driving a sweat box in today's 109degree Tucson heat without having to leave my driveway.”
@@ -11008,8 +10700,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 4.5
 - **Review Count:** 13
-- **Check-ins Total:** 2992    5
-Name: count, dtype: int64
+- **Check-ins Total:** 5
 
 ## 5★ samples (Positive Reviews)
 - “They had such a beautiful selection of cacti and succulents.  They were very knowledgeable and super friendly.  Their prices are very reasonable as well. Check them out. You will not be sorry.”
@@ -11036,7 +10727,7 @@ My neighbors. Small selection.  Large ones for landscaping
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 12
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “My AC went out and I was totally panicking ! I called  Jobs and they were really helpful... someone came out that afternoon and did a full inspection... thankfully it was just a fuse. They were able to replace it on the spot and I was back in business. Very reasonable for the work, I would have had to go get a hotel if they hadn't come! Would totally recommend them and will use them again !”
@@ -11060,8 +10751,7 @@ My neighbors. Small selection.  Large ones for landscaping
 - **Attributes:** Wheelchair Accessible, Business Accepts Credit Cards, Bike Parking, Dogs Allowed
 - **Overall Rating:** 4.5
 - **Review Count:** 25
-- **Check-ins Total:** 6228    35
-Name: count, dtype: int64
+- **Check-ins Total:** 35
 
 ## 5★ samples (Positive Reviews)
 - “Unbelievable service from Trey! I went to another service shop that wanted to mail in my phone to Apple. Another customer assured me All Mobile could fix it. Trey diagnosed a hardware issue and fixed my phone in less than an hour. No new phone for me, awesome!!!”
@@ -11088,8 +10778,7 @@ Nice to work with and did a great job. Replaced my glass for less than insurance
 - **Attributes:** Wheelchair Accessible, Outdoor Seating, Restaurants Take Out, Restaurants Reservations, Business Accepts Credit Cards
 - **Overall Rating:** 4.5
 - **Review Count:** 15
-- **Check-ins Total:** 7008    8
-Name: count, dtype: int64
+- **Check-ins Total:** 8
 
 ## 5★ samples (Positive Reviews)
 - “First time at the ( very close to my house) new location.  Early Wednesday get together with any old friend.  Not very busy, service was prompt and friendly.  Airy, light, and comfortable. Good wine selection.  We split a mixed green salad and a potato white pizza.  Very kindly split salad onto to plates, not too dressed, just right.  My friend had never had a potato pizza, and is now hooked.  By the time we left, 6:30 ish, place was filling up. A great addition to our sometimes lacking array of choices in that area.  Will def bring the spouse to try the pasta.”
@@ -11113,8 +10802,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 7
-- **Check-ins Total:** 4574    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “The best bed & breakfast we've stayed in yet. Hostess Sally was a warm & engaging personality who makes your stay a memorable one. The room bright & cheerful. Outdoor shower was refreshing. The bed comfortable, & the atmosphere relaxing. Looking fwd to going back again”
@@ -11138,8 +10826,7 @@ Name: count, dtype: int64
 - **Attributes:** Good For Kids, Wheelchair Accessible, Business Accepts Credit Cards, Bike Parking, By Appointment Only
 - **Overall Rating:** 5.0
 - **Review Count:** 12
-- **Check-ins Total:** 2797    38
-Name: count, dtype: int64
+- **Check-ins Total:** 38
 
 ## 5★ samples (Positive Reviews)
 - “My son has taken classes here on and off for the past several years. We have found all of the instructors to be very nice and good with kids. The gym is large and there is a nice variety of things to do.  My son was most recently in the Tumbling and Trampoline class and though he has displayed no special tumbling talents as to lead us to believe we will be cheering him on from the stands someday in this sport at some future Olympics, his instructor Doug worked patiently and enthusiastically with him week after week as though he had a chance ;-). The most important thing is that he always had a good time and got a nice amount of exercise out of the heat. A couple of other highlights are the gym's summer camps, which my son enjoys. He's usually a smiling, sweaty mess when I pick him up, which is great. It's too hot during the summer to get that kind of exercise outside. Also, the gym has drop in times, where you can just go in and go to town inside the gym with unstructured play. They also have something called "Parent's Night Out" which is on Saturday now I believe. You can drop your kids off for three hours and they feed them dinner and entertain them for you. When I have taken my son to these in the past and get there five minutes early to pick him up, he begs to stay the last five minutes. My only complaint would be that the lobby is sometimes overly-full, but I think they've done some recent construction to remedy this.  If you have kids, it's a must try, they'll love it!”
@@ -11166,7 +10853,7 @@ They have boys gymnastics too Bring something to play with while the Tots are pr
 - **Attributes:** Wheelchair Accessible, Dogs Allowed, Business Accepts Credit Cards, Bike Parking, By Appointment Only
 - **Overall Rating:** 5.0
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Injured my back about 2 weeks ago and went in for cupping therapy. The PT experience at Heliyo is second to none. Becky did a fantastic job understanding the issues in a holistic manner. She asked the right questions to get down the root of things and explained a bit about the anatomy. All the staff are current/former athletes who have extensive training in PT. This is the differentiator when it comes to the perspective and guidance. The results were instant along with the recommendations for future recovery.”
@@ -11190,8 +10877,7 @@ They have boys gymnastics too Bring something to play with while the Tots are pr
 - **Attributes:** Business Accepts Credit Cards, Accepts Insurance
 - **Overall Rating:** 5.0
 - **Review Count:** 6
-- **Check-ins Total:** 7367    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “I'm the daughter, and sister, of a dentist, so naturally I am very picky about who takes care of my teeth. Bria Dental is a wonderful, professional practice. They make you feel like family while providing state of the art dental care. I highly recommend this office to anyone in search of a new, or better, dentist.”
@@ -11215,8 +10901,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 5.0
 - **Review Count:** 6
-- **Check-ins Total:** 3686    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - “Over the 12 years that I've been using Geri's she has earned every one of those stars. Professionalism, Promptness, Price, friendliness and she has an incredible eye for design and color. I always ask her to pick the color of thread on most of my jobs. I recommend Ger's if you want great work at a fair price.”
@@ -11243,8 +10928,7 @@ She sews patches on here too!  Getting mine done here next time...
 - **Attributes:** 
 - **Overall Rating:** 5.0
 - **Review Count:** 16
-- **Check-ins Total:** 2304    11
-Name: count, dtype: int64
+- **Check-ins Total:** 11
 
 ## 5★ samples (Positive Reviews)
 - “Staff was extremely friendly and helpful!  Frozen yogurt was good, nice variety of flavors!  Toppings were fun, too.  Ours cost about $5 each but could've been less if we'd not went crazy on toppings and amount of yogurt, lol.  We will be back, thanks Peachwave for a yummy dessert night out”
@@ -11271,8 +10955,7 @@ WiFi password: Peachy85737
 - **Attributes:** Restaurants Good For Groups, Outdoor Seating, Bike Parking, Caters, Business Accepts Credit Cards, Restaurants Take Out, Wheelchair Accessible, Good For Kids, Restaurants Delivery, Dogs Allowed
 - **Overall Rating:** 5.0
 - **Review Count:** 191
-- **Check-ins Total:** 5571    259
-Name: count, dtype: int64
+- **Check-ins Total:** 259
 
 ## 5★ samples (Positive Reviews)
 - “Tried the Coconut Curry, Green Pepper Burger, and South of the Border Wrap. The green curry was the favorite of the day, so yummy! With a flight of assorted hot sauces, I woke up the burger to my palate. You have to ask for the sauces because they come with a warning. They can be very spicy!! The smoothies were delicious as well, I loved the vanilla. Kind of like a Horchata with minor banana flavor in smoothie form, delicious! The staff was very friendly and the place is clean. Highly recommended for those following a Plant Based Diet!”
@@ -11303,7 +10986,7 @@ We also had the green goddess wrap which was very fresh. Overall a great place! 
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “The guys just left and they did a great job including my garage rugs! The tile and carpet in my house is fantastic!  Very hard workers great attitudes and very efficient! I used to have someone else but from now on I am using this company !”
@@ -11327,8 +11010,7 @@ We also had the green goddess wrap which was very fresh. Overall a great place! 
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 6
-- **Check-ins Total:** 8343    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “I live in Phoenix and was in Tucson to visit my son. My engine light came on and my gear was stalling. It was a Friday night and didn't think that I would find a reputable mechanic or one that was opened on Saturday. I called and the front desk was friendly, helpful and provided great customer service. My appointment was set at 830 and they took my car in for a diagnostic check right away. I received a comprehensive quote at a good price. The owner Scott was thorough with giving options based on budget needs. They fixed my car within 2 hours and I have confidence that I received top quality auto service with integrity and honesty. I don't trust strangers or businesses that I've not been to, however it was a very comfortable and relaxed atmosphere. Thank you Scott and Jeffrey!”
@@ -11352,8 +11034,7 @@ Name: count, dtype: int64
 - **Attributes:** Bike Parking, Wheelchair Accessible, Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 27
-- **Check-ins Total:** 2082    30
-Name: count, dtype: int64
+- **Check-ins Total:** 30
 
 ## 5★ samples (Positive Reviews)
 - “We enjoyed getting to explore this area of Tucson. Why I love where I live was an adorable little store that allowed us to take a bit of Tucson home with us.”
@@ -11377,8 +11058,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 5.0
 - **Review Count:** 13
-- **Check-ins Total:** 6802    49
-Name: count, dtype: int64
+- **Check-ins Total:** 49
 
 ## 5★ samples (Positive Reviews)
 - “I love this library. The layout is spacious and there are plenty of places throughout it to read. Everything is modern, new and well taken care of. Tons of computers, books and media (cds, videos). There are different sections, each with their own seating area, dedicated to adults, teens, and children. Even when it's full in here it never feels overcrowded. Never loud, always nice and cool (and nice and warm in winter). A book lovers refuge.”
@@ -11405,8 +11085,7 @@ Great local library A nice place to come cool down on a summer day and read a bo
 - **Attributes:** Good For Kids
 - **Overall Rating:** 5.0
 - **Review Count:** 11
-- **Check-ins Total:** 4347    30
-Name: count, dtype: int64
+- **Check-ins Total:** 30
 
 ## 5★ samples (Positive Reviews)
 - “A must do in Tucson. This hike is hard. It's worth it. Take plenty of water, don't skimp on the sunscreen and start early so you get the morning shade. Do the short trail or the long one. They're both great. The desert fauna is always beautiful.”
@@ -11433,8 +11112,7 @@ Hiking here for the first time. Looks beautiful! great trail, but it turns into 
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 13
-- **Check-ins Total:** 6275    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “Fast, friendly, affordable!  We come here for our whole family's auto needs, which is four cars  and haven't been let down yet.”
@@ -11458,8 +11136,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Good For Kids, By Appointment Only
 - **Overall Rating:** 5.0
 - **Review Count:** 13
-- **Check-ins Total:** 257    23
-Name: count, dtype: int64
+- **Check-ins Total:** 23
 
 ## 5★ samples (Positive Reviews)
 - “Les Cheveux ... each stylist is his or her own independent contractor, so the only thing I'll say about the space is it's clean, it offers free scones and coffee, and it features kinda kitschy French decor.  This review is for my stylist Niki and her assistant ... Rachel (?). I only got my hair cut yesterday. I'll get my color next week. Niki is booked out about a month, and she searched hard and magically found a color appointment for my before my trip to Los Angeles in two weeks. Now that is service.  Ok, I digress.  I love my cut. She respected my previous stylist (and friend)'s lines, and added a bit of drama in the front, just like I asked her to. There is no doubt that, after we talked, she'll do amazing things with my color, following and amending my previous stylist's formula. They both use Wella, which is great, and I'm so excited to go back to my ... roots.  Yay new stylist new town.”
@@ -11486,8 +11163,7 @@ Erin gives the best pedicures Appointments not necessary, but definitely recomme
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, By Appointment Only
 - **Overall Rating:** 5.0
 - **Review Count:** 9
-- **Check-ins Total:** 3112    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “Melissa at Zenizo is AMAZING!! I actually started going to see her almost 20 years ago and she just continues to amaze me. She has so much attention to detail and really listens to what I think I want and then makes my hair better than I thought possible. I didn't see her for a number of years because I've moved away, but after so many bad haircuts I went back to Melissa during a visit to Tucson. Thank goodness I went to see her because my hair has never been better. Now I have to figure out how to get back to Tucson more often!!”
@@ -11514,8 +11190,7 @@ Great service, Armando is the best with haircuts
 - **Attributes:** 
 - **Overall Rating:** 5.0
 - **Review Count:** 5
-- **Check-ins Total:** 1578    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “I walked in with the worst lower back pain I have ever experienced. My job requires me to wear heavy gear and carry heavy equipment. I went to see Dr Mary and just after a few weeks I was pretty much pain free. She set me up with a plan to go in twice a week, at home exercises, and which vitamins that would help support my back and muscles. I am very pleased with my progress and will continue to show up.”
@@ -11539,8 +11214,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 5.0
 - **Review Count:** 7
-- **Check-ins Total:** 331    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “Aside from the relief that comes from not having to wash diapers, and not having to stress over finding disposable diapers when supplies were low due to the pandemic, the best thing about this business is the customer service. They always communicate well and check in often, and if I need to contact them, they respond quickly to calls, texts, and emails, so it's always convenient.”
@@ -11564,8 +11238,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 6
-- **Check-ins Total:** 4817    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “I have used storage facilities all over the country. This place is one of the best. It is really well maintained. The security is excellent. Best of all, Shannon the manager, is professional, helpful and super knowledgable. Any time I had a problem she had a solution. If I have to put my things in storage again, it will be here.”
@@ -11589,8 +11262,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 5.0
 - **Review Count:** 8
-- **Check-ins Total:** 8109    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “There's nobody better than Maura with dogs AND cats.  I can't clip the nails on our kitties, but they behave perfectly for her.  She's fast, thorough and the cats are not traumatized with lots of other pet activity.  4 Paws Only is set up so that the clients are somewhat separate between the waiting area, the grooming area and the holding (for pick-up) area.  This makes for low-anxiety grooming appointments.    Maura's rates are very reasonable and every trim has been perfect (never any crushed nails or cut to the quick/bleeding).  I consider the visits to 4 Paws Only a great investment in keeping my kittie-kids happy (and my furniture healthy :-)”
@@ -11617,8 +11289,7 @@ Locally owned, friendly and helpful!
 - **Attributes:** By Appointment Only, Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 48
-- **Check-ins Total:** 8174    27
-Name: count, dtype: int64
+- **Check-ins Total:** 27
 
 ## 5★ samples (Positive Reviews)
 - “The environment and staff here are wonderful! The place is clean and serene and I was treated like someone they really wanted there and not just "the 1130 appointment."  Hands down the best massage thus nurse has ever had! On that note.... ppppssssst- nurses get a discount here!  Jessi was my therapist and she is amazing!! About a weeks ago, I had an extremely sub-par massage that I feel I wasted my money on and in no way compared to this one. Thankfully- my money was well spent today and I have already booked another appointment!”
@@ -11647,8 +11318,7 @@ By far the BEST massage I ever received.  Glenda was fabulous!  Highly recommend
 - **Attributes:** Business Accepts Credit Cards, Wheelchair Accessible
 - **Overall Rating:** 5.0
 - **Review Count:** 15
-- **Check-ins Total:** 8204    5
-Name: count, dtype: int64
+- **Check-ins Total:** 5
 
 ## 5★ samples (Positive Reviews)
 - “I went in last night to buy some naughty & nice items. The environment when you walk through those doors is very friendly & welcoming. The staff was extremely helpful & knowledgeable with information & suggestions for my purchases. I will definitely return for more items & accessories.”
@@ -11675,8 +11345,7 @@ Helpful staff! I wouldn't go anywhere else for butt stuff. Great store! Staff so
 - **Attributes:** Wheelchair Accessible, Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 5.0
 - **Review Count:** 5
-- **Check-ins Total:** 4834    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “Such an amazing gym & staff! This is a stellar company run by people who love rock climbing & giving you a good experience. I started coming here a few months ago as a complete beginner and I'm hooked! Best place to take the family or even a date”
@@ -11700,8 +11369,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only
 - **Overall Rating:** 5.0
 - **Review Count:** 12
-- **Check-ins Total:** 8274    2
-Name: count, dtype: int64
+- **Check-ins Total:** 2
 
 ## 5★ samples (Positive Reviews)
 - “Very satisfied with the whole process.  Came out for an estimate.  Once we finalized the estimate, they came back out for final measurements.  Windows ordered, arrived in about 4 weeks, and installed in a week. All of the folks we dealt with were friendly, professional, and easy to work with.  The crew came out and did what was expected.  They took care of unforeseen events quickly and without issue.  No mess left, no sign they were even there except brand new windows!  Highly recommend Olander's for you window needs.  We will be back when it's time to replace the remaining windows in our home.”
@@ -11725,7 +11393,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 5.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Karl removed a huge eucalyptus for us. It was in a tight spot, but the climber and crew were fantastic, careful and precise. They ground the stump and cleaned up very nicely. Thoroughly impressed.”
@@ -11749,8 +11417,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, Bike Parking
 - **Overall Rating:** 5.0
 - **Review Count:** 25
-- **Check-ins Total:** 3266    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - “I had two pairs of identical frames that both had the same issue.  I was worried that even though they fit great, the repair was not possible.  All American made it simple and easy.  I would highly recommended them for eyeglass needs.  They fixed my frames and did it in under a few hours!  Spread the word and make sure you call them to find out what else they can do.”
@@ -11774,8 +11441,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 5.0
 - **Review Count:** 12
-- **Check-ins Total:** 7530    41
-Name: count, dtype: int64
+- **Check-ins Total:** 41
 
 ## 5★ samples (Positive Reviews)
 - “I love San Xavier Mission!! It is so gorgeous inside!! They also have a great Mass there too!!”
@@ -11799,7 +11465,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 8
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “As a long time sufferer of shoulder pain, I am open to trying anything to help. Heard a lot about cupping, so I made an appointment. Youmi is very knowledgeable and good at explaining the issue and how she can fix it. She cupped my shoulders and did hot stone on my lower back. I feel great and much looser in the shoulders. Definitely recommend.   She is legit because she told me I would not need to come back because my result did not look that bad. Most places want you to come back again and again.”
@@ -11823,8 +11489,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only
 - **Overall Rating:** 5.0
 - **Review Count:** 10
-- **Check-ins Total:** 3634    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “Gary is great! I'm a computer consultant so I spend 12 hours a day on my computer. My right shoulder all the way down my right arm has been killing me from overusing a mouse. He helped me figure out that my arm height was too high(which caused the initial problem), then the massage he gave me has improved functionality by so much! He also gave me some pointers to help keep the injury from getting worse. It's now a month later, and I'm still feeling the results. Got a back/shoulder/arm issue? Gary is the guy to go to!”
@@ -11851,8 +11516,7 @@ If you are sore and need a health boost, go see Gary. Enough said!
 - **Attributes:** By Appointment Only, Business Accepts Credit Cards, Accepts Insurance
 - **Overall Rating:** 5.0
 - **Review Count:** 8
-- **Check-ins Total:** 3052    8
-Name: count, dtype: int64
+- **Check-ins Total:** 8
 
 ## 5★ samples (Positive Reviews)
 - “Absolutely the best!! Had a bad experience at catalina dental and my coworker recommended Dr Larsen and ive had a great experience ever since!!! He fixed the problems that i was aware of including the ones i wasnt aware of!! Great office staff and hes great at what he does!!”
@@ -11879,8 +11543,7 @@ Morning appointments usually go faster. Afternoon seems busier.
 - **Attributes:** Wheelchair Accessible, Bike Parking, Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 26
-- **Check-ins Total:** 8229    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “12 Stars!  I've had many massages but none like at Ma Thai.  Siri was amazing.  Is it possible to feel relaxed and energized at the same time?  I say yes!  Everything abut the establishment and the thera is first rate.  And the fact that I got an appointment the same say was amazing.  I will be back many times.  Whether it's stress, injury, or whatever ails you, Ma Thai is the place to go!”
@@ -11904,8 +11567,7 @@ Name: count, dtype: int64
 - **Attributes:** Restaurants Take Out, Restaurants Delivery
 - **Overall Rating:** 5.0
 - **Review Count:** 11
-- **Check-ins Total:** 7459    4
-Name: count, dtype: int64
+- **Check-ins Total:** 4
 
 ## 5★ samples (Positive Reviews)
 - “Amazing food and excellent service!  Asada right off the grill.  The sides and sauce bar is awesome!  We will definitely be back.”
@@ -11932,8 +11594,7 @@ Great place to have breakfast. Not the best looking but the food is awesome Amaz
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, By Appointment Only
 - **Overall Rating:** 5.0
 - **Review Count:** 9
-- **Check-ins Total:** 4466    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “Elaine Pichet is an amazing permanent makeup artist. When I first went to Elaine, I was a bit nervous about having this kind of work done.  My fears were allayed almost immediately as she is such a warm and caring individual as well as being totally professional.   She truly is an artist.  I not only wound up doing my eyebrows, but went back and had my eyeliner done shortly thereafter.     The results were remarkable and actually better than I could have imagined.  Parts of my eyebrows had thinned and disappeared over the years.  It is virtually impossible now for anyone to know the difference.  I never need to draw them in each day as I was doing and no longer worry that part would be missing as the day wore on.  Additionally, my eyeliner is pretty impressive.  I was never able to apply eyeliner well and now I don't have to do it at all!  I wake up each day and it is one less thing to think about or even consider.   She did a beautiful job.  Elaine is a rarity and Tucson is fortunate to have someone of her caliber.”
@@ -11957,7 +11618,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 9
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “We are coming out of the shut-downs of COVID-19 and we really couldn't have done it so well without Tread Lightly! During the early phases we made to use the low volume of take-out only to clean the main floors of our establishment. It was the perfect time to do that deep clean that every business needs.   Since re-opening, Tread Lightly is helping us look our best with the higher-than-normal traffic which brings higher than normal finger smudges on windows, dirty grout, and overall a greater need for upkeep. Over the past 5 years I can honestly say:  -Tread Lightly has been there for us, honest, trustworthy, and reliable -Their integrity leaves us feeling good on the inside and sparkling clean on the outside -They support local; they shop with us and I know keeping things local is important to them -We have NEVER considered switching to another service as they NEVER underperform -They are so accommodating to our needs, even buying equipment specific to our establishment -Every, single time they go the extra mile  Without a doubt, Tread Lightly keeps our business in top shape! People leave reviews about our cleanliness. The grout isn't grungy even after daily mopping. Tread Lightly makes it look new. Our refrigerators are in top shape and running at peak performance with the routine cleaning of the coils which is vital when your business offers 700+ cold varieties of beverages. The ceiling fans, lightbulbs, bathroom vents, sidewalks, tile, windows, etc., are all expertly cleaned without affecting our normal business hours.   Tread Lightly works days and nights to accommodate our hours. They have a key and security code to our business. They are responsive to our communications, changing demands of our business, and offer competitive pricing. There is only so much our regular staff can do; they aren't cleaning experts, they simply keep up on regular daily cleaning. We need Tread Lightly for that deep clean which our customers notice, they TELL US that they notice how clean our business is. Tread Lightly gets the credit for that!”
@@ -11984,7 +11645,7 @@ Best carpet cleaning business ever. Awesome staff. Amazing job. They were so qui
 - **Attributes:** 
 - **Overall Rating:** 5.0
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I was SO excited a few months ago when I Googled "pilates near Oro Valley" and saw Club Pilates pop up on the map near the Trader Joe's. I had been wanting to do reformer pilates, but some of the places around town are charging nearly 300.00 a MONTH. I soon learned that they would not be open for a few months, but signed up for a membership as soon as it became available - and was quite happy to find that their prices were very reasonable. After months of anticipation I have to say that it was worth that wait! I have taken five classes with them thus far and have found them to be fun, engaging, and challenging in a whole new way (without making me feel totally wiped out). The equipment is top of the line, and there are so many different pieces to work on (the reformer, mat, cables, exercise balls, Pilates ring, etc) that you never get the same work out twice. Camile is a fabulous instructor, very attentive and sensitive to the needs of each person in the class. She is SO good at what she does! You still feel like you get one on one attention even if there are ten other people in the room - she always checks in with people to see if they need more or less work so you get the work out toy want. She also makes sure people are exercising safely and that they are comfortable in the class. Again, this place is VERY reasonable compared to most Pilates (especially reformer based Pilates) places around town. Reformer pilates is more expensive than most other types of fitness classes, but the cost of the equipment, small class sizes, and extensive training of the instructors makes it worth it. Pilates will make you stand taller, and will give you killer abs and long, toned legs! So glad I joined Club Pilates.”
@@ -12008,8 +11669,7 @@ Best carpet cleaning business ever. Awesome staff. Amazing job. They were so qui
 - **Attributes:** Bike Parking, Wheelchair Accessible, Dogs Allowed, Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 5
-- **Check-ins Total:** 4233    12
-Name: count, dtype: int64
+- **Check-ins Total:** 12
 
 ## 5★ samples (Positive Reviews)
 - “Legit record store. They have a very old school vibe. The owner is pretty cool and very knowledgeable when it comes to many different types of music. A++ to this place”
@@ -12036,7 +11696,7 @@ It is a nice little antique shop    Had a nice variety of vinyl
 - **Attributes:** By Appointment Only, Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Luigi goes out of his way to get the job done. Pleasant, helpful and great on follow up.”
@@ -12060,7 +11720,7 @@ It is a nice little antique shop    Had a nice variety of vinyl
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 6
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I can't thank Abbey Funeral Chapel enough for helping me through the days after my mom passed away. I had no idea what to do and they professionally, friendly and sympathetically guided me through the process. I would definitely recommend using Abbey Funeral Chapel.”
@@ -12084,7 +11744,7 @@ It is a nice little antique shop    Had a nice variety of vinyl
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Wheelchair Accessible
 - **Overall Rating:** 5.0
 - **Review Count:** 9
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Persian Garden is my signature scent.  The company is wonderful and they always send hand written notes in my orders to thank me.  I will be a life long customer!  -Cori”
@@ -12111,7 +11771,7 @@ Quite a range of products
 - **Attributes:** 
 - **Overall Rating:** 5.0
 - **Review Count:** 9
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “I just finished closing my house last week! Rolando Diaz was amazing! We started with a general meet and greet, so to speak. We looked at my credit and started with a basic plan of things I needed to gather and have ready for when I found my house. After I found the house I came back and started the process in ernest. We went over a list of all the items that were needed and tasks to be accomplished. With constant communication, we had everything to the underwriters and had the stipulations submitted and the loan was funded and closed on the exact day Rolando told me when we first started. It all happened within 30 days!!! I cannot express how blessed and grateful I am for Rolando and the Guild team for their help and effort to get this mission completed!! They made me feel that I was important and not just another job to do. I cannot say how much this means, and will always come back to Rolando for all my mortgage needs!!”
@@ -12135,8 +11795,7 @@ Quite a range of products
 - **Attributes:** 
 - **Overall Rating:** 5.0
 - **Review Count:** 7
-- **Check-ins Total:** 2379    1
-Name: count, dtype: int64
+- **Check-ins Total:** 1
 
 ## 5★ samples (Positive Reviews)
 - “I absolutely LOVE this place! Trish is an amazing instructor - I feel like I have improved leaps and bounds in just 10 sessions with her. She helped me achieve basically all of my dream pole tricks, including stuff I thought was WAY off in the horizon for me. She pushes you just enough out of your comfort zone to get you to do amazing things, but never too hard and always keeps safety in mind. She will also work with you on whatever your goals are. The studio itself is also really cute, and has a bunch of poles with different sizes, both spinning and static, as well as a lollipop pole/hoop that was also fun to play with. Her rates are super reasonable for private lessons, which are worth every penny. If you're on the fence about trying out the private lessons, DO IT. It's awesome to have such an individualized experience and I cannot emphasize enough how much quicker I was able to improve with her private lessons compared to when I've taken group lessons elsewhere in the past.”
@@ -12163,8 +11822,7 @@ Military discount is available at about 10%
 - **Attributes:** Business Accepts Credit Cards, By Appointment Only, Good For Kids, Wheelchair Accessible, Bike Parking
 - **Overall Rating:** 5.0
 - **Review Count:** 55
-- **Check-ins Total:** 7999    27
-Name: count, dtype: int64
+- **Check-ins Total:** 27
 
 ## 5★ samples (Positive Reviews)
 - “It all started out when I went to Gadabout for my regular cut and dye... it was a disaster, my regular guy (going to not name him due to respect and he was a good stylist the other times) had completely messed up my cut and didn't listen to my any of requests. I decided to look for a place to get the dye of my wants and I found Ajia on yelp, my father called and we went in for a consultation for the color treatment and she was super helpful! We came back in the next few days and I explained in detail of what I wanted and Ajia knew EXACTLY what I wanted without me having to show a picture! She helped me out and gave me the hair I wanted and needed!  Going to be coming back here for sure!”
@@ -12192,8 +11850,7 @@ Barb is amazing! Tish Daly is making my hair beautiful again. She is with hair a
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 16
-- **Check-ins Total:** 4823    6
-Name: count, dtype: int64
+- **Check-ins Total:** 6
 
 ## 5★ samples (Positive Reviews)
 - “I highly recommend Flooring Direct. My mom and I were shopping for flooring for her home and just happened to stop in the Speedway store. David was both knowledgeable and tremendously helpful. He gave us a quote that was on budget. He was even able to arrange remodeling of my mom's kitchen, painting and the installation of a new bathroom vanity complete with tiled backsplash. As my mom is in her 80's and I was traveling, he had people come in and pack up my mom's house. He resolved other issues created by my travel schedule including picking up the reset lights that I forgot to get. The work was started and completed on schedule, and he sent in a crew to completely clean the house for my mom's return. The floors, kitchen and bath look spectacular! And throughout, David was a gem to work with going above and beyond to resolve all issues. He proved to be a man of his word and one who truly cares about a job well done. Again, the highest of recommendations for Flooring Direct.”
@@ -12217,7 +11874,7 @@ Name: count, dtype: int64
 - **Attributes:** Business Accepts Credit Cards
 - **Overall Rating:** 5.0
 - **Review Count:** 7
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “If you are looking for the most professional and creative team to capture that special day stop here and hire Steven and Alisha. I am going to keep it short because there is nothing bad to say. From the start of hiring until the final delivery of pictures everything was carefully planned and executed with precision (awesome). The price is right, the quality of pictures is outstanding. The fun they had taking our pictures was memorable and the fun we had giving them poses is unforgettable. Our wedding memories will continue on for a long time. A very happy couple....the photographers and bride and groom. :) Thank you!”
@@ -12241,7 +11898,7 @@ Name: count, dtype: int64
 - **Attributes:** 
 - **Overall Rating:** 5.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Racey's does high-quality work! Highly recommended! I have had a water heater and three toilets installed by Racy's in the last three years. Excellent service!”
@@ -12268,8 +11925,7 @@ Racey's does high-quality work! Highly recommended?
 - **Attributes:** Good For Kids
 - **Overall Rating:** 5.0
 - **Review Count:** 5
-- **Check-ins Total:** 7548    7
-Name: count, dtype: int64
+- **Check-ins Total:** 7
 
 ## 5★ samples (Positive Reviews)
 - “Nestled way back off the beaten path is this little gem of a museum. This wonderful toy train museum is a charitable, non-profit organization that is run and supported entirely by volunteers. Their website says it best: "We are dedicated to the hobby of model railroading providing the public with interactive displays and models." When you first walk in you met with a vast room of trains moving along the tracks: Models of all gauges and sizes. Tooting their whistles and puffing their smoke. Kids of all ages hovering closely as each locomotive makes its way around the room. On the walls you will find displays of historic models dating back to the early 20th century.  The gift shop has wonderful items for sale and every time you buy from them you support this wonderful organization. Walk outside and climb up into an authentic Rio Grande caboose. A docent is there to answer your questions. They even have a small railroad running  the perimeter of the building. The museum is only open on the 2nd and 4th Sundays of the month from 12:30 to 4:30. Special group tours are available by calling Ray Mason at 520-790-0337. Admission is FREE but donations are so very welcome.  So grab the kids and head on over to this museum and spend a few hours enjoying the world of trains!”
@@ -12296,7 +11952,7 @@ Free, donations suggested. And no sales tax on gift shop trains!
 - **Attributes:** 
 - **Overall Rating:** 5.0
 - **Review Count:** 5
-- **Check-ins Total:** Series([], Name: count, dtype: int64)
+- **Check-ins Total:** N/A
 
 ## 5★ samples (Positive Reviews)
 - “Incredible "customer service".  Danny immediately responded to my call, showed up within 24 hours, and wore a mask.  Thank you for caring. Caring - that was the impression I got from Danny: caring for people, caring for the trees and desert plants, caring for the environment.   Danny is certified arborist who answered our many questions about trees on the property, and when not 100% certain, found the answers we posed within minutes.  He also gave us direction in next steps in constructing a wall and gate on the front of the property.  I found him to be knowledgable, professional, and easy-going.  I plan to use the services of Made in the Shade Environmental as we move forward with this project.”
@@ -12320,8 +11976,7 @@ Free, donations suggested. And no sales tax on gift shop trains!
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Wheelchair Accessible
 - **Overall Rating:** 5.0
 - **Review Count:** 47
-- **Check-ins Total:** 4985    107
-Name: count, dtype: int64
+- **Check-ins Total:** 107
 
 ## 5★ samples (Positive Reviews)
 - “The ladies at the front desk were really polite and helpful. I did the basic spray tan at a medium level. I've only had a spray tan once and it was with someone using an airbrush. I was delighted to find out that it was done in a machine, where I had some privacy! You get your own little room where you can undress and apply lotion, etc. The price was very reasonable and I was very pleased with the results! Will be returning when I'm back in town.”
@@ -12348,8 +12003,7 @@ Great place for a spray tan Great place! Make sure to come here 2-3 days before 
 - **Attributes:** Business Accepts Credit Cards, Bike Parking, Wheelchair Accessible
 - **Overall Rating:** 5.0
 - **Review Count:** 18
-- **Check-ins Total:** 6409    3
-Name: count, dtype: int64
+- **Check-ins Total:** 3
 
 ## 5★ samples (Positive Reviews)
 - “I had such a wonderful experience working with Katrina at Bravo. Bra shopping has always seemed to be a nightmare for me, until now! She was so knowledgable and helped me find the perfect fit. Great customer service along with great products equals one big win for me. SO happy I finally went (was recommended by a friend)- I will most definitely encourage all of the women in my life to go to Bravo!”
@@ -12376,8 +12030,7 @@ Great for women with large cup sizes. They have a huge variety in store to try o
 - **Attributes:** Business Accepts Credit Cards, Wheelchair Accessible
 - **Overall Rating:** 5.0
 - **Review Count:** 11
-- **Check-ins Total:** 2952    6
-Name: count, dtype: int64
+- **Check-ins Total:** 6
 
 ## 5★ samples (Positive Reviews)
 - “I cannot believe I bought bird feeders! Actually I was here to buy a gift and the saleswoman knew her info about birds, how to sell, maintain humor and before I knew it I was the proud owner of bird seed and holders! Now if the birds would soon discover it at my home, I would be so very, very happy! Great service here with a smile!”
@@ -12404,8 +12057,7 @@ Masks required as of 11 June 2021.  If that's not your thing, this isn't your pl
 - **Attributes:** Business Accepts Credit Cards, Wheelchair Accessible, Bike Parking
 - **Overall Rating:** 5.0
 - **Review Count:** 9
-- **Check-ins Total:** 972    5
-Name: count, dtype: int64
+- **Check-ins Total:** 5
 
 ## 5★ samples (Positive Reviews)
 - “Love this place!, The best market you can ever got too honestly! I'm always going to go back (: the workers are awesome and sooo helpful! MUCHAS GRACIAS”
