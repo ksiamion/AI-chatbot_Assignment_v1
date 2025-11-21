@@ -1,6 +1,7 @@
 streamlit
 requests
 langchain
+langchain_core
 langchain-google-genai
 langchain-community
 faiss-cpu
